@@ -1,0 +1,694 @@
+- generic [ref=e2]:
+  - navigation "เมนูหลัก" [ref=e3]:
+    - generic [ref=e4]:
+      - link "MIXLAB MIX & MASTERING ACADEMY" [ref=e5] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=e6]: MIXLAB
+        - generic [ref=e7]: MIX & MASTERING ACADEMY
+      - generic [ref=e8]:
+        - link "หน้าแรก" [ref=e9] [cursor=pointer]:
+          - /url: "#/"
+        - link "แดชบอร์ด" [ref=e10] [cursor=pointer]:
+          - /url: "#/dashboard"
+        - link "หลักสูตร 7 วัน" [ref=e11] [cursor=pointer]:
+          - /url: "#/curriculum"
+        - link "Sound Lab" [ref=e12] [cursor=pointer]:
+          - /url: "#/lab"
+        - link "พจนานุกรม" [ref=e13] [cursor=pointer]:
+          - /url: "#/glossary"
+        - link "แบบทดสอบ" [ref=e14] [cursor=pointer]:
+          - /url: "#/quiz"
+        - link "อ้างอิง" [ref=e15] [cursor=pointer]:
+          - /url: "#/references"
+      - generic [ref=e16]:
+        - button "TEACHER OFF" [active] [ref=e1656] [cursor=pointer]
+        - button "▶ เคลื่อนไหว" [ref=e18] [cursor=pointer]
+  - generic [ref=e20]: MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK • MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK •
+  - main [ref=e3132]:
+    - heading "แบบทดสอบ — รวม 56 ข้อ" [level=2] [ref=e3134]
+    - generic [ref=e3135]:
+      - progressbar "ความคืบหน้า 0%" [ref=e3137]
+      - strong [ref=e3138]: 0%
+      - generic [ref=e3139]: ตอบแล้ว 0/56 ข้อ • ถูก 0 ข้อ (นับเฉพาะข้อที่ตรวจแล้ว)
+    - tablist "กรองตามวัน" [ref=e3140]:
+      - tab "ทั้งหมด" [selected] [ref=e3141] [cursor=pointer]
+      - tab "DAY 1" [ref=e3142] [cursor=pointer]
+      - tab "DAY 2" [ref=e3143] [cursor=pointer]
+      - tab "DAY 3" [ref=e3144] [cursor=pointer]
+      - tab "DAY 4" [ref=e3145] [cursor=pointer]
+      - tab "DAY 5" [ref=e3146] [cursor=pointer]
+      - tab "DAY 6" [ref=e3147] [cursor=pointer]
+      - tab "DAY 7" [ref=e3148] [cursor=pointer]
+    - paragraph [ref=e3149]: แสดง 56 ข้อ (ทุกวัน) • ตอบผิดไม่เป็นไร อ่านเฉลยเหตุผลทุกข้อแล้วกดลิงก์ทบทวนบทเรียน
+    - generic [ref=e3150]:
+      - generic [ref=e3151]:
+        - generic [ref=e3153]: multiple-choice
+        - generic [ref=e3154]: DAY 1
+      - paragraph [ref=e3155]:
+        - strong [ref=e3156]: 1. ข้อใดอธิบายความถี่ (Frequency) ได้ถูกต้องที่สุด?
+      - generic [ref=e3157]:
+        - button "ความดังของเสียง มีหน่วยเป็นเดซิเบล" [ref=e3158] [cursor=pointer]
+        - button "จำนวนรอบการสั่นต่อวินาที มีหน่วยเป็นเฮิรตซ์ (Hz)" [ref=e3159] [cursor=pointer]
+        - button "ระยะเวลาของเสียงสะท้อนในห้อง" [ref=e3160] [cursor=pointer]
+        - button "ความกว้างของภาพสเตอริโอ" [ref=e3161] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3162] [cursor=pointer]
+    - generic [ref=e3163]:
+      - generic [ref=e3164]:
+        - generic [ref=e3166]: ถูก / ผิด
+        - generic [ref=e3167]: DAY 1
+      - paragraph [ref=e3168]:
+        - strong [ref=e3169]: 2. เสียงที่ดังกว่า (เปิดวอลลุ่มสูงกว่า) จะฟังดูดีกว่าเสมอ แม้เป็นมิกซ์เดียวกัน
+      - generic [ref=e3170]:
+        - button "ถูก" [ref=e3171] [cursor=pointer]
+        - button "ผิด" [ref=e3172] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3173] [cursor=pointer]
+    - generic [ref=e3174]:
+      - generic [ref=e3175]:
+        - generic [ref=e3177]: multiple-choice
+        - generic [ref=e3178]: DAY 1
+      - paragraph [ref=e3179]:
+        - strong [ref=e3180]: 3. แอมพลิจูด (Amplitude) สัมพันธ์กับสิ่งที่เราได้ยินอย่างไร?
+      - generic [ref=e3181]:
+        - button "ยิ่งแอมพลิจูดมาก ยิ่งรู้สึกว่าดังมาก" [ref=e3182] [cursor=pointer]
+        - button "ยิ่งแอมพลิจูดมาก ยิ่งรู้สึกว่าแหลมมาก" [ref=e3183] [cursor=pointer]
+        - button "แอมพลิจูดกำหนดความยาวรีเวิร์บ" [ref=e3184] [cursor=pointer]
+        - button "แอมพลิจูดกำหนดตำแหน่งแพน" [ref=e3185] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3186] [cursor=pointer]
+    - generic [ref=e3187]:
+      - generic [ref=e3188]:
+        - generic [ref=e3190]: multiple-choice
+        - generic [ref=e3191]: DAY 1
+      - paragraph [ref=e3192]:
+        - strong [ref=e3193]: 4. Phase cancellation เกิดขึ้นเมื่อใด?
+      - generic [ref=e3194]:
+        - button "เมื่อเปิดเสียงดังเกิน 0 dBFS" [ref=e3195] [cursor=pointer]
+        - button "เมื่อคลื่นสองลูกมาตรงกันข้ามเฟสจนหักล้างกัน เสียงบางหรือหาย" [ref=e3196] [cursor=pointer]
+        - button "เมื่อใช้รีเวิร์บยาวเกินไป" [ref=e3197] [cursor=pointer]
+        - button "เมื่อแพนเสียงไปด้านใดด้านหนึ่งสุด" [ref=e3198] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3199] [cursor=pointer]
+    - generic [ref=e3200]:
+      - generic [ref=e3201]:
+        - generic [ref=e3203]: วิเคราะห์สถานการณ์
+        - generic [ref=e3204]: DAY 1
+      - paragraph [ref=e3205]:
+        - strong [ref=e3206]: 5. มิกซ์ของคุณทุกแทร็กเฟเดอร์ดันเกือบสุด บัสมาสเตอร์ขึ้นแดงตลอด ควรทำสิ่งใดก่อน?
+      - generic [ref=e3207]:
+        - button "ใส่ลิมิตเตอร์แรงๆ ที่มาสเตอร์" [ref=e3208] [cursor=pointer]
+        - button "ลด Master fader ลงอย่างเดียว" [ref=e3209] [cursor=pointer]
+        - 'button "ทำ Gain Staging ใหม่: ลดทุกแทร็กให้พีคอยู่ราว -12 ถึง -6 dBFS แล้วค่อยมิกซ์" [ref=e3210] [cursor=pointer]'
+      - button "ตรวจคำตอบ" [disabled] [ref=e3211] [cursor=pointer]
+    - generic [ref=e3212]:
+      - generic [ref=e3213]:
+        - generic [ref=e3215]: multiple-choice
+        - generic [ref=e3216]: DAY 1
+      - paragraph [ref=e3217]:
+        - strong [ref=e3218]: 6. Headroom คืออะไร?
+      - generic [ref=e3219]:
+        - button "พื้นที่ว่างระหว่างระดับสัญญาณสูงสุดกับจุดคลิป (0 dBFS)" [ref=e3220] [cursor=pointer]
+        - button "จำนวนแทร็กสูงสุดที่ FL เปิดได้" [ref=e3221] [cursor=pointer]
+        - button "ความยาวของพรีดีเลย์ในรีเวิร์บ" [ref=e3222] [cursor=pointer]
+        - button "หน่วยวัดความดังแบบ LUFS" [ref=e3223] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3224] [cursor=pointer]
+    - generic [ref=e3225]:
+      - generic [ref=e3226]:
+        - generic [ref=e3228]: multiple-choice
+        - generic [ref=e3229]: DAY 1
+      - paragraph [ref=e3230]:
+        - strong [ref=e3231]: 7. ค่าใดเหมาะเป็นจุดเริ่มต้น Gain Staging ของแทร็กทั่วไป?
+      - generic [ref=e3232]:
+        - button "พีคชน 0 dBFS พอดี" [ref=e3233] [cursor=pointer]
+        - button "พีคราว -12 ถึง -6 dBFS ต่อแทร็ก" [ref=e3234] [cursor=pointer]
+        - button "RMS อยู่ที่ 0 dBFS" [ref=e3235] [cursor=pointer]
+        - button "เฟเดอร์ต้องอยู่ที่ 0 dB เสมอ" [ref=e3236] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3237] [cursor=pointer]
+    - generic [ref=e3238]:
+      - generic [ref=e3239]:
+        - generic [ref=e3241]: ถูก / ผิด
+        - generic [ref=e3242]: DAY 1
+      - paragraph [ref=e3243]:
+        - strong [ref=e3244]: 8. การตั้งชื่อแทร็ก จัดสี และจัด Playlist ใน FL Studio ไม่มีผลต่อคุณภาพเสียง จึงไม่จำเป็นต้องทำ
+      - generic [ref=e3245]:
+        - button "ถูก" [ref=e3246] [cursor=pointer]
+        - button "ผิด" [ref=e3247] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3248] [cursor=pointer]
+    - generic [ref=e3249]:
+      - generic [ref=e3250]:
+        - generic [ref=e3252]: multiple-choice
+        - generic [ref=e3253]: DAY 2
+      - paragraph [ref=e3254]:
+        - strong [ref=e3255]: 9. ค่า Q ใน EQ หมายถึงอะไร?
+      - generic [ref=e3256]:
+        - button "ความดังรวมของเพลง" [ref=e3257] [cursor=pointer]
+        - button "ความแคบ/กว้างของย่านที่ EQ กระทบ ยิ่ง Q สูงยิ่งแคบ" [ref=e3258] [cursor=pointer]
+        - button "ความชันของฟิลเตอร์ low-pass" [ref=e3259] [cursor=pointer]
+        - button "เวลาหน่วงของคอมเพรสเซอร์" [ref=e3260] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3261] [cursor=pointer]
+    - generic [ref=e3262]:
+      - generic [ref=e3263]:
+        - generic [ref=e3265]: ถูก / ผิด
+        - generic [ref=e3266]: DAY 2
+      - paragraph [ref=e3267]:
+        - strong [ref=e3268]: 10. มีตัวเลข EQ สำเร็จรูป (เช่น บูสต์ 3kHz ทุกเสียงร้อง) ที่ใช้ได้ดีกับทุกเพลง
+      - generic [ref=e3269]:
+        - button "ถูก" [ref=e3270] [cursor=pointer]
+        - button "ผิด" [ref=e3271] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3272] [cursor=pointer]
+    - generic [ref=e3273]:
+      - generic [ref=e3274]:
+        - generic [ref=e3276]: multiple-choice
+        - generic [ref=e3277]: DAY 2
+      - paragraph [ref=e3278]:
+        - strong [ref=e3279]: 11. Masking คืออะไร?
+      - generic [ref=e3280]:
+        - button "เสียงหนึ่งกลบอีกเสียงหนึ่งในย่านความถี่เดียวกันจนฟังไม่ชัด" [ref=e3281] [cursor=pointer]
+        - button "การซ่อนแทร็กใน Playlist" [ref=e3282] [cursor=pointer]
+        - button "การดither ตอน export" [ref=e3283] [cursor=pointer]
+        - button "การกลับเฟสไมค์" [ref=e3284] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3285] [cursor=pointer]
+    - generic [ref=e3286]:
+      - generic [ref=e3287]:
+        - generic [ref=e3289]: วิเคราะห์สถานการณ์
+        - generic [ref=e3290]: DAY 2
+      - paragraph [ref=e3291]:
+        - strong [ref=e3292]: 12. กีตาร์โปร่งกลบเสียงร้อง ทั้งคู่เด่นที่ 3 kHz คุณควรทำอย่างไรก่อน?
+      - generic [ref=e3293]:
+        - button "บูสต์เสียงร้องที่ 3 kHz อีก +6 dB" [ref=e3294] [cursor=pointer]
+        - button "ลด (cut) กีตาร์ลง 2–3 dB ที่ย่านชน แล้วฟังว่าเสียงร้องชัดขึ้นไหม" [ref=e3295] [cursor=pointer]
+        - button "ใส่รีเวิร์บให้ทั้งคู่เยอะๆ" [ref=e3296] [cursor=pointer]
+        - button "แพนทั้งคู่ไว้กลางเหมือนเดิมแล้วดันเฟเดอร์" [ref=e3297] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3298] [cursor=pointer]
+    - generic [ref=e3299]:
+      - generic [ref=e3300]:
+        - generic [ref=e3302]: multiple-choice
+        - generic [ref=e3303]: DAY 2
+      - paragraph [ref=e3304]:
+        - strong [ref=e3305]: 13. การใช้ High-pass filter ที่ถูกต้องคือข้อใด?
+      - generic [ref=e3306]:
+        - button "ตัดทุกอย่างต่ำกว่า 100 Hz ในทุกแทร็กเสมอ" [ref=e3307] [cursor=pointer]
+        - button "ตัดเสียงต่ำที่ไม่จำเป็นของแต่ละเครื่องดนตรี ฟังไปด้วยว่าเนื้อเสียงไม่บางลง" [ref=e3308] [cursor=pointer]
+        - button "ใช้แทนการลดเกนได้ทุกกรณี" [ref=e3309] [cursor=pointer]
+        - button "ห้ามใช้กับ kick และ bass เด็ดขาด" [ref=e3310] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3311] [cursor=pointer]
+    - generic [ref=e3312]:
+      - generic [ref=e3313]:
+        - generic [ref=e3315]: ถูก / ผิด
+        - generic [ref=e3316]: DAY 2
+      - paragraph [ref=e3317]:
+        - strong [ref=e3318]: 14. Slope 24 dB/oct ตัดชันกว่า 12 dB/oct ที่ความถี่จุดตัดเดียวกัน
+      - generic [ref=e3319]:
+        - button "ถูก" [ref=e3320] [cursor=pointer]
+        - button "ผิด" [ref=e3321] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3322] [cursor=pointer]
+    - generic [ref=e3323]:
+      - generic [ref=e3324]:
+        - generic [ref=e3326]: multiple-choice
+        - generic [ref=e3327]: DAY 2
+      - paragraph [ref=e3328]:
+        - strong [ref=e3329]: 15. เมื่อใดควรพิจารณาใช้ Dynamic EQ แทน EQ ปกติ?
+      - generic [ref=e3330]:
+        - button "เมื่อปัญหาย่านนั้นโผล่มาเฉพาะบางจังหวะ (เช่น เสียง ซ ซ เป็นบางคำ)" [ref=e3331] [cursor=pointer]
+        - button "เมื่อต้องการตัดไฟ 50 Hz hum ตลอดเพลง" [ref=e3332] [cursor=pointer]
+        - button "เมื่อต้องการ high-pass ถาวร" [ref=e3333] [cursor=pointer]
+        - button "เมื่อต้องการบูสต์กว้างๆ ตลอดเพลง" [ref=e3334] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3335] [cursor=pointer]
+    - generic [ref=e3336]:
+      - generic [ref=e3337]:
+        - generic [ref=e3339]: วิเคราะห์สถานการณ์
+        - generic [ref=e3340]: DAY 2
+      - paragraph [ref=e3341]:
+        - strong [ref=e3342]: 16. บูสต์ EQ ไป +8 dB แล้วรู้สึกว่าเสียงดีขึ้น วิธีตรวจสอบที่ซื่อสัตย์ที่สุดคือ?
+      - generic [ref=e3343]:
+        - button "บูสต์ต่อจนพอใจ" [ref=e3344] [cursor=pointer]
+        - 'button "ทำ level-matched A/B: ปรับ output gain ชดเชยแล้ว bypass เทียบว่าเสียงดีขึ้นจริงหรือแค่ดังขึ้น" [ref=e3345] [cursor=pointer]'
+        - button "ถามเพื่อนโดยเปิดเฉพาะเวอร์ชันใหม่" [ref=e3346] [cursor=pointer]
+        - button "ดูกราฟว่าสวยแล้วพอ" [ref=e3347] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3348] [cursor=pointer]
+    - generic [ref=e3349]:
+      - generic [ref=e3350]:
+        - generic [ref=e3352]: multiple-choice
+        - generic [ref=e3353]: DAY 3
+      - paragraph [ref=e3354]:
+        - strong [ref=e3355]: 17. Threshold ของคอมเพรสเซอร์ทำหน้าที่อะไร?
+      - generic [ref=e3356]:
+        - button "กำหนดอัตราส่วนการกด" [ref=e3357] [cursor=pointer]
+        - button "กำหนดระดับที่เมื่อสัญญาณเกินแล้วคอมเพรสเซอร์เริ่มทำงาน" [ref=e3358] [cursor=pointer]
+        - button "กำหนดเวลาคายเกน" [ref=e3359] [cursor=pointer]
+        - button "กำหนดความดังขาออก" [ref=e3360] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3361] [cursor=pointer]
+    - generic [ref=e3362]:
+      - generic [ref=e3363]:
+        - generic [ref=e3365]: multiple-choice
+        - generic [ref=e3366]: DAY 3
+      - paragraph [ref=e3367]:
+        - strong [ref=e3368]: 18. ตั้ง Ratio 4:1 หมายความว่าอย่างไร?
+      - generic [ref=e3369]:
+        - button "ทุก 4 dB ที่เกิน threshold จะออกมาเหลือ 1 dB" [ref=e3370] [cursor=pointer]
+        - button "เสียงจะดังขึ้น 4 เท่า" [ref=e3371] [cursor=pointer]
+        - button "attack เร็วขึ้น 4 เท่า" [ref=e3372] [cursor=pointer]
+        - button "ลดเสียงรบกวนลง 4 dB" [ref=e3373] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3374] [cursor=pointer]
+    - generic [ref=e3375]:
+      - generic [ref=e3376]:
+        - generic [ref=e3378]: วิเคราะห์สถานการณ์
+        - generic [ref=e3379]: DAY 3
+      - paragraph [ref=e3380]:
+        - strong [ref=e3381]: 19. เสียงร้องท่อนกระซิบเบา ท่อนฮุกตะโกน เสียงไม่สม่ำเสมอ ควรเริ่มอย่างไร?
+      - generic [ref=e3382]:
+        - button "ตั้ง attack ช้าๆ release เร็วๆ ratio สูงๆ ทันที" [ref=e3383] [cursor=pointer]
+        - button "ตั้ง threshold ให้ gain reduction ขยับราว 3–6 dB ตอนท่อนดัง ใช้ attack กลางๆ แล้วชดเชย makeup gain" [ref=e3384] [cursor=pointer]
+        - button "ใส่ limiter กด 15 dB ที่แทร็กเสียงร้อง" [ref=e3385] [cursor=pointer]
+        - button "แก้ด้วยการเขียน automation วอลลุ่มอย่างเดียวห้ามใช้คอมเพรสเซอร์" [ref=e3386] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3387] [cursor=pointer]
+    - generic [ref=e3388]:
+      - generic [ref=e3389]:
+        - generic [ref=e3391]: ถูก / ผิด
+        - generic [ref=e3392]: DAY 3
+      - paragraph [ref=e3393]:
+        - strong [ref=e3394]: 20. Attack เร็วจะเก็บ transient ได้อยู่หมัดเสมอและไม่มีข้อเสีย
+      - generic [ref=e3395]:
+        - button "ถูก" [ref=e3396] [cursor=pointer]
+        - button "ผิด" [ref=e3397] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3398] [cursor=pointer]
+    - generic [ref=e3399]:
+      - generic [ref=e3400]:
+        - generic [ref=e3402]: multiple-choice
+        - generic [ref=e3403]: DAY 3
+      - paragraph [ref=e3404]:
+        - strong [ref=e3405]: 21. Knee (หัวเข่า) ของคอมเพรสเซอร์คืออะไร?
+      - generic [ref=e3406]:
+        - 'button "ความโค้งของการเริ่มกด: soft knee ค่อยๆ กดนุ่ม hard knee กดทันที" [ref=e3407] [cursor=pointer]'
+        - button "ปุ่มเปิดปิด sidechain" [ref=e3408] [cursor=pointer]
+        - button "หน่วยวัด LUFS" [ref=e3409] [cursor=pointer]
+        - button "ความชันของฟิลเตอร์" [ref=e3410] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3411] [cursor=pointer]
+    - generic [ref=e3412]:
+      - generic [ref=e3413]:
+        - generic [ref=e3415]: multiple-choice
+        - generic [ref=e3416]: DAY 3
+      - paragraph [ref=e3417]:
+        - strong [ref=e3418]: 22. Gate กับ Expander ต่างกันอย่างไร?
+      - generic [ref=e3419]:
+        - button "เหมือนกันทุกประการ" [ref=e3420] [cursor=pointer]
+        - button "Gate ตัดเสียงต่ำกว่า threshold ทิ้ง (เปิด/ปิด) ส่วน Expander ลดลงอย่างนุ่มนวลตามอัตราส่วน" [ref=e3421] [cursor=pointer]
+        - button "Expander ใช้เพิ่มความดังเท่านั้น" [ref=e3422] [cursor=pointer]
+        - button "Gate ใช้กับมาสเตอร์เท่านั้น" [ref=e3423] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3424] [cursor=pointer]
+    - generic [ref=e3425]:
+      - generic [ref=e3426]:
+        - generic [ref=e3428]: multiple-choice
+        - generic [ref=e3429]: DAY 3
+      - paragraph [ref=e3430]:
+        - strong [ref=e3431]: 23. De-esser ทำงานอย่างไร?
+      - generic [ref=e3432]:
+        - button "ตัดเสียงต่ำทั้งหมด" [ref=e3433] [cursor=pointer]
+        - button "เป็นคอมเพรสเซอร์ที่จับเฉพาะย่านแหลมบาดหู (5–9 kHz) มากดเวลาเสียง ซ ซ โผล่มา" [ref=e3434] [cursor=pointer]
+        - button "เพิ่มเสียงแหลมให้ใสขึ้น" [ref=e3435] [cursor=pointer]
+        - button "กลับเฟสเสียงร้อง" [ref=e3436] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3437] [cursor=pointer]
+    - generic [ref=e3438]:
+      - generic [ref=e3439]:
+        - generic [ref=e3441]: วิเคราะห์สถานการณ์
+        - generic [ref=e3442]: DAY 3
+      - paragraph [ref=e3443]:
+        - strong [ref=e3444]: 24. ต้องการให้เบสหลบให้ kick ทุกครั้งที่ kick ตี โดยไม่ต้องเขียน automation มือ ควรใช้?
+      - generic [ref=e3445]:
+        - button "Parallel compression" [ref=e3446] [cursor=pointer]
+        - button "Sidechain compression โดยใช้ kick เป็น key input ให้คอมเพรสเซอร์ที่เบส" [ref=e3447] [cursor=pointer]
+        - button "Dithering" [ref=e3448] [cursor=pointer]
+        - button "Mid/Side EQ" [ref=e3449] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3450] [cursor=pointer]
+    - generic [ref=e3451]:
+      - generic [ref=e3452]:
+        - generic [ref=e3454]: multiple-choice
+        - generic [ref=e3455]: DAY 4
+      - paragraph [ref=e3456]:
+        - strong [ref=e3457]: 25. ทำไมเบสและ kick ควรวางไว้กลาง (mono) เป็นหลัก?
+      - generic [ref=e3458]:
+        - button "เพราะลำโพงซับวูฟเฟอร์มีข้างเดียวเสมอ" [ref=e3459] [cursor=pointer]
+        - button "เพราะเสียงต่ำที่แพนสุดข้างจะทำให้ภาพสเตอริโอเอียง เฟสมีปัญหา และระบบ mono/คลับเล่นแล้วเบสหาย" [ref=e3460] [cursor=pointer]
+        - button "เพราะ FL บังคับ" [ref=e3461] [cursor=pointer]
+        - button "เพราะเสียงต่ำแพนไม่ได้ทางเทคนิค" [ref=e3462] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3463] [cursor=pointer]
+    - generic [ref=e3464]:
+      - generic [ref=e3465]:
+        - generic [ref=e3467]: ถูก / ผิด
+        - generic [ref=e3468]: DAY 4
+      - paragraph [ref=e3469]:
+        - strong [ref=e3470]: 26. มิกซ์ที่ฟังในหูฟังว่ากว้างดีแล้ว ไม่จำเป็นต้องเช็ก mono อีก
+      - generic [ref=e3471]:
+        - button "ถูก" [ref=e3472] [cursor=pointer]
+        - button "ผิด" [ref=e3473] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3474] [cursor=pointer]
+    - generic [ref=e3475]:
+      - generic [ref=e3476]:
+        - generic [ref=e3478]: multiple-choice
+        - generic [ref=e3479]: DAY 4
+      - paragraph [ref=e3480]:
+        - strong [ref=e3481]: 27. Pre-delay ในรีเวิร์บคืออะไร?
+      - generic [ref=e3482]:
+        - button "เวลาหน่วงก่อนเสียงก้องเริ่ม ทำให้เสียงต้นชัดก่อนก้องตาม" [ref=e3483] [cursor=pointer]
+        - button "เวลารวมของหางรีเวิร์บ" [ref=e3484] [cursor=pointer]
+        - button "อัตราส่วน wet/dry" [ref=e3485] [cursor=pointer]
+        - button "ความถี่ที่รีเวิร์บตัด" [ref=e3486] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3487] [cursor=pointer]
+    - generic [ref=e3488]:
+      - generic [ref=e3489]:
+        - generic [ref=e3491]: วิเคราะห์สถานการณ์
+        - generic [ref=e3492]: DAY 4
+      - paragraph [ref=e3493]:
+        - strong [ref=e3494]: 28. ใส่รีเวิร์บแล้วเสียงร้องจม ไกล ไม่ชัด ควรแก้อย่างไรก่อน?
+      - generic [ref=e3495]:
+        - button "เพิ่ม wet เข้าไปอีก" [ref=e3496] [cursor=pointer]
+        - button "ลด wet / เพิ่ม pre-delay / ลอง decay สั้นลง แล้วฟังว่าเสียงต้นกลับมาชัดไหม" [ref=e3497] [cursor=pointer]
+        - button "บูสต์แหลม +10 dB" [ref=e3498] [cursor=pointer]
+        - button "แพนเสียงร้องออกข้าง" [ref=e3499] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3500] [cursor=pointer]
+    - generic [ref=e3501]:
+      - generic [ref=e3502]:
+        - generic [ref=e3504]: multiple-choice
+        - generic [ref=e3505]: DAY 4
+      - paragraph [ref=e3506]:
+        - strong [ref=e3507]: 29. ควรใส่ reverb/delay แบบ Send หรือ Insert?
+      - generic [ref=e3508]:
+        - 'button "Send: ส่งหลายแทร็กไปใช้ห้องเดียวกัน ประหยัดและคุมภาพรวมง่าย" [ref=e3509] [cursor=pointer]'
+        - button "Insert ทุกแทร็กแยกกันเสมอ" [ref=e3510] [cursor=pointer]
+        - button "ห้ามใช้ send เด็ดขาด" [ref=e3511] [cursor=pointer]
+        - button "ใช้ได้เฉพาะมาสเตอร์" [ref=e3512] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3513] [cursor=pointer]
+    - generic [ref=e3514]:
+      - generic [ref=e3515]:
+        - generic [ref=e3517]: multiple-choice
+        - generic [ref=e3518]: DAY 4
+      - paragraph [ref=e3519]:
+        - strong [ref=e3520]: 30. การตั้ง delay ให้เข้ากับเพลงควรอิงจากอะไร?
+      - generic [ref=e3521]:
+        - button "สุ่มเลขที่ชอบ" [ref=e3522] [cursor=pointer]
+        - button "tempo เพลง (เช่น 1/4, 1/8 dotted) เพื่อให้ echo ตกตรงจังหวะ" [ref=e3523] [cursor=pointer]
+        - button "ความดัง LUFS" [ref=e3524] [cursor=pointer]
+        - button "bit depth" [ref=e3525] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3526] [cursor=pointer]
+    - generic [ref=e3527]:
+      - generic [ref=e3528]:
+        - generic [ref=e3530]: multiple-choice
+        - generic [ref=e3531]: DAY 4
+      - paragraph [ref=e3532]:
+        - strong [ref=e3533]: 31. Mid/Side processing คืออะไร?
+      - generic [ref=e3534]:
+        - button "การแยกปรับส่วนกลาง (mono) กับส่วนข้าง (stereo) ได้อิสระ" [ref=e3535] [cursor=pointer]
+        - button "การแปลง mp3 เป็น wav" [ref=e3536] [cursor=pointer]
+        - button "การ dither" [ref=e3537] [cursor=pointer]
+        - button "การตั้ง tempo" [ref=e3538] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3539] [cursor=pointer]
+    - generic [ref=e3540]:
+      - generic [ref=e3541]:
+        - generic [ref=e3543]: ถูก / ผิด
+        - generic [ref=e3544]: DAY 4
+      - paragraph [ref=e3545]:
+        - strong [ref=e3546]: 32. ค่า Correlation meter ติดลบแรง (+1 คือดี) แปลว่าภาพสเตอริโอมีปัญหเฟส ควรแก้ไขก่อนส่งงาน
+      - generic [ref=e3547]:
+        - button "ถูก" [ref=e3548] [cursor=pointer]
+        - button "ผิด" [ref=e3549] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3550] [cursor=pointer]
+    - generic [ref=e3551]:
+      - generic [ref=e3552]:
+        - generic [ref=e3554]: multiple-choice
+        - generic [ref=e3555]: DAY 5
+      - paragraph [ref=e3556]:
+        - strong [ref=e3557]: 33. Saturation เพิ่มอะไรให้เสียง?
+      - generic [ref=e3558]:
+        - button "เพิ่ม bit depth" [ref=e3559] [cursor=pointer]
+        - button "เพิ่ม harmonics (ความถี่ทวีคูณ) ทำให้เสียงอิ่ม มีตัวตน และดังขึ้นในความรู้สึกโดยพีคไม่เพิ่มมาก" [ref=e3560] [cursor=pointer]
+        - button "เพิ่ม tempo" [ref=e3561] [cursor=pointer]
+        - button "ลด LUFS โดยตรง" [ref=e3562] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3563] [cursor=pointer]
+    - generic [ref=e3564]:
+      - generic [ref=e3565]:
+        - generic [ref=e3567]: ถูก / ผิด
+        - generic [ref=e3568]: DAY 5
+      - paragraph [ref=e3569]:
+        - strong [ref=e3570]: 34. Clipping เบาๆ (soft clipping) ที่ยอด transient สามารถใช้เพิ่มความดังได้ถ้าฟังไม่เพี้ยน
+      - generic [ref=e3571]:
+        - button "ถูก" [ref=e3572] [cursor=pointer]
+        - button "ผิด" [ref=e3573] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3574] [cursor=pointer]
+    - generic [ref=e3575]:
+      - generic [ref=e3576]:
+        - generic [ref=e3578]: multiple-choice
+        - generic [ref=e3579]: DAY 5
+      - paragraph [ref=e3580]:
+        - strong [ref=e3581]: 35. Parallel compression คืออะไร?
+      - generic [ref=e3582]:
+        - button "บีบอัดสำเนาหนึ่งหนักๆ แล้วผสมกับเสียงแห้ง เพื่อได้ทั้งพลังและความเป็นธรรมชาติ" [ref=e3583] [cursor=pointer]
+        - button "การต่อคอมเพรสเซอร์สองตัวแบบ serial" [ref=e3584] [cursor=pointer]
+        - button "การแพนซ้ายขวา" [ref=e3585] [cursor=pointer]
+        - button "การ dither สองรอบ" [ref=e3586] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3587] [cursor=pointer]
+    - generic [ref=e3588]:
+      - generic [ref=e3589]:
+        - generic [ref=e3591]: multiple-choice
+        - generic [ref=e3592]: DAY 5
+      - paragraph [ref=e3593]:
+        - strong [ref=e3594]: 36. ข้อใดอธิบาย Bus / Send / Insert ได้ถูกต้อง?
+      - generic [ref=e3595]:
+        - button "เหมือนกันหมด" [ref=e3596] [cursor=pointer]
+        - button "Insert อยู่ในเส้นทางเสียงนั้น 100% / Send แบ่งสัญญาณไปเอฟเฟกต์ร่วม / Bus รวมหลายแทร็กไปประมวลผลพร้อมกัน" [ref=e3597] [cursor=pointer]
+        - button "Bus ใช้ได้เฉพาะมาสเตอร์" [ref=e3598] [cursor=pointer]
+        - button "Send ดังกว่า Insert เสมอ" [ref=e3599] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3600] [cursor=pointer]
+    - generic [ref=e3601]:
+      - generic [ref=e3602]:
+        - generic [ref=e3604]: วิเคราะห์สถานการณ์
+        - generic [ref=e3605]: DAY 5
+      - paragraph [ref=e3606]:
+        - strong [ref=e3607]: 37. เสียงสแนร์มีเสียงฉาบรั่วเข้ามาดัง แต่หางสแนร์ยังอยากเก็บไว้ ควรใช้?
+      - generic [ref=e3608]:
+        - button "Gate ที่ threshold สูงๆ ตัดทิ้งหมด" [ref=e3609] [cursor=pointer]
+        - button "Expander ลงนุ่มๆ หรือ gate attack/release นุ่ม เพื่อลดฉาบโดยยังเหลือหางสแนร์" [ref=e3610] [cursor=pointer]
+        - button "บูสต์แหลมสแนร์เพิ่ม" [ref=e3611] [cursor=pointer]
+        - button "ลบแทร็กสแนร์ทิ้ง" [ref=e3612] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3613] [cursor=pointer]
+    - generic [ref=e3614]:
+      - generic [ref=e3615]:
+        - generic [ref=e3617]: multiple-choice
+        - generic [ref=e3618]: DAY 5
+      - paragraph [ref=e3619]:
+        - strong [ref=e3620]: 38. Maximus เหมาะกับงานใดที่สุด?
+      - generic [ref=e3621]:
+        - button "วัด LUFS" [ref=e3622] [cursor=pointer]
+        - button "ประมวลผลแบบ multiband (กด/ขยายแยกย่าน) ทั้งมิกซ์และมาสเตอร์" [ref=e3623] [cursor=pointer]
+        - button "เขียน automation" [ref=e3624] [cursor=pointer]
+        - button "ตั้ง tempo" [ref=e3625] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3626] [cursor=pointer]
+    - generic [ref=e3627]:
+      - generic [ref=e3628]:
+        - generic [ref=e3630]: multiple-choice
+        - generic [ref=e3631]: DAY 5
+      - paragraph [ref=e3632]:
+        - strong [ref=e3633]: 39. Automation มีไว้ทำอะไร?
+      - generic [ref=e3634]:
+        - 'button "ทำให้ท่อนต่างๆ มีชีวิต: วอลลุ่ม แพน เอฟเฟกต์เปลี่ยนตามอารมณ์เพลง" [ref=e3635] [cursor=pointer]'
+        - button "เพิ่ม bit depth อัตโนมัติ" [ref=e3636] [cursor=pointer]
+        - button "แก้เพี้ยนอัตโนมัติ" [ref=e3637] [cursor=pointer]
+        - button "ตั้ง tempo อัตโนมัติ" [ref=e3638] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3639] [cursor=pointer]
+    - generic [ref=e3640]:
+      - generic [ref=e3641]:
+        - generic [ref=e3643]: ถูก / ผิด
+        - generic [ref=e3644]: DAY 5
+      - paragraph [ref=e3645]:
+        - strong [ref=e3646]: 40. ใส่ saturation/parallel หลายชั้นจะยิ่งดี เพราะยิ่งอิ่มยิ่งโปร
+      - generic [ref=e3647]:
+        - button "ถูก" [ref=e3648] [cursor=pointer]
+        - button "ผิด" [ref=e3649] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3650] [cursor=pointer]
+    - generic [ref=e3651]:
+      - generic [ref=e3652]:
+        - generic [ref=e3654]: multiple-choice
+        - generic [ref=e3655]: DAY 6
+      - paragraph [ref=e3656]:
+        - strong [ref=e3657]: 41. ความต่างของ Mixdown กับ Mastering คือ?
+      - generic [ref=e3658]:
+        - button "เหมือนกัน" [ref=e3659] [cursor=pointer]
+        - button "Mixdown คือปรับสมดุลแต่ละแทร็ก / Mastering คือขัดเกลาไฟล์สเตอริโอรวมให้ดัง ครบ และแปลภาษาได้ทุกอุปกรณ์" [ref=e3660] [cursor=pointer]
+        - button "Mastering คือการอัดเสียง" [ref=e3661] [cursor=pointer]
+        - button "Mixdown ทำหลัง Mastering" [ref=e3662] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3663] [cursor=pointer]
+    - generic [ref=e3664]:
+      - generic [ref=e3665]:
+        - generic [ref=e3667]: ถูก / ผิด
+        - generic [ref=e3668]: DAY 6
+      - paragraph [ref=e3669]:
+        - strong [ref=e3670]: 42. มีค่า LUFS เดียว (เช่น -14) ที่เหมาะกับทุกแพลตฟอร์มและทุกเพลง
+      - generic [ref=e3671]:
+        - button "ถูก" [ref=e3672] [cursor=pointer]
+        - button "ผิด" [ref=e3673] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3674] [cursor=pointer]
+    - generic [ref=e3675]:
+      - generic [ref=e3676]:
+        - generic [ref=e3678]: multiple-choice
+        - generic [ref=e3679]: DAY 6
+      - paragraph [ref=e3680]:
+        - strong [ref=e3681]: 43. Integrated LUFS ต่างจาก True Peak อย่างไร?
+      - generic [ref=e3682]:
+        - button "เหมือนกัน" [ref=e3683] [cursor=pointer]
+        - button "Integrated LUFS คือความดังเฉลี่ยทั้งเพลง / True Peak คือยอดสูงสุดจริงรวม intersample ที่ห้ามเกินเพดาน" [ref=e3684] [cursor=pointer]
+        - button "True Peak วัดความกว้างสเตอริโอ" [ref=e3685] [cursor=pointer]
+        - button "LUFS วัดเฟส" [ref=e3686] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3687] [cursor=pointer]
+    - generic [ref=e3688]:
+      - generic [ref=e3689]:
+        - generic [ref=e3691]: multiple-choice
+        - generic [ref=e3692]: DAY 6
+      - paragraph [ref=e3693]:
+        - strong [ref=e3694]: 44. Intersample peak คืออะไร?
+      - generic [ref=e3695]:
+        - button "ยอดเสียงที่ซ่อนอยู่ระหว่างตัวอย่างดิจิทัล ซึ่ง DAC สร้างขึ้นตอนเล่นและอาจแตกได้แม้มิเตอร์ไม่แดง" [ref=e3696] [cursor=pointer]
+        - button "เสียงรบกวนห้องอัด" [ref=e3697] [cursor=pointer]
+        - button "ความถี่ต่ำกว่า 20 Hz" [ref=e3698] [cursor=pointer]
+        - button "หน่วยวัดรีเวิร์บ" [ref=e3699] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3700] [cursor=pointer]
+    - generic [ref=e3701]:
+      - generic [ref=e3702]:
+        - generic [ref=e3704]: วิเคราะห์สถานการณ์
+        - generic [ref=e3705]: DAY 6
+      - paragraph [ref=e3706]:
+        - strong [ref=e3707]: 45. ดัน limiter จนได้ -8 LUFS แต่เพลงแบน กระเดื่องหายใจไม่ออก ควรทำอย่างไร?
+      - generic [ref=e3708]:
+        - button "ดันต่อให้ถึง -6 LUFS" [ref=e3709] [cursor=pointer]
+        - button "ถอย gain ลง ยอมดังน้อยลงเพื่อแลก transient และไดนามิกกลับมา แล้วเทียบกับเพลงอ้างอิง" [ref=e3710] [cursor=pointer]
+        - button "บูสต์เบสเพิ่ม" [ref=e3711] [cursor=pointer]
+        - button "เปลี่ยนมา export เป็น mp3 128kbps" [ref=e3712] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3713] [cursor=pointer]
+    - generic [ref=e3714]:
+      - generic [ref=e3715]:
+        - generic [ref=e3717]: multiple-choice
+        - generic [ref=e3718]: DAY 6
+      - paragraph [ref=e3719]:
+        - strong [ref=e3720]: 46. Lookahead ในลิมิตเตอร์ช่วยอะไร?
+      - generic [ref=e3721]:
+        - button "มองอนาคตเล็กน้อยเพื่อให้ลิมิตเตอร์เริ่มลดเกนก่อน transient มาถึง ลดการแตก" [ref=e3722] [cursor=pointer]
+        - button "เพิ่มความกว้างสเตอริโอ" [ref=e3723] [cursor=pointer]
+        - button "เพิ่ม bit depth" [ref=e3724] [cursor=pointer]
+        - button "ตั้ง tempo ล่วงหน้า" [ref=e3725] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3726] [cursor=pointer]
+    - generic [ref=e3727]:
+      - generic [ref=e3728]:
+        - generic [ref=e3730]: multiple-choice
+        - generic [ref=e3731]: DAY 6
+      - paragraph [ref=e3732]:
+        - strong [ref=e3733]: 47. Dithering ควรใช้เมื่อใด?
+      - generic [ref=e3734]:
+        - button "ทุกครั้งที่ export" [ref=e3735] [cursor=pointer]
+        - button "เมื่อลด bit depth (เช่น 24-bit → 16-bit) เพื่อกลบ quantization distortion ด้วย noise เบาๆ" [ref=e3736] [cursor=pointer]
+        - button "เมื่อเปลี่ยน sample rate ขึ้น" [ref=e3737] [cursor=pointer]
+        - button "เมื่ออัปโหลดขึ้นสตรีมมิง" [ref=e3738] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3739] [cursor=pointer]
+    - generic [ref=e3740]:
+      - generic [ref=e3741]:
+        - generic [ref=e3743]: วิเคราะห์สถานการณ์
+        - generic [ref=e3744]: DAY 6
+      - paragraph [ref=e3745]:
+        - strong [ref=e3746]: 48. จะส่งมาสเตอร์ขึ้นสตรีมมิง ควรตั้งค่า export อย่างไร?
+      - generic [ref=e3747]:
+        - button "WAV 44.1kHz/16-bit พร้อม dither, True Peak ไม่เกิน -1 dBTP" [ref=e3748] [cursor=pointer]
+        - button "MP3 128kbps พีค 0.0 dB" [ref=e3749] [cursor=pointer]
+        - button "WAV 192kHz 32-bit ส่งขึ้นตรง" [ref=e3750] [cursor=pointer]
+        - button "อะไรก็ได้เพราะแพลตฟอร์มแก้ให้เอง" [ref=e3751] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3752] [cursor=pointer]
+    - generic [ref=e3753]:
+      - generic [ref=e3754]:
+        - generic [ref=e3756]: multiple-choice
+        - generic [ref=e3757]: DAY 7
+      - paragraph [ref=e3758]:
+        - strong [ref=e3759]: 49. ลำดับเวิร์กโฟลว์จบงานที่ถูกต้องคือ?
+      - generic [ref=e3760]:
+        - button "Master → Mix → Record" [ref=e3761] [cursor=pointer]
+        - button "Mix → Revisions (พักหู/ฟังหลายอุปกรณ์) → Master → QC/ส่งไฟล์" [ref=e3762] [cursor=pointer]
+        - button "Export ก่อนแล้วค่อยมิกซ์" [ref=e3763] [cursor=pointer]
+        - button "Dither ก่อนมิกซ์" [ref=e3764] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3765] [cursor=pointer]
+    - generic [ref=e3766]:
+      - generic [ref=e3767]:
+        - generic [ref=e3769]: ถูก / ผิด
+        - generic [ref=e3770]: DAY 7
+      - paragraph [ref=e3771]:
+        - strong [ref=e3772]: 50. ควรเช็กมิกซ์บนลำโพงหลายแบบ (มอนิเตอร์ หูฟัง มือถือ รถ) ก่อนส่งงานจริง
+      - generic [ref=e3773]:
+        - button "ถูก" [ref=e3774] [cursor=pointer]
+        - button "ผิด" [ref=e3775] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3776] [cursor=pointer]
+    - generic [ref=e3777]:
+      - generic [ref=e3778]:
+        - generic [ref=e3780]: วิเคราะห์สถานการณ์
+        - generic [ref=e3781]: DAY 7
+      - paragraph [ref=e3782]:
+        - strong [ref=e3783]: 51. มิกซ์ฟังในห้องดี แต่บนมือถือเสียงร้องหาย เบสกลวง สาเหตุที่เป็นไปได้ที่สุดคือ?
+      - generic [ref=e3784]:
+        - button "มือถือเสีย" [ref=e3785] [cursor=pointer]
+        - button "มีปัญหเฟส/สเตอริโอกว้างเกิน หรือเนื้อกลางแหลมไม่พอ ทำให้เหลือแต่ย่านที่มือถือเล่นไม่ได้เมื่อรวม mono" [ref=e3786] [cursor=pointer]
+        - button "export ผิด bit depth" [ref=e3787] [cursor=pointer]
+        - button "tempo ผิด" [ref=e3788] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3789] [cursor=pointer]
+    - generic [ref=e3790]:
+      - generic [ref=e3791]:
+        - generic [ref=e3793]: multiple-choice
+        - generic [ref=e3794]: DAY 7
+      - paragraph [ref=e3795]:
+        - strong [ref=e3796]: 52. วิธีแก้มิกซ์ขุ่นแบบเป็นระบบคือข้อใด?
+      - generic [ref=e3797]:
+        - button "บูสต์แหลมทั้งมาสเตอร์" [ref=e3798] [cursor=pointer]
+        - 'button "กลับไปไล่ทีละแทร็ก: high-pass ส่วนเกิน → carve จุดชน → เช็ก reverb/delay มากไปไหม → ฟังทั้งมิกซ์" [ref=e3799] [cursor=pointer]'
+        - button "ใส่ maximus กดหนักๆ" [ref=e3800] [cursor=pointer]
+        - button "เพิ่มวอลลุ่มรวม" [ref=e3801] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3802] [cursor=pointer]
+    - generic [ref=e3803]:
+      - generic [ref=e3804]:
+        - generic [ref=e3806]: multiple-choice
+        - generic [ref=e3807]: DAY 7
+      - paragraph [ref=e3808]:
+        - strong [ref=e3809]: 53. ชุดไฟล์ส่งงานมาตรฐานควรมีอะไรบ้าง?
+      - generic [ref=e3810]:
+        - button "แค่ mp3 เดียวพอ" [ref=e3811] [cursor=pointer]
+        - button "WAV master + MP3 preview + สเต็ม/เวอร์ชัน instrumental (ถ้าตกลงกัน) พร้อมตั้งชื่อมีเวอร์ชัน" [ref=e3812] [cursor=pointer]
+        - button "แค่โปรเจกต์ FL" [ref=e3813] [cursor=pointer]
+        - button "ส่งเป็นภาพหน้าจอมิกเซอร์" [ref=e3814] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3815] [cursor=pointer]
+    - generic [ref=e3816]:
+      - generic [ref=e3817]:
+        - generic [ref=e3819]: ถูก / ผิด
+        - generic [ref=e3820]: DAY 7
+      - paragraph [ref=e3821]:
+        - strong [ref=e3822]: 54. ก่อนส่งไฟล์ ควรฟังไฟล์ export จริงตั้งแต่ต้นจนจบอีกครั้ง แม้จะฟังในโปรเจกต์มาแล้ว
+      - generic [ref=e3823]:
+        - button "ถูก" [ref=e3824] [cursor=pointer]
+        - button "ผิด" [ref=e3825] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3826] [cursor=pointer]
+    - generic [ref=e3827]:
+      - generic [ref=e3828]:
+        - generic [ref=e3830]: วิเคราะห์สถานการณ์
+        - generic [ref=e3831]: DAY 7
+      - paragraph [ref=e3832]:
+        - strong [ref=e3833]: 55. เพื่อนบอกว่ามิกซ์คุณท่อนฮุกไม่ใหญ่กว่าท่อนเวิร์ส ควรแก้อย่างไร?
+      - generic [ref=e3834]:
+        - button "ดันมาสเตอร์ให้ดังขึ้นทั้งเพลง" [ref=e3835] [cursor=pointer]
+        - 'button "ใช้ automation/Re-arrangement: เปิดเครื่องดนตรี เพิ่ม width/reverb หรือดัน element ฮุกให้ต่างจากเวิร์สอย่างตั้งใจ" [ref=e3836] [cursor=pointer]'
+        - button "เปลี่ยน sample rate" [ref=e3837] [cursor=pointer]
+        - button "dither เพิ่ม" [ref=e3838] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3839] [cursor=pointer]
+    - generic [ref=e3840]:
+      - generic [ref=e3841]:
+        - generic [ref=e3843]: multiple-choice
+        - generic [ref=e3844]: DAY 7
+      - paragraph [ref=e3845]:
+        - strong [ref=e3846]: 56. ทัศนคติที่ถูกต้องหลังจบคอร์ส 7 วันคือข้อใด?
+      - generic [ref=e3847]:
+        - button "รู้ครบแล้ว ไม่ต้องฝึกอีก" [ref=e3848] [cursor=pointer]
+        - button "มีแผนที่และจุดเริ่มต้นที่ถูกต้อง (ตัวเลขเป็นแค่จุดเริ่ม) ที่เหลือคือฝึกหู+ทำเพลงเยอะๆ" [ref=e3849] [cursor=pointer]
+        - button "ต้องซื้อปลั๊กอินแพงก่อนถึงเก่งได้" [ref=e3850] [cursor=pointer]
+        - button "มิกซ์ด้วยพรีเซ็ตอย่างเดียวพอ" [ref=e3851] [cursor=pointer]
+      - button "ตรวจคำตอบ" [disabled] [ref=e3852] [cursor=pointer]
+  - contentinfo [ref=e134]:
+    - generic [ref=e135]:
+      - strong [ref=e136]: MIXLAB
+      - generic [ref=e137]: ห้องเรียน Mix & Mastering ภาษาไทย • FL Studio 25 • ภาพ UI ที่วาดใหม่เป็น “ภาพจำลองเพื่อการเรียนรู้” ไม่ใช่ภาพหน้าจอจริงของ Image-Line
+      - generic [ref=e138]: ความถูกต้องของความรู้ > คุณภาพการสอน > ใช้งานได้ > สวยงาม

@@ -1,0 +1,599 @@
+- generic [ref=f3e2]:
+  - navigation "เมนูหลัก" [ref=f3e3]:
+    - generic [ref=f3e4]:
+      - link "MIXLAB MIX & MASTERING ACADEMY" [ref=f3e5] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f3e6]: MIXLAB
+        - generic [ref=f3e7]: MIX & MASTERING ACADEMY
+      - generic [ref=f3e8]:
+        - link "หน้าแรก" [ref=f3e9] [cursor=pointer]:
+          - /url: "#/"
+        - link "แดชบอร์ด" [ref=f3e10] [cursor=pointer]:
+          - /url: "#/dashboard"
+        - link "หลักสูตร 7 วัน" [ref=f3e11] [cursor=pointer]:
+          - /url: "#/curriculum"
+        - link "Sound Lab" [ref=f3e12] [cursor=pointer]:
+          - /url: "#/lab"
+        - link "พจนานุกรม" [ref=f3e13] [cursor=pointer]:
+          - /url: "#/glossary"
+        - link "แบบทดสอบ" [ref=f3e14] [cursor=pointer]:
+          - /url: "#/quiz"
+        - link "คลังความรู้" [ref=f3e15] [cursor=pointer]:
+          - /url: "#/library"
+        - link "ฉบับย่อ" [ref=f3e16] [cursor=pointer]:
+          - /url: "#/condensed"
+        - link "อ้างอิง" [ref=f3e17] [cursor=pointer]:
+          - /url: "#/references"
+      - generic [ref=f3e18]:
+        - button "TEACHER OFF" [ref=f3e19] [cursor=pointer]
+        - button "▶ เคลื่อนไหว" [ref=f3e20] [cursor=pointer]
+  - generic [ref=f3e22]: MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK • MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK •
+  - main [ref=f3e23]:
+    - heading "ห้องฉบับย่อ — อ่านจบไวในวันเดียว" [level=2] [ref=f3e25]
+    - generic [ref=f3e26]:
+      - text: "สรุปคอร์ส 7 วันแบบอ่านง่าย: เป้าหมายรายวัน + ใจความ 4 ข้อ + ข้อสำคัญ 10 ข้อ + บทสั้นแบบพับเปิดได้ อยากลงลึกให้กด"
+      - link "หลักสูตรฉบับเต็ม (28 บท)" [ref=f3e27] [cursor=pointer]:
+        - /url: "#/curriculum"
+      - text: — เนื้อหาฉบับย่อมาจากไฟล์ของผู้สอนเอง
+    - navigation "ข้ามไปแต่ละวัน" [ref=f3e28]:
+      - button "วันที่ 1" [ref=f3e29] [cursor=pointer]
+      - button "วันที่ 2" [ref=f3e30] [cursor=pointer]
+      - button "วันที่ 3" [ref=f3e31] [cursor=pointer]
+      - button "วันที่ 4" [ref=f3e32] [cursor=pointer]
+      - button "วันที่ 5" [ref=f3e33] [cursor=pointer]
+      - button "วันที่ 6" [ref=f3e34] [cursor=pointer]
+      - button "วันที่ 7" [ref=f3e35] [cursor=pointer]
+    - generic [ref=f3e36]:
+      - generic [ref=f3e37]: วันที่ 1
+      - generic [ref=f3e38]: 2 ชม.
+      - heading "พื้นฐานเสียงและภาพรวม" [level=2] [ref=f3e39]
+      - paragraph [ref=f3e40]:
+        - strong [ref=f3e41]: "เป้าหมาย:"
+        - text: เข้าใจความต่างของ Mix กับ Master และเตรียมระดับเสียงให้ถูกตั้งแต่ต้น
+      - generic [ref=f3e42]:
+        - generic [ref=f3e43]:
+          - heading "เสียงคืออะไร" [level=4] [ref=f3e44]
+          - paragraph [ref=f3e45]: ความถี่ (Hz) คือความสูงต่ำของเสียง ส่วนแอมพลิจูด (dB) คือความดัง ต้องดูทั้งสองอย่างคู่กันเสมอ
+        - generic [ref=f3e46]:
+          - heading "Mix vs Master" [level=4] [ref=f3e47]
+          - paragraph [ref=f3e48]: Mix คือทำให้ทุกแทร็กอยู่ด้วยกันได้ลงตัว ส่วน Master คือขัดเกลาทั้งเพลงให้พร้อมเผยแพร่
+        - generic [ref=f3e49]:
+          - heading "Gain staging และ Headroom" [level=4] [ref=f3e50]
+          - paragraph [ref=f3e51]: ปรับระดับแต่ละแทร็กให้เหมาะก่อน และเผื่อพื้นที่ประมาณ -6 dB ที่ Master bus
+        - generic [ref=f3e52]:
+          - heading "Signal flow" [level=4] [ref=f3e53]
+          - paragraph [ref=f3e54]: "ลำดับปลั๊กอินสำคัญ: Gain → EQ → Compressor → Reverb/Delay → Bus → Master"
+      - heading "ข้อสำคัญ 10 ข้อ" [level=3] [ref=f3e55]
+      - list [ref=f3e56]:
+        - listitem [ref=f3e57]: ความถี่คือความสูงต่ำของเสียง วัดเป็น Hz และหูคนได้ยินช่วงประมาณ 20 Hz ถึง 20 kHz
+        - listitem [ref=f3e58]: แอมพลิจูดคือความดังที่วัดเป็น dB ควรดูค่า dB ควบคู่กับการฟังเสมอ
+        - listitem [ref=f3e59]: ระดับสูงสุดในดิจิทัลคือ 0 dBFS ค่าที่เกินนี้จะเกิดคลิป
+        - listitem [ref=f3e60]: Mix คือทำให้เครื่องดนตรีแต่ละชิ้นอยู่ร่วมกันได้อย่างลงตัว
+        - listitem [ref=f3e61]: Master คือทำให้เพลงทั้งเพลงดังพอดี โทนสม่ำเสมอ และพร้อมเผยแพร่
+        - listitem [ref=f3e62]: Gain staging คือการจัดระดับสัญญาณทุกขั้นให้เหมาะตั้งแต่ต้นทาง
+        - listitem [ref=f3e63]: ระดับ peak ของแต่ละแทร็กควรอยู่ราว -10 ถึง -6 dB ก่อนเข้า bus
+        - listitem [ref=f3e64]: Headroom ประมาณ -6 dB ที่ master ช่วยให้ปลั๊กอินทำงานโดยไม่บิดเบี้ยว
+        - listitem [ref=f3e65]: ลำดับ signal flow ทั่วไปคือ Gain, EQ, Compressor, Effects, Bus, Master
+        - listitem [ref=f3e66]: ปรับ fader ก่อนใส่ปลั๊กอิน เพราะปลั๊กอินจะตอบสนองต่อระดับที่เข้าไปโดยตรง
+      - heading "บทเรียนเชิงลึก (กดเพื่อเปิดอ่าน)" [level=3] [ref=f3e67]
+      - group [ref=f3e68]:
+        - strong [ref=f3e70] [cursor=pointer]: 1. เสียงคืออะไรจริง ๆ
+        - paragraph [ref=f3e71]: เสียงคือการสั่นของอากาศที่หูรับรู้ ความถี่วัดเป็นรอบต่อวินาทีหรือ Hz หูคนได้ยินราว 20 Hz ถึง 20 kHz โดยเสียงต่ำอย่างคิกและเบสอยู่ฝั่งล่าง ส่วนแฮท ซิมบอล และแอร์อยู่ฝั่งบน ในดิจิทัลระดับสูงสุดคือ 0 dBFS ค่าที่ติดลบคือเบากว่าเพดานนั้น
+        - list [ref=f3e72]:
+          - listitem [ref=f3e73]: เปิด Peak meter ใน Mixer ของ FL Studio ให้เห็นค่าเป็น dB
+          - listitem [ref=f3e74]: สร้าง sine wave ที่ 50 Hz 1 kHz และ 10 kHz แล้วฟังว่าความดังรู้สึกต่างกันอย่างไร
+        - paragraph [ref=f3e75]:
+          - strong [ref=f3e76]: "แบบฝึกหัด:"
+          - text: เปรียบเทียบ sine 100 Hz กับ 1 kHz ที่ระดับ dB เท่ากัน แล้วบันทึกว่าหูรู้สึกดังเท่ากันหรือไม่
+      - group [ref=f3e77]:
+        - strong [ref=f3e79] [cursor=pointer]: 2. Mix กับ Master ต่างกันตรงไหน
+      - group [ref=f3e80]:
+        - strong [ref=f3e82] [cursor=pointer]: 3. Gain staging ทีละขั้น
+      - group [ref=f3e83]:
+        - strong [ref=f3e85] [cursor=pointer]: 4. dB และความดังที่หูรับรู้ไม่เท่ากัน
+      - group [ref=f3e86]:
+        - strong [ref=f3e88] [cursor=pointer]: 5. Sample rate และ Bit depth
+      - group [ref=f3e89]:
+        - strong [ref=f3e91] [cursor=pointer]: 6. Phase และ Polarity
+      - group [ref=f3e92]:
+        - strong [ref=f3e94] [cursor=pointer]: 7. ศัพท์พื้นฐานที่ควรรู้
+      - group [ref=f3e95]:
+        - strong [ref=f3e97] [cursor=pointer]: 8. ตั้งค่าโปรแกรมให้พร้อมทำ Mix
+      - group [ref=f3e98]:
+        - strong [ref=f3e100] [cursor=pointer]: 9. ทำ Rough mix โดยไม่ใช้ปลั๊กอิน
+      - group [ref=f3e101]:
+        - strong [ref=f3e103] [cursor=pointer]: 10. ฟังก่อนแก้ทุกครั้ง
+      - generic [ref=f3e104]: "เกร็ดความรู้: อย่าพึ่ง limiter แก้ระดับที่ผิดตั้งแต่ต้น ไม่งั้นเพลงจะแบนและหายใจไม่ออก"
+      - paragraph [ref=f3e105]:
+        - text: "🖥️ FL Studio 25: Mixer และการปรับ volume ของแต่ละ channel —"
+        - link "เปิดบทเต็มในหลักสูตร 7 วัน ➜" [ref=f3e106] [cursor=pointer]:
+          - /url: "#/curriculum"
+      - figure [ref=f3e107]:
+        - img "ลำดับสัญญาณ" [ref=f3e108]:
+          - generic [ref=f3e115]:
+            - generic [ref=f3e116]: Gain
+            - generic [ref=f3e117]: EQ
+            - generic [ref=f3e118]: Comp
+            - generic [ref=f3e119]: FX
+            - generic [ref=f3e120]: Bus
+            - generic [ref=f3e121]: Master
+          - generic [ref=f3e122]: ลำดับทั่วไปของสัญญาณจากแทร็กถึงเพลงสุดท้าย
+    - generic [ref=f3e123]:
+      - generic [ref=f3e124]: วันที่ 2
+      - generic [ref=f3e125]: 2 ชม.
+      - 'heading "EQ: ปรับความถี่ให้ลงตัว" [level=2] [ref=f3e126]'
+      - paragraph [ref=f3e127]:
+        - strong [ref=f3e128]: "เป้าหมาย:"
+        - text: ใช้ EQ ตัดก่อนเพิ่ม และรู้ว่าแต่ละย่านความถี่ให้ความรู้สึกอย่างไร
+      - generic [ref=f3e129]:
+        - generic [ref=f3e130]:
+          - heading "High-pass filter" [level=4] [ref=f3e131]
+          - paragraph [ref=f3e132]: ตัดความถี่ต่ำที่ไม่จำเป็นออก เช่นเสียงร้องหรือ hi-hat มักตัดได้ราว 80–150 Hz
+        - generic [ref=f3e133]:
+          - heading "Subtractive EQ" [level=4] [ref=f3e134]
+          - paragraph [ref=f3e135]: ลดความถี่ที่ชนกันก่อน เพลงจะสะอาดกว่าการดันทุกอย่างให้ดังขึ้น
+        - generic [ref=f3e136]:
+          - heading "แผนที่ความถี่" [level=4] [ref=f3e137]
+          - paragraph [ref=f3e138]: Sub 20–60 · Bass 60–250 · Low-mid 250–500 (มักเป็นโคลน) · Mid 0.5–2k · Presence 2–6k · Air 10k+ Hz
+        - generic [ref=f3e139]:
+          - heading "Q และ Gain" [level=4] [ref=f3e140]
+          - paragraph [ref=f3e141]: Q แคบปรับจุดเดียวได้แม่น Q กว้างนุ่มนวล ให้ boost แคบ ๆ ก่อนหาจุดปัญหา แล้วค่อย cut
+      - heading "ข้อสำคัญ 10 ข้อ" [level=3] [ref=f3e142]
+      - list [ref=f3e143]:
+        - listitem [ref=f3e144]: High-pass ตัดความถี่ต่ำที่ไม่จำเป็นออก โดยเฉพาะกับเสียงที่ไม่มีเบส
+        - listitem [ref=f3e145]: Low-pass ตัดความถี่สูงเพื่อคุมความแหลมหรือเสียงรบกวนที่ไม่ต้องการ
+        - listitem [ref=f3e146]: Shelf ปรับทั้งย่านด้านบนหรือด้านล่างแบบนุ่มนวล
+        - listitem [ref=f3e147]: Bell หรือ Peaking ปรับเฉพาะจุดตรงกลางที่เรากำหนด
+        - listitem [ref=f3e148]: Q สูงทำให้จุดแคบและแม่น Q ต่ำทำให้จุดกว้างและนุ่ม
+        - listitem [ref=f3e149]: Subtractive EQ คือตัดความถี่ที่ชนกันก่อนเพิ่มสิ่งที่ต้องการ
+        - listitem [ref=f3e150]: Masking คือเสียงสองชิ้นที่ความถี่ทับกันจนฟังแล้วจม
+        - listitem [ref=f3e151]: ย่านโคลนมักอยู่ราว 250 ถึง 500 Hz ควรตรวจก่อนปรับอย่างอื่น
+        - listitem [ref=f3e152]: ย่าน presence ราว 2 ถึง 6 kHz ช่วยให้เสียงร้องและเครื่องดนตรีชัดขึ้น
+        - listitem [ref=f3e153]: ย่าน air ราว 10 kHz ขึ้นไปให้ความโปร่งและความเป็นประกาย
+      - heading "บทเรียนเชิงลึก (กดเพื่อเปิดอ่าน)" [level=3] [ref=f3e154]
+      - group [ref=f3e155]:
+        - strong [ref=f3e157] [cursor=pointer]: 1. ประเภทของ Filter ใน EQ
+        - paragraph [ref=f3e158]: High-pass ตัดทุกอย่างที่ต่ำกว่าความถี่ที่ตั้ง Low-pass ตัดทุกอย่างที่สูงกว่า Shelf ปรับทั้งย่านด้านบนหรือด้านล่างแบบนุ่ม ส่วน Bell หรือ Peaking ปรับเฉพาะจุดตรงกลาง ความกว้างของจุดนั้นควบคุมด้วย Q ค่า Q สูงให้จุดแคบและแม่น ค่า Q ต่ำให้จุดกว้างและนุ่ม
+        - list [ref=f3e159]:
+          - listitem [ref=f3e160]: ใส่ HPF บนแทร็กเสียงร้องแล้วขยับความถี่ขึ้นจนเสียงเริ่มบางลง จดค่านั้นไว้
+          - listitem [ref=f3e161]: ปรับ Q ของ Bell ระหว่างค่าต่ำและสูงเพื่อฟังความต่าง
+        - paragraph [ref=f3e162]:
+          - strong [ref=f3e163]: "แบบฝึกหัด:"
+          - text: ใช้ Bell ที่ Q ต่างกันกับเสียง noise แล้วเทียบว่าจุดไหนดูแคบหรือกว้าง
+      - group [ref=f3e164]:
+        - strong [ref=f3e166] [cursor=pointer]: "2. Masking: เครื่องดนตรีชนกันตรงไหน"
+      - group [ref=f3e167]:
+        - strong [ref=f3e169] [cursor=pointer]: 3. EQ ตามเครื่องดนตรี (จุดเริ่มต้น)
+      - group [ref=f3e170]:
+        - strong [ref=f3e172] [cursor=pointer]: 4. HPF และ LPF ทีละเครื่องดนตรี
+      - group [ref=f3e173]:
+        - strong [ref=f3e175] [cursor=pointer]: 5. Boost กับ Cut ต่างกันอย่างไร
+      - group [ref=f3e176]:
+        - strong [ref=f3e178] [cursor=pointer]: 6. Linear phase และ Minimum phase
+      - group [ref=f3e179]:
+        - strong [ref=f3e181] [cursor=pointer]: 7. EQ ที่ bus และ master ทำอะไรได้บ้าง
+      - group [ref=f3e182]:
+        - strong [ref=f3e184] [cursor=pointer]: 8. Spectrum analyzer กับการฟัง
+      - group [ref=f3e185]:
+        - strong [ref=f3e187] [cursor=pointer]: 9. ทบทวน EQ ก่อนไปต่อ
+      - generic [ref=f3e188]: "เกร็ดความรู้: เพิ่ม gain ให้แคบแล้วกวาดความถี่ช้า ๆ จุดไหนฟังแล้วรำคาญหู นั่นคือจุดที่ควรลด"
+      - paragraph [ref=f3e189]:
+        - text: "🖥️ FL Studio 25: Parametric EQ 2 บน channel หรือ mixer track —"
+        - link "เปิดบทเต็มในหลักสูตร 7 วัน ➜" [ref=f3e190] [cursor=pointer]:
+          - /url: "#/curriculum"
+      - figure [ref=f3e191]:
+        - img "กราฟ EQ" [ref=f3e192]:
+          - generic [ref=f3e198]:
+            - generic [ref=f3e199]: ชมพู = High-pass
+            - generic [ref=f3e200]: ฟ้า = Bell boost
+            - generic [ref=f3e201]: dB
+            - generic [ref=f3e202]: Hz
+    - generic [ref=f3e203]:
+      - generic [ref=f3e204]: วันที่ 3
+      - generic [ref=f3e205]: 2 ชม.
+      - heading "Compressor และ Dynamics" [level=2] [ref=f3e206]
+      - paragraph [ref=f3e207]:
+        - strong [ref=f3e208]: "เป้าหมาย:"
+        - text: เข้าใจการบีบเสียงและควบคุมความดังของแต่ละช่วงในเพลง
+      - generic [ref=f3e209]:
+        - generic [ref=f3e210]:
+          - heading "Threshold และ Ratio" [level=4] [ref=f3e211]
+          - paragraph [ref=f3e212]: Threshold คือจุดที่เริ่มบีบ Ratio 4:1 หมายความว่าเกินทุก 4 dB จะเหลือ 1 dB
+        - generic [ref=f3e213]:
+          - heading "Attack และ Release" [level=4] [ref=f3e214]
+          - paragraph [ref=f3e215]: Attack ช้าให้ทรานเจียนต์หลุดผ่าน Release คือเวลาคลายตัว ต้องเข้ากับจังหวะเพลง
+        - generic [ref=f3e216]:
+          - heading "Knee และ Makeup gain" [level=4] [ref=f3e217]
+          - paragraph [ref=f3e218]: Knee นุ่มบีบแบบค่อยเป็นค่อยไป Makeup gain ชดเชยความดังที่หายไป เพื่อเทียบแล้วยุติธรรม
+        - generic [ref=f3e219]:
+          - heading "Sidechain" [level=4] [ref=f3e220]
+          - paragraph [ref=f3e221]: ให้เสียงอื่นกระตุ้นตัวบีบ เช่นให้เบสหลบเมื่อคิกดัง เทคนิคพื้นฐานของ EDM
+      - heading "ข้อสำคัญ 10 ข้อ" [level=3] [ref=f3e222]
+      - list [ref=f3e223]:
+        - listitem [ref=f3e224]: Threshold คือระดับที่ Compressor เริ่มทำงาน
+        - listitem [ref=f3e225]: Ratio คือความแรงในการบีบ เช่น 4:1 หมายถึงเกินทุก 4 dB จะเหลือ 1 dB
+        - listitem [ref=f3e226]: Attack คือเวลาที่ Compressor ใช้เริ่มบีบหลังสัญญาณเกิน threshold
+        - listitem [ref=f3e227]: Release คือเวลาที่ Compressor คลายตัวกลับหลังสัญญาณลดลง
+        - listitem [ref=f3e228]: Knee นุ่มทำให้การบีบเริ่มแบบค่อยเป็นค่อยไป
+        - listitem [ref=f3e229]: Makeup gain ชดเชยความดังที่หายไปหลังการบีบ
+        - listitem [ref=f3e230]: Gain reduction คือค่าที่บอกว่า Compressor บีบไปกี่ dB
+        - listitem [ref=f3e231]: Parallel compression คือผสมเสียงที่บีบแรงกลับเข้ากับเสียงต้นฉบับ
+        - listitem [ref=f3e232]: Sidechain ให้เสียงจากแทร็กอื่นมาควบคุม Compressor
+        - listitem [ref=f3e233]: การตั้งค่าทั้งหมดต้องตัดสินด้วยหู ไม่ใช่ค่าบนหน้าจออย่างเดียว
+      - heading "บทเรียนเชิงลึก (กดเพื่อเปิดอ่าน)" [level=3] [ref=f3e234]
+      - group [ref=f3e235]:
+        - strong [ref=f3e237] [cursor=pointer]: 1. Compressor ทำงานอย่างไร
+        - paragraph [ref=f3e238]: Compressor ลดเกนเมื่อสัญญาณเกิน threshold ตามอัตรา ratio ค่า gain reduction บอกว่าบีบไปกี่ dB ซึ่งควรดูคู่กับการฟัง ไม่ใช่ดูค่าอย่างเดียว การบีบเบา ๆ ช่วยคุมความไม่สม่ำเสมอ ส่วนการบีบหนักทำให้เสียงแบนและหายใจไม่ได้
+        - list [ref=f3e239]:
+          - listitem [ref=f3e240]: ใส่ Compressor บนแทร็กเสียงร้อง ตั้ง ratio 2:1 แล้วลด threshold ลงจนเห็น gain reduction ประมาณ 2 ถึง 4 dB
+          - listitem [ref=f3e241]: เปิดและปิดบ่อย ๆ เพื่อฟังว่าแตกต่างจริงหรือไม่
+        - paragraph [ref=f3e242]:
+          - strong [ref=f3e243]: "แบบฝึกหัด:"
+          - text: บันทึกเสียงร้องก่อนและหลังบีบ แล้วฟังว่าอันไหนน่าฟังกว่า
+      - group [ref=f3e244]:
+        - strong [ref=f3e246] [cursor=pointer]: 2. Attack และ Release ตามจังหวะ
+      - group [ref=f3e247]:
+        - strong [ref=f3e249] [cursor=pointer]: 3. Sidechain ทีละขั้นตอน
+      - group [ref=f3e250]:
+        - strong [ref=f3e252] [cursor=pointer]: 4. Compressor แบบ Feed-forward และ Feedback
+      - group [ref=f3e253]:
+        - strong [ref=f3e255] [cursor=pointer]: 5. Auto makeup gain และการเทียบความดัง
+      - group [ref=f3e256]:
+        - strong [ref=f3e258] [cursor=pointer]: 6. Upward compression ยกเสียงเบา
+      - group [ref=f3e259]:
+        - strong [ref=f3e261] [cursor=pointer]: 7. Transient shaper ควบคุมหัวเสียง
+      - group [ref=f3e262]:
+        - strong [ref=f3e264] [cursor=pointer]: 8. Multiband compression เบื้องต้น
+      - group [ref=f3e265]:
+        - strong [ref=f3e267] [cursor=pointer]: 9. Compressor บนดรัมแต่ละชิ้น
+      - group [ref=f3e268]:
+        - strong [ref=f3e270] [cursor=pointer]: 10. ทบทวนการบีบก่อนไปต่อ
+      - generic [ref=f3e271]: "เกร็ดความรู้: ดูค่า Gain Reduction ด้วย ถ้าบีบเกิน 3–6 dB ในแทร็กเดียว มักต้องแก้ที่ต้นทางก่อน"
+      - paragraph [ref=f3e272]:
+        - text: "🖥️ FL Studio 25: Fruity Compressor และการตั้งค่า Sidechain —"
+        - link "เปิดบทเต็มในหลักสูตร 7 วัน ➜" [ref=f3e273] [cursor=pointer]:
+          - /url: "#/curriculum"
+      - generic [ref=f3e274]:
+        - heading "ลองปรับ Compressor" [level=3] [ref=f3e275]
+        - paragraph [ref=f3e276]: สัญญาณเข้าคงที่ที่ -10 dB ลองขยับ threshold และ ratio แล้วดูว่าเสียงถูกบีบไปเท่าไร
+        - generic [ref=f3e277]:
+          - text: "Threshold:"
+          - strong [ref=f3e278]: "-18"
+          - text: dB
+          - 'slider "Threshold: -18 dB" [ref=f3e279]': "-18"
+        - generic [ref=f3e280]:
+          - text: "Ratio:"
+          - strong [ref=f3e281]: "4"
+          - text: :1
+          - 'slider "Ratio: 4:1" [ref=f3e282]': "4"
+        - paragraph [ref=f3e285]: ลดลง 6.0 dB (ออก -16.0 dB)
+      - figure [ref=f3e286]:
+        - img "เส้นโค้ง Compressor" [ref=f3e287]:
+          - generic [ref=f3e292]:
+            - generic [ref=f3e293]: Threshold
+            - generic [ref=f3e294]: 1:1
+            - generic [ref=f3e295]: 4:1
+            - generic [ref=f3e296]: Input
+            - generic [ref=f3e297]: Output
+    - generic [ref=f3e298]:
+      - generic [ref=f3e299]: วันที่ 4
+      - generic [ref=f3e300]: 2 ชม.
+      - 'heading "Space: Reverb, Delay และ Stereo" [level=2] [ref=f3e301]'
+      - paragraph [ref=f3e302]:
+        - strong [ref=f3e303]: "เป้าหมาย:"
+        - text: สร้างมิติให้เพลงด้วยห้องเสียงและการวางตำแหน่งซ้ายขวา โดยไม่ทำให้รก
+      - generic [ref=f3e304]:
+        - generic [ref=f3e305]:
+          - heading "Reverb แบบ send" [level=4] [ref=f3e306]
+          - paragraph [ref=f3e307]: ใช้ bus ร่วมกันทั้งเพลงเพื่อให้อยู่ในห้องเดียวกัน ปรับ pre-delay ให้เสียงหลักไม่จม
+        - generic [ref=f3e308]:
+          - heading "Delay ที่ sync" [level=4] [ref=f3e309]
+          - paragraph [ref=f3e310]: ตั้งเวลาให้เข้า BPM เช่น 1/8 หรือ dotted 1/8 และตัด high ใน feedback ไม่ให้รก
+        - generic [ref=f3e311]:
+          - heading "Panning และ Width" [level=4] [ref=f3e312]
+          - paragraph [ref=f3e313]: วางเครื่องดนตรีซ้ายขวาเพื่อเปิดที่ว่าง ส่วนเบส คิก และเสียงร้องหลักควรอยู่กลาง
+        - generic [ref=f3e314]:
+          - heading "Mono compatibility" [level=4] [ref=f3e315]
+          - paragraph [ref=f3e316]: เช็กเพลงแบบโมโนบ่อย ๆ ถ้าเสียงหายมาก อาจมีปัญหาเฟสที่ต้องแก้
+      - heading "ข้อสำคัญ 10 ข้อ" [level=3] [ref=f3e317]
+      - list [ref=f3e318]:
+        - listitem [ref=f3e319]: Reverb แบบ send ทำให้เครื่องดนตรีทั้งหมดอยู่ในห้องเดียวกัน
+        - listitem [ref=f3e320]: Pre-delay ช่วยให้เสียงหลักชัดก่อนห้องจะตอบ
+        - listitem [ref=f3e321]: Decay คือระยะเวลาที่เสียงสะท้อนหายไป ควรเข้ากับจังหวะและแนวเพลง
+        - listitem [ref=f3e322]: Damping ลดความถี่สูงในเสียงสะท้อนเพื่อให้นุ่มขึ้น
+        - listitem [ref=f3e323]: Early reflections ช่วยบอกขนาดของห้องที่จำลองขึ้น
+        - listitem [ref=f3e324]: Delay ที่ sync กับ BPM ทำให้เสียงสะท้อนเข้าจังหวะ
+        - listitem [ref=f3e325]: Ping-pong กระจายเสียงสะท้อนไปซ้ายขวาสลับกัน
+        - listitem [ref=f3e326]: Feedback ต่ำ ๆ ช่วยให้เสียงสะท้อนไม่รกเกินไป
+        - listitem [ref=f3e327]: Mid/Side ช่วยปรับความกว้างโดยไม่กระทบเสียงตรงกลาง
+        - listitem [ref=f3e328]: การเช็กโมโนบ่อย ๆ ช่วยจับปัญหาเฟสก่อนส่งงาน
+      - heading "บทเรียนเชิงลึก (กดเพื่อเปิดอ่าน)" [level=3] [ref=f3e329]
+      - group [ref=f3e330]:
+        - strong [ref=f3e332] [cursor=pointer]: 1. กายวิภาคของ Reverb
+        - paragraph [ref=f3e333]: Reverb ประกอบด้วย pre-delay ที่เว้นช่วงก่อนเสียงสะท้อน early reflections คือเสียงสะท้อนแรกที่บอกขนาดห้อง และ decay ที่บอกว่าเสียงหายช้าหรือเร็ว การ damping ลดความถี่สูงในเสียงสะท้อนให้นุ่มขึ้น ควรใช้แบบ send ร่วมกันทั้งเพลง ไม่ควรใส่ reverb แยกทุกแทร็กจนห้องแตกเป็นหลายห้อง
+        - list [ref=f3e334]:
+          - listitem [ref=f3e335]: สร้าง send ไป reverb แล้วปรับเฉพาะเสียงร้องเล็กน้อย
+          - listitem [ref=f3e336]: เพิ่ม pre-delay ทีละนิดเพื่อให้เสียงร้องชัดก่อนห้องจะตอบ
+        - paragraph [ref=f3e337]:
+          - strong [ref=f3e338]: "แบบฝึกหัด:"
+          - text: ตั้ง decay สั้นให้ดรัม และยาวให้แพด แล้วฟังความต่าง
+      - group [ref=f3e339]:
+        - strong [ref=f3e341] [cursor=pointer]: "2. Delay: Ping-pong, Feedback และ Ducking"
+      - group [ref=f3e342]:
+        - strong [ref=f3e344] [cursor=pointer]: 3. Stereo, Mid/Side และการเช็กโมโน
+      - group [ref=f3e345]:
+        - strong [ref=f3e347] [cursor=pointer]: 4. Pre-delay และ Decay ตามจังหวะเพลง
+      - group [ref=f3e348]:
+        - strong [ref=f3e350] [cursor=pointer]: 5. Reverb ประเภท Room, Hall และ Plate
+      - group [ref=f3e351]:
+        - strong [ref=f3e353] [cursor=pointer]: 6. Send และ Insert ต่างกันอย่างไร
+      - group [ref=f3e354]:
+        - strong [ref=f3e356] [cursor=pointer]: 7. Wet และ Dry ในการผสมเสียง
+      - group [ref=f3e357]:
+        - strong [ref=f3e359] [cursor=pointer]: 8. Stereo imaging ของเสียงซ้อน
+      - group [ref=f3e360]:
+        - strong [ref=f3e362] [cursor=pointer]: 9. Ducking ของ delay และ reverb
+      - group [ref=f3e363]:
+        - strong [ref=f3e365] [cursor=pointer]: 10. ทบทวนพื้นที่เสียงก่อนไปต่อ
+      - generic [ref=f3e366]: "เกร็ดความรู้: ถ้ารีเวิร์บเด่นกว่าเสียงหลัก ลด wet ลงจนแทบไม่รู้ตัว เพลงจะนุ่มขึ้นโดยไม่ดูเปียก"
+      - paragraph [ref=f3e367]:
+        - text: "🖥️ FL Studio 25: Fruity Reeverb 2 และ Mixer send —"
+        - link "เปิดบทเต็มในหลักสูตร 7 วัน ➜" [ref=f3e368] [cursor=pointer]:
+          - /url: "#/curriculum"
+      - figure [ref=f3e369]:
+        - img "ภาพสเตอริโอ" [ref=f3e370]:
+          - generic [ref=f3e377]:
+            - generic [ref=f3e378]: เสียงร้อง กลาง
+            - generic [ref=f3e379]: กีตาร์ ซ้าย
+            - generic [ref=f3e380]: คีย์ ขวา
+            - generic [ref=f3e381]: เบส กลาง
+            - generic [ref=f3e382]: แพดกระจายทั้งสองข้าง
+            - generic [ref=f3e383]: L
+            - generic [ref=f3e384]: R
+    - generic [ref=f3e385]:
+      - generic [ref=f3e386]: วันที่ 5
+      - generic [ref=f3e387]: 2 ชม.
+      - heading "Mix Bus, Saturation และการอ้างอิง" [level=2] [ref=f3e388]
+      - paragraph [ref=f3e389]:
+        - strong [ref=f3e390]: "เป้าหมาย:"
+        - text: รวมทุกแทร็กให้เกาะกลุ่มกันที่ bus และตรวจด้วยเพลงอ้างอิง
+      - generic [ref=f3e391]:
+        - generic [ref=f3e392]:
+          - heading "Bus compression" [level=4] [ref=f3e393]
+          - paragraph [ref=f3e394]: บีบเบา ๆ ราว 1–2 dB ที่ bus เพื่อให้เพลงแน่นและเกาะกลุ่ม
+        - generic [ref=f3e395]:
+          - heading "Saturation" [level=4] [ref=f3e396]
+          - paragraph [ref=f3e397]: เพิ่มฮาร์มอนิกให้เสียงอบอุ่นและเด่นขึ้น ใช้น้อยเพื่อให้รู้สึกได้โดยไม่บิด
+        - generic [ref=f3e398]:
+          - heading "Parallel compression" [level=4] [ref=f3e399]
+          - paragraph [ref=f3e400]: ผสมเสียงที่บีบแรงกลับเข้ากับต้นฉบับ ได้ทั้งพลังและความเป็นธรรมชาติ
+        - generic [ref=f3e401]:
+          - heading "Reference และ A/B" [level=4] [ref=f3e402]
+          - paragraph [ref=f3e403]: เปิดเพลงที่ชอบมาเทียบ และปรับระดับให้เท่ากันก่อน เพราะเสียงดังกว่ามักฟังว่าดีกว่าเสมอ
+      - heading "ข้อสำคัญ 10 ข้อ" [level=3] [ref=f3e404]
+      - list [ref=f3e405]:
+        - listitem [ref=f3e406]: ลำดับบน bus ทั่วไปคือ EQ แล้ว Compressor แล้ว Saturation แล้ว Limiter
+        - listitem [ref=f3e407]: Bus compression ควรบีบเบา ๆ ราว 1 ถึง 2 dB
+        - listitem [ref=f3e408]: Saturation แบบ tape ให้ความนุ่มและการบีบเล็กน้อย
+        - listitem [ref=f3e409]: Saturation แบบ tube ให้ความอุ่นจากฮาร์มอนิกคู่
+        - listitem [ref=f3e410]: Saturation แบบ clip ให้ความดุดันและความดังที่ชัด
+        - listitem [ref=f3e411]: Oversampling ช่วยลดเสียงรบกวนเมื่อใช้ saturation
+        - listitem [ref=f3e412]: เสียงร้องหลักควรเด่นที่สุดในเพลง
+        - listitem [ref=f3e413]: ความดังที่ต่างกันแค่ 1 dB ก็ฟังออก จึงต้องปรับให้ใกล้เคียงกันก่อนเทียบ
+        - listitem [ref=f3e414]: เพลงอ้างอิงช่วยให้ตัดสินโทนและความดังได้ตรงกับมาตรฐานจริง
+        - listitem [ref=f3e415]: เช็กลิสต์ของ mix ควรมีทั้งความชัด จังหวะ และที่ว่างของเสียง
+      - heading "บทเรียนเชิงลึก (กดเพื่อเปิดอ่าน)" [level=3] [ref=f3e416]
+      - group [ref=f3e417]:
+        - strong [ref=f3e419] [cursor=pointer]: 1. ลำดับ Mix Bus ที่ควรใช้
+        - paragraph [ref=f3e420]: ลำดับทั่วไปที่ใช้ได้ดีคือ EQ แก้ความถี่รวมก่อน แล้วค่อย Compressor เบา ๆ ตามด้วย Saturation เพื่อเติมความอบอุ่น และ Limiter เบา ๆ เป็นตัวสุดท้ายถ้าต้องการ ทุกขั้นควรปรับแค่เล็กน้อย เพราะบน bus เสียงทั้งเพลงจะเปลี่ยนเร็วมาก
+        - list [ref=f3e421]:
+          - listitem [ref=f3e422]: ใส่ EQ ที่ bus ตัดย่านที่ทับกันเพียงเล็กน้อย
+          - listitem [ref=f3e423]: ใส่ Compressor ที่ bus ให้ gain reduction 1 ถึง 2 dB
+        - paragraph [ref=f3e424]:
+          - strong [ref=f3e425]: "แบบฝึกหัด:"
+          - text: จัดลำดับ bus ใหม่สองแบบ แล้วฟังว่าแบบไหนเพลงนิ่งกว่า
+      - group [ref=f3e426]:
+        - strong [ref=f3e428] [cursor=pointer]: "2. Saturation: ประเภทและการใช้"
+      - group [ref=f3e429]:
+        - strong [ref=f3e431] [cursor=pointer]: 3. ความสมดุลและเช็กลิสต์ของ Mix
+      - group [ref=f3e432]:
+        - strong [ref=f3e434] [cursor=pointer]: 4. Bus compressor และการเกาะกลุ่ม
+      - group [ref=f3e435]:
+        - strong [ref=f3e437] [cursor=pointer]: 5. Saturation แบบขนาน
+      - group [ref=f3e438]:
+        - strong [ref=f3e440] [cursor=pointer]: 6. Mix bus limiter เบื้องต้น
+      - group [ref=f3e441]:
+        - strong [ref=f3e443] [cursor=pointer]: 7. การเทียบกับเพลงอ้างอิงแบบเต็ม
+      - group [ref=f3e444]:
+        - strong [ref=f3e446] [cursor=pointer]: 8. การฟังผ่านลำโพงและหูฟัง
+      - group [ref=f3e447]:
+        - strong [ref=f3e449] [cursor=pointer]: 9. ความล้าของหูและการพักฟัง
+      - group [ref=f3e450]:
+        - strong [ref=f3e452] [cursor=pointer]: 10. การแก้ปัญหาเมื่อ mix รกหรือแบน
+      - group [ref=f3e453]:
+        - strong [ref=f3e455] [cursor=pointer]: 11. ทบทวน Mix bus ก่อนไปต่อ
+      - generic [ref=f3e456]: "เกร็ดความรู้: ฟังในระดับเสียงต่ำถึงกลางเป็นประจำ เพราะหูจะเริ่มเพี้ยนเมื่อฟังดังนาน ๆ"
+      - paragraph [ref=f3e457]:
+        - text: "🖥️ FL Studio 25: Mixer master bus และ Fruity Parametric EQ 2 ที่ master —"
+        - link "เปิดบทเต็มในหลักสูตร 7 วัน ➜" [ref=f3e458] [cursor=pointer]:
+          - /url: "#/curriculum"
+      - figure [ref=f3e459]:
+        - img "ลำดับความดังในเพลง" [ref=f3e460]:
+          - generic [ref=f3e462]: ลำดับความดังในเพลงทั่วไป (จุดเริ่มต้น)
+          - generic [ref=f3e470]:
+            - generic [ref=f3e471]: เสียงร้อง
+            - generic [ref=f3e472]: คิก
+            - generic [ref=f3e473]: เบส
+            - generic [ref=f3e474]: คีย์
+            - generic [ref=f3e475]: แพด
+            - generic [ref=f3e476]: FX
+    - generic [ref=f3e477]:
+      - generic [ref=f3e478]: วันที่ 6
+      - generic [ref=f3e479]: 2 ชม.
+      - heading "Mastering Chain" [level=2] [ref=f3e480]
+      - paragraph [ref=f3e481]:
+        - strong [ref=f3e482]: "เป้าหมาย:"
+        - text: ต่อโซ่ Mastering ที่สะอาด ควบคุมความดังตามมาตรฐานแพลตฟอร์ม
+      - generic [ref=f3e483]:
+        - generic [ref=f3e484]:
+          - heading "EQ ระดับ master" [level=4] [ref=f3e485]
+          - paragraph [ref=f3e486]: ปรับเบา ๆ ราว ±1 dB ถ้าต้องปรับเยอะ ควรกลับไปแก้ที่ Mix
+        - generic [ref=f3e487]:
+          - heading "Multiband compression" [level=4] [ref=f3e488]
+          - paragraph [ref=f3e489]: แยกเป็นหลายย่านแล้วบีบแยกกัน เช่นคุมเบสไม่ให้ดันจนเลอะ
+        - generic [ref=f3e490]:
+          - heading "Stereo และ Limiter" [level=4] [ref=f3e491]
+          - paragraph [ref=f3e492]: ปรับความกว้างเล็กน้อย และตั้ง limiter ceiling ประมาณ -1 dBTP กันคลิป
+        - generic [ref=f3e493]:
+          - heading "LUFS และมาตรฐานแพลตฟอร์ม" [level=4] [ref=f3e494]
+          - paragraph [ref=f3e495]: ใช้ Integrated LUFS วัดความดัง แพลตฟอร์มสตรีมมิงมักอยู่ราว -14 LUFS ไม่จำเป็นต้องดังสุดเสมอ
+      - heading "ข้อสำคัญ 10 ข้อ" [level=3] [ref=f3e496]
+      - list [ref=f3e497]:
+        - listitem [ref=f3e498]: EQ ที่ master ควรปรับอ่อน ๆ ราว ±1 dB
+        - listitem [ref=f3e499]: ถ้าต้องปรับ master EQ เยอะ ให้กลับไปแก้ที่ Mix
+        - listitem [ref=f3e500]: Multiband แยกความถี่แล้วบีบแต่ละย่านแยกกัน
+        - listitem [ref=f3e501]: จุดแบ่งย่านที่ใช้บ่อยอยู่ราว 100 Hz, 500 Hz และ 5 kHz
+        - listitem [ref=f3e502]: Stereo width ที่ master ควรปรับเล็กน้อยและไม่ทำลายพลังของเบส
+        - listitem [ref=f3e503]: Limiter ใช้กันคลิปและดันความดังให้ถึงเป้า
+        - listitem [ref=f3e504]: True Peak ไม่ควรเกิน -1 dBTP เพื่อกันคลิปหลังแปลงไฟล์
+        - listitem [ref=f3e505]: Integrated LUFS วัดความดังของทั้งเพลง
+        - listitem [ref=f3e506]: Short-term LUFS ช่วยดูความดังในช่วงสั้นระหว่างเพลง
+        - listitem [ref=f3e507]: แพลตฟอร์มหลายแห่งปรับความดังให้ใกล้ -14 LUFS จึงไม่จำเป็นต้องดังสุดเสมอ
+      - heading "บทเรียนเชิงลึก (กดเพื่อเปิดอ่าน)" [level=3] [ref=f3e508]
+      - group [ref=f3e509]:
+        - strong [ref=f3e511] [cursor=pointer]: 1. EQ แบบ Mastering
+        - paragraph [ref=f3e512]: EQ ที่ master ควรใช้ค่ากว้างและอ่อน เช่น shelf ที่ปรับราว ±1 dB เพื่อให้โทนรวมเข้าที่ ไม่ควรตัดหรือเพิ่มความถี่แคบ ๆ มากเพราะจะทำให้เสียงไม่เป็นธรรมชาติ ถ้าพบว่าต้องปรับเยอะ ให้กลับไปแก้ที่ Mix
+        - list [ref=f3e513]:
+          - listitem [ref=f3e514]: ใช้ low shelf และ high shelf ปรับทีละนิด แล้วฟังทั้งเพลง
+          - listitem [ref=f3e515]: เทียบกับเพลงอ้างอิงในความดังที่เท่ากัน
+        - paragraph [ref=f3e516]:
+          - strong [ref=f3e517]: "แบบฝึกหัด:"
+          - text: ทำ master EQ ที่ปรับไม่เกิน 1 dB ทั้งหมด แล้วฟังว่าพอใจไหม
+      - group [ref=f3e518]:
+        - strong [ref=f3e520] [cursor=pointer]: 2. Multiband Compression
+      - group [ref=f3e521]:
+        - strong [ref=f3e523] [cursor=pointer]: 3. Limiter, True Peak และ LUFS
+      - group [ref=f3e524]:
+        - strong [ref=f3e526] [cursor=pointer]: 4. Stereo width ที่ master
+      - group [ref=f3e527]:
+        - strong [ref=f3e529] [cursor=pointer]: 5. Harmonic exciter และความสว่าง
+      - group [ref=f3e530]:
+        - strong [ref=f3e532] [cursor=pointer]: 6. Dither และการลดความลึกบิต
+      - group [ref=f3e533]:
+        - strong [ref=f3e535] [cursor=pointer]: 7. Loudness และความรู้สึกดัง
+      - group [ref=f3e536]:
+        - strong [ref=f3e538] [cursor=pointer]: 8. Mastering บนหลายอุปกรณ์
+      - group [ref=f3e539]:
+        - strong [ref=f3e541] [cursor=pointer]: 9. Track sequencing และช่องว่างระหว่างเพลง
+      - group [ref=f3e542]:
+        - strong [ref=f3e544] [cursor=pointer]: 10. ตรวจ True Peak และการแปลงไฟล์
+      - group [ref=f3e545]:
+        - strong [ref=f3e547] [cursor=pointer]: 11. ทบทวน Master ก่อนไปต่อ
+      - generic [ref=f3e548]: "เกร็ดความรู้: เมื่อลดความลึกบิต ใช้ dither เพื่อไม่ให้เกิดเสียงรบกวนแบบดิจิทัล"
+      - paragraph [ref=f3e549]:
+        - text: "🖥️ FL Studio 25: Fruity Limiter และ Maximus —"
+        - link "เปิดบทเต็มในหลักสูตร 7 วัน ➜" [ref=f3e550] [cursor=pointer]:
+          - /url: "#/curriculum"
+      - figure [ref=f3e551]:
+        - img "แผนผัง Multiband" [ref=f3e552]:
+          - generic [ref=f3e554]: "Multiband: แยกย่าน แล้วบีบแต่ละย่านแยกกัน"
+          - generic [ref=f3e565]:
+            - generic [ref=f3e566]: <100 Hz
+            - generic [ref=f3e567]: 100–500 Hz
+            - generic [ref=f3e568]: 500 Hz–5k
+            - generic [ref=f3e569]: 5k ขึ้นไป
+            - generic [ref=f3e570]: Comp
+            - generic [ref=f3e571]: Comp
+            - generic [ref=f3e572]: Comp
+            - generic [ref=f3e573]: Comp
+          - generic [ref=f3e574]: จุดแบ่งย่านปรับได้ตามเพลง ค่าที่แสดงเป็นตัวอย่างเริ่มต้น
+    - generic [ref=f3e575]:
+      - generic [ref=f3e576]: วันที่ 7
+      - generic [ref=f3e577]: 2 ชม.
+      - heading "Workflow และโปรเจกต์จริง" [level=2] [ref=f3e578]
+      - paragraph [ref=f3e579]:
+        - strong [ref=f3e580]: "เป้าหมาย:"
+        - text: ทำ Mix และ Master เพลงหนึ่งเพลงให้ครบขั้นตอน พร้อมเช็กลิสต์ก่อนส่งงาน
+      - generic [ref=f3e581]:
+        - generic [ref=f3e582]:
+          - heading "เช็กลิสต์ก่อนส่ง" [level=4] [ref=f3e583]
+          - paragraph [ref=f3e584]: ไม่มีคลิป ความดังตาม LUFS ที่เหมาะ เช็กโมโนแล้ว และฟังครบทั้งเพลง
+        - generic [ref=f3e585]:
+          - heading "จัดไฟล์และตั้งชื่อ" [level=4] [ref=f3e586]
+          - paragraph [ref=f3e587]: ตั้งชื่อแทร็กและ bus ให้ชัด เก็บสำรองโปรเจกต์ และ export Mix แยกไว้ก่อนเข้า master
+        - generic [ref=f3e588]:
+          - heading "ฟังในหลายที่" [level=4] [ref=f3e589]
+          - paragraph [ref=f3e590]: หูฟัง ลำโพง รถยนต์ และมือถือ แต่ละแบบจะบอกความจริงคนละส่วน
+        - generic [ref=f3e591]:
+          - heading "โปรเจกต์สุดท้าย" [level=4] [ref=f3e592]
+          - paragraph [ref=f3e593]: เลือกเพลงหนึ่งเพลงแล้วทำ Mix และ Master ครบทุกขั้น พร้อมจดสิ่งที่เปลี่ยนในแต่ละขั้น
+      - heading "ข้อสำคัญ 10 ข้อ" [level=3] [ref=f3e594]
+      - list [ref=f3e595]:
+        - listitem [ref=f3e596]: ตั้งชื่อแทร็กและ bus ให้ชัดเจนก่อนเริ่มงาน
+        - listitem [ref=f3e597]: จัดสีแยกกลุ่มเพื่อให้หาเครื่องดนตรีได้เร็ว
+        - listitem [ref=f3e598]: สำรองโปรเจกต์และไฟล์เสียงทั้งหมดไว้เสมอ
+        - listitem [ref=f3e599]: Export Mix แยกไว้ก่อนเข้า master
+        - listitem [ref=f3e600]: เลือกเพลงอ้างอิงที่แนวใกล้เคียงและผลิตดี
+        - listitem [ref=f3e601]: ฟังเพลงอ้างอิงบนอุปกรณ์เดียวกับที่ใช้ทดสอบงานของเรา
+        - listitem [ref=f3e602]: ฟังงานในหูฟัง ลำโพง รถยนต์ และมือถือ
+        - listitem [ref=f3e603]: เช็กโมโนก่อนส่งงานทุกครั้ง
+        - listitem [ref=f3e604]: จดบันทึกทุกการปรับแต่งเพื่อเรียนรู้ซ้ำได้
+        - listitem [ref=f3e605]: งานที่ดีคือเพลงที่คนอยากฟังซ้ำ ไม่ใช่เพลงที่ดังที่สุด
+      - heading "บทเรียนเชิงลึก (กดเพื่อเปิดอ่าน)" [level=3] [ref=f3e606]
+      - group [ref=f3e607]:
+        - strong [ref=f3e609] [cursor=pointer]: 1. จัด Session ให้เป็นระบบ
+        - paragraph [ref=f3e610]: ตั้งชื่อแทร็ก bus และ send ให้ชัด จัดสีแยกกลุ่ม เช่น ดรัม เบส คีย์ และเสียงร้อง เก็บโปรเจกต์พร้อมไฟล์สำรอง และ export Mix แยกก่อนเข้า master เพื่อให้กลับมาแก้ได้ง่ายในภายหลัง
+        - list [ref=f3e611]:
+          - listitem [ref=f3e612]: แยกแทร็กเป็นกลุ่มพร้อม bus ของแต่ละกลุ่ม
+          - listitem [ref=f3e613]: สำรองโปรเจกต์พร้อมไฟล์เสียงที่ใช้ทั้งหมด
+        - paragraph [ref=f3e614]:
+          - strong [ref=f3e615]: "แบบฝึกหัด:"
+          - text: จัดโปรเจกต์ของคุณตามกลุ่มนี้ภายใน 20 นาที
+      - group [ref=f3e616]:
+        - strong [ref=f3e618] [cursor=pointer]: 2. เลือกเพลงอ้างอิงอย่างไร
+      - group [ref=f3e619]:
+        - strong [ref=f3e621] [cursor=pointer]: 3. เกณฑ์ประเมินงานสุดท้าย
+      - group [ref=f3e622]:
+        - strong [ref=f3e624] [cursor=pointer]: 4. วางแผนการทำงานทีละขั้น
+      - group [ref=f3e625]:
+        - strong [ref=f3e627] [cursor=pointer]: 5. การวางเป้าหมายความดังและโทน
+      - group [ref=f3e628]:
+        - strong [ref=f3e630] [cursor=pointer]: 6. การจัดการ Session และการสำรองงาน
+      - group [ref=f3e631]:
+        - strong [ref=f3e633] [cursor=pointer]: 7. การขอฟีดแบ็กจากผู้อื่น
+      - group [ref=f3e634]:
+        - strong [ref=f3e636] [cursor=pointer]: 8. การเก็บบันทึกการเรียนรู้
+      - group [ref=f3e637]:
+        - strong [ref=f3e639] [cursor=pointer]: 9. การปรับ mix หลังจากฟังซ้ำ
+      - group [ref=f3e640]:
+        - strong [ref=f3e642] [cursor=pointer]: 10. การเตรียมงานเพื่อเผยแพร่
+      - group [ref=f3e643]:
+        - strong [ref=f3e645] [cursor=pointer]: 11. การพัฒนาตัวเองต่อจากคอร์ส
+      - generic [ref=f3e646]: "เกร็ดความรู้: เพลงที่ดีที่สุดไม่ใช่เพลงที่ดังที่สุด แต่คือเพลงที่คนอยากฟังซ้ำ"
+      - paragraph [ref=f3e647]:
+        - text: "🖥️ FL Studio 25: หน้าต่าง Playlist และการ export เสียง —"
+        - link "เปิดบทเต็มในหลักสูตร 7 วัน ➜" [ref=f3e648] [cursor=pointer]:
+          - /url: "#/curriculum"
+      - figure [ref=f3e649]:
+        - img "ขั้นตอนการทำงานทั้งหมด" [ref=f3e650]:
+          - generic [ref=f3e659]:
+            - generic [ref=f3e660]: 1. จัด Session
+            - generic [ref=f3e661]: 2. Rough mix
+            - generic [ref=f3e662]: 3. Mix ละเอียด
+            - generic [ref=f3e663]: 4. Master
+            - generic [ref=f3e664]: 5. ฟังหลายอุปกรณ์
+            - generic [ref=f3e665]: 6. ส่งงาน
+    - generic [ref=f3e666]:
+      - heading "อ่านจบแล้วไปไหนต่อ?" [level=2] [ref=f3e667]
+      - generic [ref=f3e668]:
+        - 'link "ลงลึก: หลักสูตร 28 บท" [ref=f3e669] [cursor=pointer]':
+          - /url: "#/curriculum"
+        - 'link "ลองมือ: Sound Lab" [ref=f3e670] [cursor=pointer]':
+          - /url: "#/lab"
+        - 'link "ทดสอบ: 56 ข้อ" [ref=f3e671] [cursor=pointer]':
+          - /url: "#/quiz"
+  - contentinfo [ref=f3e672]:
+    - generic [ref=f3e673]:
+      - strong [ref=f3e674]: MIXLAB
+      - generic [ref=f3e675]: ห้องเรียน Mix & Mastering ภาษาไทย • FL Studio 25 • ภาพ UI ที่วาดใหม่เป็น “ภาพจำลองเพื่อการเรียนรู้” ไม่ใช่ภาพหน้าจอจริงของ Image-Line
+      - generic [ref=f3e676]: ความถูกต้องของความรู้ > คุณภาพการสอน > ใช้งานได้ > สวยงาม

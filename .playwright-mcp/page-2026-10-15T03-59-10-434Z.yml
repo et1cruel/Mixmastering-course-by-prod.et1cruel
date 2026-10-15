@@ -1,0 +1,210 @@
+- generic [ref=f1e2]:
+  - navigation "เมนูหลัก" [ref=f1e3]:
+    - generic [ref=f1e4]:
+      - link "MIXLAB MIX & MASTERING ACADEMY" [ref=f1e5] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f1e6]: MIXLAB
+        - generic [ref=f1e7]: MIX & MASTERING ACADEMY
+      - generic [ref=f1e8]:
+        - link "หน้าแรก" [ref=f1e9] [cursor=pointer]:
+          - /url: "#/"
+        - link "แดชบอร์ด" [ref=f1e10] [cursor=pointer]:
+          - /url: "#/dashboard"
+        - link "หลักสูตร 7 วัน" [ref=f1e11] [cursor=pointer]:
+          - /url: "#/curriculum"
+        - link "Sound Lab" [ref=f1e12] [cursor=pointer]:
+          - /url: "#/lab"
+        - link "พจนานุกรม" [ref=f1e13] [cursor=pointer]:
+          - /url: "#/glossary"
+        - link "อ้างอิง" [ref=f1e14] [cursor=pointer]:
+          - /url: "#/references"
+      - generic [ref=f1e15]:
+        - button "🎓 Teacher" [ref=f1e16] [cursor=pointer]
+        - button "▶ เคลื่อนไหว" [ref=f1e17] [cursor=pointer]
+  - generic [ref=f1e19]: MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK • MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK •
+  - main [ref=f1e2463]:
+    - generic [ref=f1e2464]:
+      - link "◀ หลักสูตร" [ref=f1e2465] [cursor=pointer]:
+        - /url: "#/curriculum"
+      - generic [ref=f1e2466]: DAY 4
+      - generic [ref=f1e2467]: Beginner
+      - generic [ref=f1e2468]: 30 นาที
+      - heading "ไดนามิก ทรานเซียนต์ และ ADSR" [level=1] [ref=f1e2469]
+      - paragraph [ref=f1e2470]: Dynamics, Transients & ADSR
+      - generic [ref=f1e2471]:
+        - button "☐ ทำเครื่องหมายว่าเรียนจบแล้ว" [ref=f1e2472] [cursor=pointer]
+        - button "☆ บันทึกบทเรียน" [ref=f1e2473] [cursor=pointer]
+        - link "⛶ สไลด์ Day 4" [ref=f1e2474] [cursor=pointer]:
+          - /url: "#/slides/4"
+        - button "🖨 Print / PDF" [ref=f1e2475] [cursor=pointer]
+      - generic [ref=f1e2476]:
+        - complementary "สารบัญ" [ref=f1e2477]:
+          - strong [ref=f1e2478]: สารบัญ
+          - link "ก่อนหมุน Compressor ต้องเข้าใจไดนามิกก่อน" [ref=f1e2479] [cursor=pointer]:
+            - /url: "#b-0"
+          - link "1. Dynamics และ Dynamic range" [ref=f1e2480] [cursor=pointer]:
+            - /url: "#b-1"
+          - link "p" [ref=f1e2481] [cursor=pointer]:
+            - /url: "#b-2"
+          - link "p" [ref=f1e2482] [cursor=pointer]:
+            - /url: "#b-3"
+          - 'link "2. Transient vs Body: หัวไม้กับเนื้อไม้" [ref=f1e2483] [cursor=pointer]':
+            - /url: "#b-4"
+          - link "p" [ref=f1e2484] [cursor=pointer]:
+            - /url: "#b-5"
+          - link "p" [ref=f1e2485] [cursor=pointer]:
+            - /url: "#b-6"
+          - link "ดู Transient ด้วยตาใน FL Studio" [ref=f1e2486] [cursor=pointer]:
+            - /url: "#b-7"
+          - 'link "3. ADSR: แผนที่ชีวิตของหนึ่งเสียง" [ref=f1e2487] [cursor=pointer]':
+            - /url: "#b-8"
+          - link "p" [ref=f1e2488] [cursor=pointer]:
+            - /url: "#b-9"
+          - link "ADSR ของเครื่องดนตรีทั่วไป" [ref=f1e2489] [cursor=pointer]:
+            - /url: "#b-10"
+          - link "p" [ref=f1e2490] [cursor=pointer]:
+            - /url: "#b-11"
+          - 'link "ตัวอย่าง: ปัญหาไหนใช้เครื่องมืออะไร" [ref=f1e2491] [cursor=pointer]':
+            - /url: "#b-12"
+          - 'link "ขั้นตอนฝึกหู: ฟัง Transient ออก" [ref=f1e2492] [cursor=pointer]':
+            - /url: "#b-13"
+          - 'link "Myth: เสียง Transient คมๆ แปลว่ามิกซ์ดีเสมอ" [ref=f1e2493] [cursor=pointer]':
+            - /url: "#b-14"
+          - link "ข้อผิดพลาดที่พบบ่อย" [ref=f1e2494] [cursor=pointer]:
+            - /url: "#b-15"
+          - link "สรุปบทเรียน" [ref=f1e2495] [cursor=pointer]:
+            - /url: "#b-16"
+        - article [ref=f1e2496]:
+          - heading "🎯 สิ่งที่จะได้รับ" [level=2] [ref=f1e2497]
+          - list [ref=f1e2498]:
+            - listitem [ref=f1e2499]: อธิบายความหมายของ Dynamics และ Dynamic range ได้
+            - listitem [ref=f1e2500]: แยก Transient กับ Body/Sustain ของเสียงได้ด้วยหูและด้วยตา
+            - listitem [ref=f1e2501]: อ่าน Envelope แบบ ADSR และโยงกับการมิกซ์ได้
+            - listitem [ref=f1e2502]: เลือกได้ว่าปัญหาไหนแก้ด้วย Volume/EQ/Compressor
+          - generic [ref=f1e2503]:
+            - heading "ก่อนหมุน Compressor ต้องเข้าใจไดนามิกก่อน" [level=3] [ref=f1e2504]
+            - paragraph [ref=f1e2505]: Compressor ไม่ใช่ปุ่มทำให้เสียงดังหรือเสียงดี แต่คือเครื่องมือจัดการความต่างระหว่างเสียงเบากับเสียงดัง บทนี้จะปูพื้นฐานว่าเสียงแต่ละชิ้นเกิด ดำรงอยู่ และดับไปอย่างไร เพื่อให้บทต่อไปหมุน Compressor แล้วรู้ว่ากำลังทำอะไรกับเสียงอยู่
+          - generic [ref=f1e2506]:
+            - figure "ภาพจำลองเพื่อการเรียนรู้ แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e2507]:
+              - img "แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e2508]:
+                - generic [ref=f1e2509]: INPUT ➜ OUTPUT (จำลอง)
+              - generic [ref=f1e2514]:
+                - generic [ref=f1e2515]: ภาพจำลองเพื่อการเรียนรู้
+                - text: แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้
+            - heading "1. Dynamics และ Dynamic range" [level=2] [ref=f1e2516]
+          - paragraph [ref=f1e2518]: Dynamics คือความเปลี่ยนแปลงของความดังในเพลง ตั้งแต่เสียงกระซิบเบาๆ ไปจนถึงท่อนฮุกที่ดังสุด Dynamic range คือระยะห่างระหว่างจุดเบาสุดกับดังสุด เพลงบรรเลงเปียโนอาจมี Dynamic range กว้างมาก ส่วนเพลง EDM ที่อัดแน่นทั้งเพลงจะมี Range แคบ การมิกซ์คือศิลปะของการจัด Range นี้ให้เพลงมีชีวิตแต่ยังฟังชัดในทุกอุปกรณ์
+          - paragraph [ref=f1e2520]: ปัญหาที่พบบ่อยคือ Range กว้างเกินไปจนท่อนเบาฟังไม่รู้เรื่องในรถยนต์ หรือแคบเกินไปจนเพลงแบนไม่มีอารมณ์ Compressor, Limiter และ Automation ล้วนเป็นเครื่องมือจัดการเรื่องนี้ทั้งสิ้น แต่ถ้าใช้โดยไม่เข้าใจว่าเสียงไหนควรคงไดนามิกไว้ เราจะได้เพลงที่ดังแต่ไร้ชีวิตกลับมา
+          - generic [ref=f1e2521]:
+            - figure "ภาพจำลองเพื่อการเรียนรู้ แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e2522]:
+              - img "แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e2523]:
+                - generic [ref=f1e2524]: INPUT ➜ OUTPUT (จำลอง)
+              - generic [ref=f1e2529]:
+                - generic [ref=f1e2530]: ภาพจำลองเพื่อการเรียนรู้
+                - text: แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้
+            - 'heading "2. Transient vs Body: หัวไม้กับเนื้อไม้" [level=2] [ref=f1e2531]'
+          - paragraph [ref=f1e2533]: เสียงเครื่องดนตรีเกือบทุกชิ้นแบ่งได้เป็นสองส่วนคือ Transient ซึ่งเป็นหัวเสียงช่วงแรกที่ดังสั้นๆ เช่น เสียงไม้ตีกระทบหนังสแนร์ หรือเสียงปิ๊กกระทบสายกีตาร์ ส่วนที่เหลือคือ Body/Sustain ซึ่งเป็นเนื้อเสียงที่ลากยาวตามมา Transient บอกจังหวะและความกระแทก ส่วน Body บอกความอิ่มและโทน
+          - paragraph [ref=f1e2535]: ลองนึกภาพ Transient เป็นหัวไม้ขีดที่จุดติดวูบเดียว ส่วน Body เป็นเปลวเทียนที่ลุกต่อ ถ้า Transient หายไป กลองจะฟังแล้วทู่ จังหวะไม่ชัด ถ้า Body หายไป กลองจะเหลือแต่เสียงแป๊กๆ ไม่มีน้ำหนัก การมิกซ์ที่ดีต้องตัดสินใจว่าจะเน้นหัวหรือเนื้อของแต่ละชิ้น ไม่ใช่ทำให้ทุกอย่างกระแทกพร้อมกันหมด
+          - generic [ref=f1e2537]:
+            - generic [ref=f1e2538]: ภาพจำลองเพื่อการเรียนรู้ — Edison / Wave Candy
+            - strong [ref=f1e2539]: 🖥️ ดู Transient ด้วยตาใน FL Studio
+            - paragraph [ref=f1e2540]: เปิด Edison หรือ Playlist waveform ซูมดูหัวเสียงสแนร์ จะเห็นยอดแหลมช่วงแรก (Transient) แล้วตามด้วยคลื่นที่เตี้ยลง (Body) เปิด Wave Candy ในโหมด Oscilloscope หรือ Meter ควบคู่กันจะเห็นยอด Peak กระโดดตาม Transient แบบเรียลไทม์
+          - 'heading "3. ADSR: แผนที่ชีวิตของหนึ่งเสียง" [level=2] [ref=f1e2542]'
+          - paragraph [ref=f1e2544]: ADSR ย่อมาจาก Attack, Decay, Sustain, Release เป็นคำอธิบายว่าเสียงหนึ่งตัวดังขึ้นและดับไปอย่างไร Attack คือเวลาไต่จากเงียบไปดังสุด Decay คือเวลาตกลงมาอยู่ระดับ Sustain Sustain คือระดับที่ค้างอยู่ขณะยังกดโน้ต และ Release คือเวลาดับหลังปล่อยโน้ต เสียงสแนร์มี Attack ไว Release สั้น ส่วนเสียง Pad มี Attack ช้า Release ยาว
+          - generic [ref=f1e2545]:
+            - heading "ADSR ของเครื่องดนตรีทั่วไป" [level=4] [ref=f1e2546]
+            - table [ref=f1e2547]:
+              - rowgroup [ref=f1e2548]:
+                - row [ref=f1e2549]:
+                  - columnheader "เสียง" [ref=f1e2550]
+                  - columnheader "Attack" [ref=f1e2551]
+                  - columnheader "Sustain/Release" [ref=f1e2552]
+                  - columnheader "สิ่งที่ต้องระวังตอนมิกซ์" [ref=f1e2553]
+              - rowgroup [ref=f1e2554]:
+                - row [ref=f1e2555]:
+                  - cell "Kick / Snare" [ref=f1e2556]
+                  - cell "ไวมาก" [ref=f1e2557]
+                  - cell "สั้น" [ref=f1e2558]
+                  - cell "ถ้ากด Transient หนักไปจังหวะจะทู่" [ref=f1e2559]
+                - row [ref=f1e2560]:
+                  - cell "Bass / 808" [ref=f1e2561]
+                  - cell "ไว–กลาง" [ref=f1e2562]
+                  - cell "ยาว" [ref=f1e2563]
+                  - cell "Release ยาวไปจะกลบโน้ตต่อไป" [ref=f1e2564]
+                - row [ref=f1e2565]:
+                  - cell "Piano / Guitar" [ref=f1e2566]
+                  - cell "ไว" [ref=f1e2567]
+                  - cell "กลาง" [ref=f1e2568]
+                  - cell "Body ยาวสะสมจนทึบได้" [ref=f1e2569]
+                - row [ref=f1e2570]:
+                  - cell "Pad / String" [ref=f1e2571]
+                  - cell "ช้า" [ref=f1e2572]
+                  - cell "ยาวมาก" [ref=f1e2573]
+                  - cell "กินพื้นที่ Sustain ของชิ้นอื่น" [ref=f1e2574]
+          - paragraph [ref=f1e2576]: เหตุผลที่คนมิกซ์ต้องรู้ ADSR เพราะปุ่ม Attack/Release บน Compressor ทำงานกับ Envelope นี้โดยตรง ถ้าเข้าใจว่าเสียงไหน Attack ไวแค่ไหน จะตั้ง Compressor ให้คงหัวเสียงไว้หรือกดหัวเสียงลงได้ตามตั้งใจ แทนที่จะหมุนมั่วแล้วหวังว่าเสียงจะดีขึ้นเอง
+          - generic [ref=f1e2578]:
+            - strong [ref=f1e2579]: "🎧 ตัวอย่าง: ปัญหาไหนใช้เครื่องมืออะไร"
+            - paragraph [ref=f1e2580]: เสียงร้องบางคำเบาจนฟังไม่รู้เรื่อง แก้ด้วย Automation หรือ Compressor เบาๆ เพราะเป็นเรื่อง Dynamics เสียงกีตาร์บวมที่ 300 Hz ตลอดเพลง แก้ด้วย Static EQ เพราะเป็นเรื่องโทน ส่วนเสียงสแนร์หัวหายจังหวะไม่ชัด อาจแก้ด้วยการคง Transient ไว้แล้วคัต Body ที่บวม ซึ่งต้องใช้ทั้ง EQ และ Compressor ร่วมกัน
+          - generic [ref=f1e2581]:
+            - 'heading "ขั้นตอนฝึกหู: ฟัง Transient ออก" [level=4] [ref=f1e2582]'
+            - list [ref=f1e2583]:
+              - listitem [ref=f1e2584]: เปิดลูปกลอง Solo สแนร์ ฟังเฉพาะหัวเสียงแป๊กๆ แรก
+              - listitem [ref=f1e2585]: ลองลด Volume ลงครึ่งหนึ่ง สังเกตว่าหัวเสียงยังชัดอยู่หรือไม่
+              - listitem [ref=f1e2586]: เปิด/ปิด Kick เทียบว่าเสียงไหนหัวคมกว่ากัน
+              - listitem [ref=f1e2587]: ลองนึกว่าแต่ละชิ้นในเพลงตัวเอง อยากได้หัวชัดหรือเนื้ออิ่มมากกว่ากัน จดไว้ใช้ในบท Compressor
+          - generic [ref=f1e2589]:
+            - strong [ref=f1e2590]: "💥 Myth: เสียง Transient คมๆ แปลว่ามิกซ์ดีเสมอ"
+            - list
+            - paragraph [ref=f1e2591]: ความจริงคือถ้าทุกชิ้นคมพร้อมกัน หูจะล้าและเพลงจะฟังแล้วเครียด เพลงดีๆ มีการจัดลำดับว่าให้ชิ้นไหนเด่นหัว เช่น Kick กับสแนร์คม ส่วนที่เหลือเนื้อเนียนรองรับ การมิกซ์คือการจัดลำดับความสำคัญ ไม่ใช่การทำให้ทุกอย่างเด่นที่สุด
+          - generic [ref=f1e2593]:
+            - strong [ref=f1e2594]: 💥 ข้อผิดพลาดที่พบบ่อย
+            - list [ref=f1e2595]:
+              - listitem [ref=f1e2596]: แยกไม่ออกว่าปัญหาคือโทน (EQ) หรือไดนามิก (Compressor) แล้วแก้ผิดเครื่องมือ
+              - listitem [ref=f1e2597]: คิดว่า Dynamic range แคบ = ผิดเสมอ ทั้งที่บางแนวเพลงต้องการความแน่น
+              - listitem [ref=f1e2598]: ฟังแต่ตอน Solo จนลืมว่า Transient ที่ชัดตอน Solo อาจแย่งซีนตอนเล่นรวม
+          - generic [ref=f1e2599]:
+            - generic [ref=f1e2600]:
+              - strong [ref=f1e2601]: 📌 สรุปบทเรียน
+              - paragraph [ref=f1e2602]: Dynamics คือเรื่องราวความดัง Transient คือหัวเสียง Body คือเนื้อเสียง ADSR คือแผนที่ชีวิตของเสียง เข้าใจสามอย่างนี้ก่อน แล้วบท Compressor ต่อไปจะเป็นการลงมือทำอย่างเข้าใจ ไม่ใช่การหมุนมั่ว
+            - generic [ref=f1e2603]:
+              - 'button "💡 รู้ไหม?: ทำไมเพลงกว้างๆ มักพังบนลำโพงมือถือ" [ref=f1e2604] [cursor=pointer]'
+              - 'button "💡 เทคนิคสตูดิโอ: กฎแพนแบบ LCR สำหรับมือใหม่" [ref=f1e2605] [cursor=pointer]'
+          - heading "💡 เกร็ดความรู้ประจำบท (2)" [level=2] [ref=f1e2606]
+          - generic [ref=f1e2607]:
+            - button "รู้ไหม? ทำไมเพลงกว้างๆ มักพังบนลำโพงมือถือ" [ref=f1e2608] [cursor=pointer]
+            - button "รู้ไหม? กฎแพนแบบ LCR สำหรับมือใหม่" [ref=f1e2609] [cursor=pointer]
+          - heading "📝 แบบทดสอบท้ายบท (2 ข้อ)" [level=2] [ref=f1e2610]
+          - generic [ref=f1e2611]:
+            - generic [ref=f1e2612]:
+              - strong [ref=f1e2613]: ข้อ 1. ทำไมเบสและ kick ควรวางไว้กลาง (mono) เป็นหลัก?
+              - generic [ref=f1e2614]: ตัวเลือก
+              - generic [ref=f1e2615]:
+                - button "เพราะลำโพงซับวูฟเฟอร์มีข้างเดียวเสมอ" [ref=f1e2616] [cursor=pointer]
+                - button "เพราะเสียงต่ำที่แพนสุดข้างจะทำให้ภาพสเตอริโอเอียง เฟสมีปัญหา และระบบ mono/คลับเล่นแล้วเบสหาย" [ref=f1e2617] [cursor=pointer]
+                - button "เพราะ FL บังคับ" [ref=f1e2618] [cursor=pointer]
+                - button "เพราะเสียงต่ำแพนไม่ได้ทางเทคนิค" [ref=f1e2619] [cursor=pointer]
+            - generic [ref=f1e2620]:
+              - strong [ref=f1e2621]: ข้อ 2. มิกซ์ที่ฟังในหูฟังว่ากว้างดีแล้ว ไม่จำเป็นต้องเช็ก mono อีก
+              - generic [ref=f1e2622]: ถูก/ผิด
+              - generic [ref=f1e2623]:
+                - button "ถูก" [ref=f1e2624] [cursor=pointer]
+                - button "ผิด" [ref=f1e2625] [cursor=pointer]
+            - button "ส่งคำตอบ (0/2)" [ref=f1e2626] [cursor=pointer]
+          - heading "📚 อ่านต่อ & อ้างอิง" [level=2] [ref=f1e2627]
+          - list [ref=f1e2628]:
+            - listitem [ref=f1e2629]: "FL Studio Manual: Edison"
+            - listitem [ref=f1e2630]: "FL Studio Manual: Wave Candy"
+          - generic [ref=f1e2631]:
+            - link "◀ Dynamic EQ, Mid/Side และการเทียบ Before-After" [ref=f1e2632] [cursor=pointer]:
+              - /url: "#/lesson/d3l4"
+            - link "พารามิเตอร์ Compressor และการอ่านมิเตอร์ ▶" [ref=f1e2633] [cursor=pointer]:
+              - /url: "#/lesson/d4l2"
+          - paragraph [ref=f1e2634]:
+            - text: "สไลด์ Day 4:"
+            - link "เปิดห้องสไลด์ (14 หน้า)" [ref=f1e2635] [cursor=pointer]:
+              - /url: "#/slides/4"
+            - text: "• เกร็ดทั้งหมดของวัน: 6 รายการ"
+  - contentinfo [ref=f1e445]:
+    - generic [ref=f1e446]:
+      - strong [ref=f1e447]: MIXLAB
+      - generic [ref=f1e448]: ห้องเรียน Mix & Mastering ภาษาไทย • FL Studio 25 • ภาพ UI ที่วาดใหม่เป็น “ภาพจำลองเพื่อการเรียนรู้” ไม่ใช่ภาพหน้าจอจริงของ Image-Line
+      - generic [ref=f1e449]: ความถูกต้องของความรู้ > คุณภาพการสอน > ใช้งานได้ > สวยงาม

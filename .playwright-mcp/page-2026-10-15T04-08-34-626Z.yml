@@ -1,0 +1,80 @@
+- generic [ref=e2]:
+  - navigation "เมนูหลัก" [ref=e3]:
+    - generic [ref=e4]:
+      - link "MIXLAB MIX & MASTERING ACADEMY" [ref=e5] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=e6]: MIXLAB
+        - generic [ref=e7]: MIX & MASTERING ACADEMY
+      - generic [ref=e8]:
+        - link "หน้าแรก" [ref=e9] [cursor=pointer]:
+          - /url: "#/"
+        - link "แดชบอร์ด" [ref=e10] [cursor=pointer]:
+          - /url: "#/dashboard"
+        - link "หลักสูตร 7 วัน" [ref=e11] [cursor=pointer]:
+          - /url: "#/curriculum"
+        - link "Sound Lab" [ref=e12] [cursor=pointer]:
+          - /url: "#/lab"
+        - link "พจนานุกรม" [ref=e13] [cursor=pointer]:
+          - /url: "#/glossary"
+        - link "อ้างอิง" [ref=e14] [cursor=pointer]:
+          - /url: "#/references"
+      - generic [ref=e15]:
+        - button "🎓 Teacher" [ref=e16] [cursor=pointer]
+        - button "▶ เคลื่อนไหว" [ref=e17] [cursor=pointer]
+  - generic [ref=e19]: MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK • MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK •
+  - main [ref=e20]:
+    - heading "SOUND LAB — ห้องทดลองเสียง" [level=2] [ref=e22]
+    - generic [ref=e23]: เครื่องมือ Interactive สำหรับเรียนรู้ ไม่ได้ประมวลผลเสียงจริงของผู้ใช้ (ระบุชัดเจนว่าเป็น Simulator เพื่อการเรียนรู้) ทุกเครื่องมือมี Input, Output และคำอธิบายวิธีอ่านผล
+    - generic [ref=e24]:
+      - navigation "เลือกเครื่องมือ" [ref=e25]:
+        - button "FREQUENCY EXPLORER" [pressed] [ref=e26] [cursor=pointer]
+        - button "EQ SIMULATOR" [ref=e27] [cursor=pointer]
+        - button "COMPRESSOR SIM" [ref=e28] [cursor=pointer]
+        - button "GAIN STAGING CALC" [ref=e29] [cursor=pointer]
+        - button "DB TO GAIN" [ref=e30] [cursor=pointer]
+        - button "STEREO WIDTH DEMO" [ref=e31] [cursor=pointer]
+        - button "LOUDNESS TOOL" [ref=e32] [cursor=pointer]
+        - button "SAMPLE RATE EXPLORER" [ref=e33] [cursor=pointer]
+      - region "FREQUENCY EXPLORER" [ref=e34]:
+        - generic [ref=e35]:
+          - heading "Frequency Explorer — คลิกย่านความถี่" [level=3] [ref=e36]
+          - tablist "ย่านความถี่" [ref=e37]:
+            - tab "Sub 20–60Hz" [selected] [ref=e38] [cursor=pointer]:
+              - strong [ref=e39]: Sub
+              - generic [ref=e40]: 20–60Hz
+            - tab "Bass 60–250Hz" [ref=e41] [cursor=pointer]:
+              - strong [ref=e42]: Bass
+              - generic [ref=e43]: 60–250Hz
+            - tab "Low-Mid 250–500Hz" [ref=e44] [cursor=pointer]:
+              - strong [ref=e45]: Low-Mid
+              - generic [ref=e46]: 250–500Hz
+            - tab "Mid 500Hz–2kHz" [ref=e47] [cursor=pointer]:
+              - strong [ref=e48]: Mid
+              - generic [ref=e49]: 500Hz–2kHz
+            - tab "High-Mid 2–6kHz" [ref=e50] [cursor=pointer]:
+              - strong [ref=e51]: High-Mid
+              - generic [ref=e52]: 2–6kHz
+            - tab "Presence 6–10kHz" [ref=e53] [cursor=pointer]:
+              - strong [ref=e54]: Presence
+              - generic [ref=e55]: 6–10kHz
+            - tab "Brilliance 10–20kHz" [ref=e56] [cursor=pointer]:
+              - strong [ref=e57]: Brilliance
+              - generic [ref=e58]: 10–20kHz
+          - generic [ref=e59]:
+            - heading "Sub — 20–60Hz" [level=3] [ref=e60]
+            - paragraph [ref=e61]:
+              - strong [ref=e62]: "ลักษณะ:"
+              - text: ความสั่น แรงอัดอก — รู้สึกมากกว่าฟัง
+            - paragraph [ref=e63]:
+              - strong [ref=e64]: "ตัวอย่าง:"
+              - text: Kick, 808, Sub Bass
+            - generic [ref=e65]:
+              - strong [ref=e66]: "คำแนะนำ:"
+              - text: ห้องเล็กและหูฟังถูกๆ ให้เสียงย่านนี้ไม่ตรง อย่าบูสต์มั่ว — เริ่มจาก HPF ตัดส่วนเกินแล้วฟังว่าเนื้อหายไหม
+          - img "แผนภาพสเปกตรัมจำลองของแต่ละย่าน" [ref=e67]
+          - paragraph [ref=e111]: ⚠️ ตัวเลขย่านเป็นไกด์ ไม่ใช่เส้นตาย — ลักษณะเสียงต่างกันตามแหล่งกำเนิดและบริบท อย่าจำเป็นสูตรตายตัว ให้ใช้หูตัดสิน
+  - contentinfo [ref=e112]:
+    - generic [ref=e113]:
+      - strong [ref=e114]: MIXLAB
+      - generic [ref=e115]: ห้องเรียน Mix & Mastering ภาษาไทย • FL Studio 25 • ภาพ UI ที่วาดใหม่เป็น “ภาพจำลองเพื่อการเรียนรู้” ไม่ใช่ภาพหน้าจอจริงของ Image-Line
+      - generic [ref=e116]: ความถูกต้องของความรู้ > คุณภาพการสอน > ใช้งานได้ > สวยงาม

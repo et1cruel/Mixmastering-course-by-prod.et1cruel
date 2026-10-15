@@ -1,0 +1,203 @@
+- generic [ref=f1e2]:
+  - navigation "เมนูหลัก" [ref=f1e3]:
+    - generic [ref=f1e4]:
+      - link "MIXLAB MIX & MASTERING ACADEMY" [ref=f1e5] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f1e6]: MIXLAB
+        - generic [ref=f1e7]: MIX & MASTERING ACADEMY
+      - generic [ref=f1e8]:
+        - link "หน้าแรก" [ref=f1e9] [cursor=pointer]:
+          - /url: "#/"
+        - link "แดชบอร์ด" [ref=f1e10] [cursor=pointer]:
+          - /url: "#/dashboard"
+        - link "หลักสูตร 7 วัน" [ref=f1e11] [cursor=pointer]:
+          - /url: "#/curriculum"
+        - link "Sound Lab" [ref=f1e12] [cursor=pointer]:
+          - /url: "#/lab"
+        - link "พจนานุกรม" [ref=f1e13] [cursor=pointer]:
+          - /url: "#/glossary"
+        - link "อ้างอิง" [ref=f1e14] [cursor=pointer]:
+          - /url: "#/references"
+      - generic [ref=f1e15]:
+        - button "🎓 Teacher" [ref=f1e16] [cursor=pointer]
+        - button "▶ เคลื่อนไหว" [ref=f1e17] [cursor=pointer]
+  - generic [ref=f1e19]: MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK • MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK •
+  - main [ref=f1e784]:
+    - generic [ref=f1e785]:
+      - link "◀ หลักสูตร" [ref=f1e786] [cursor=pointer]:
+        - /url: "#/curriculum"
+      - generic [ref=f1e787]: DAY 1
+      - generic [ref=f1e788]: Beginner
+      - generic [ref=f1e789]: 50 นาที
+      - heading "เดซิเบล Peak RMS LUFS เฮดรูม และคลิปปิง" [level=1] [ref=f1e790]
+      - paragraph [ref=f1e791]: Decibels, Peak, RMS, LUFS, Headroom & Clipping
+      - generic [ref=f1e792]:
+        - button "☐ ทำเครื่องหมายว่าเรียนจบแล้ว" [ref=f1e793] [cursor=pointer]
+        - button "☆ บันทึกบทเรียน" [ref=f1e794] [cursor=pointer]
+        - link "⛶ สไลด์ Day 1" [ref=f1e795] [cursor=pointer]:
+          - /url: "#/slides/1"
+        - button "🖨 Print / PDF" [ref=f1e796] [cursor=pointer]
+      - generic [ref=f1e797]:
+        - complementary "สารบัญ" [ref=f1e798]:
+          - strong [ref=f1e799]: สารบัญ
+          - link "เริ่มต้น" [ref=f1e800] [cursor=pointer]:
+            - /url: "#b-0"
+          - link "เดซิเบลมีหลายตระกูล อย่าใช้ปนกัน" [ref=f1e801] [cursor=pointer]:
+            - /url: "#b-1"
+          - link "p" [ref=f1e802] [cursor=pointer]:
+            - /url: "#b-2"
+          - link "table" [ref=f1e803] [cursor=pointer]:
+            - /url: "#b-3"
+          - link "p" [ref=f1e804] [cursor=pointer]:
+            - /url: "#b-4"
+          - link "list" [ref=f1e805] [cursor=pointer]:
+            - /url: "#b-5"
+          - link "p" [ref=f1e806] [cursor=pointer]:
+            - /url: "#b-6"
+          - 'link "ก่อน–หลัง: mix ชนเพดาน vs เผื่อ headroom" [ref=f1e807] [cursor=pointer]':
+            - /url: "#b-7"
+          - link "warning" [ref=f1e808] [cursor=pointer]:
+            - /url: "#b-8"
+          - link "flstudio" [ref=f1e809] [cursor=pointer]:
+            - /url: "#b-9"
+          - link "เช็กลิสต์ก่อนส่ง mix" [ref=f1e810] [cursor=pointer]:
+            - /url: "#b-10"
+          - link "summary" [ref=f1e811] [cursor=pointer]:
+            - /url: "#b-11"
+        - article [ref=f1e812]:
+          - heading "🎯 สิ่งที่จะได้รับ" [level=2] [ref=f1e813]
+          - list [ref=f1e814]:
+            - listitem [ref=f1e815]: แยก dBFS, dB SPL, dBu และ LUFS ได้ถูกต้อง
+            - listitem [ref=f1e816]: อ่านค่า Peak, RMS และ LUFS บนมิเตอร์ได้
+            - listitem [ref=f1e817]: อธิบาย headroom และ true peak ได้
+            - listitem [ref=f1e818]: ตั้งเป้าหมายความดัง mix ให้เหลือที่สำหรับ mastering ได้
+          - paragraph [ref=f1e820]: มือใหม่สับสนหน่วยวัดเสียงบ่อยที่สุด เพราะตัวเลขบนมิเตอร์มีหลายแบบและแต่ละแบบตอบคำถามคนละข้อ Peak ตอบว่า "พีคสูงสุดชนเพดานหรือยัง" RMS ตอบว่า "พลังงานเฉลี่ยดังแค่ไหน" ส่วน LUFS ตอบว่า "หูมนุษย์รู้สึกว่าดังแค่ไหน" บทนี้จะแยกให้ชัดพร้อมตั้งเป้าหมาย headroom ที่ปลอดภัย
+          - generic [ref=f1e821]:
+            - figure "ภาพจำลองเพื่อการเรียนรู้ แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e822]:
+              - img "แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e823]:
+                - generic [ref=f1e824]:
+                  - generic [ref=f1e825]:
+                    - generic [ref=f1e827]: SOURCE
+                    - generic [ref=f1e828]: Channel
+                    - generic [ref=f1e829]: ➜
+                  - generic [ref=f1e830]:
+                    - generic [ref=f1e832]: INSERT
+                    - generic [ref=f1e833]: EQ/Comp
+                    - generic [ref=f1e834]: ➜
+                  - generic [ref=f1e835]:
+                    - generic [ref=f1e837]: BUS
+                    - generic [ref=f1e838]: Drum/Vox
+                    - generic [ref=f1e839]: ➜
+                  - generic [ref=f1e840]:
+                    - generic [ref=f1e842]: MASTER
+                    - generic [ref=f1e843]: Limiter
+              - generic [ref=f1e844]:
+                - generic [ref=f1e845]: ภาพจำลองเพื่อการเรียนรู้
+                - text: แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้
+            - heading "เดซิเบลมีหลายตระกูล อย่าใช้ปนกัน" [level=2] [ref=f1e846]
+          - paragraph [ref=f1e848]: เดซิเบล (dB) เป็นหน่วยอัตราส่วนแบบลอการิทึม ไม่ใช่หน่วยสัมบูรณ์ จึงต้องดูตัวอ้างอิงท้ายชื่อเสมอ dBFS อ้างอิง full scale ดิจิทัล ค่า 0 dBFS คือเพดานสูงสุด เกินคือ clip ทันที ส่วน dB SPL วัดความดังเสียงในอากาศด้วยเครื่องวัด หูฟังกับลำโพงใช้สเกลนี้ และ dBu/dBV เป็นสเกลสาย analog ในฮาร์ดแวร์ การเอาตัวเลขข้ามตระกูลมาเทียบกันโดยตรงจึงผิด
+          - generic [ref=f1e849]:
+            - heading [level=4]
+            - table [ref=f1e850]:
+              - rowgroup [ref=f1e851]:
+                - row [ref=f1e852]:
+                  - columnheader "หน่วย" [ref=f1e853]
+                  - columnheader "อ้างอิง" [ref=f1e854]
+                  - columnheader "ใช้ตอนไหน" [ref=f1e855]
+              - rowgroup [ref=f1e856]:
+                - row [ref=f1e857]:
+                  - cell "dBFS" [ref=f1e858]
+                  - cell "เพดานดิจิทัล 0 = สูงสุด" [ref=f1e859]
+                  - cell "มิเตอร์ใน DAW ทุกครั้ง" [ref=f1e860]
+                - row [ref=f1e861]:
+                  - cell "LUFS" [ref=f1e862]
+                  - cell "การรับรู้ของหู" [ref=f1e863]
+                  - cell "วัด loudness ส่งสตรีมมิง" [ref=f1e864]
+                - row [ref=f1e865]:
+                  - cell "dB SPL" [ref=f1e866]
+                  - cell "ความดันอากาศ" [ref=f1e867]
+                  - cell "ระดับ monitor ในห้อง" [ref=f1e868]
+                - row [ref=f1e869]:
+                  - cell "dBu" [ref=f1e870]
+                  - cell "แรงดัน analog" [ref=f1e871]
+                  - cell "ฮาร์ดแวร์/preamp" [ref=f1e872]
+          - paragraph [ref=f1e874]: Peak คือค่าสูงสุดชั่วขณะของ waveform ถ้า peak แตะ 0 dBFS คือชนเพดานแล้ว ส่วน RMS (root mean square) คือค่าเฉลี่ยพลังงาน สัมพันธ์กับความรู้สึกว่าดังต่อเนื่องแค่ไหน เพลงที่ peak เท่ากันแต่ RMS สูงกว่าจะฟังดังกว่าเพราะถูกบีบอัดมากกว่า ส่วน LUFS (loudness units relative to full scale) คือมาตรฐานวัด loudness ที่ถ่วงน้ำหนักตามหูมนุษย์ (K-weighting) พร้อมวัด momentary, short-term และ integrated ใช้เป็นภาษากลางของแพลตฟอร์มสตรีมมิง
+          - generic [ref=f1e875]:
+            - heading [level=4]
+            - list [ref=f1e876]:
+              - listitem [ref=f1e877]: Peak + True Peak — เฝ้าระวัง clipping, true peak จับ inter-sample peak ที่ DAC สร้างขึ้น
+              - listitem [ref=f1e878]: RMS / Crest factor — บอกความห่าง peak กับค่าเฉลี่ย ยิ่งห่างยิ่ง dynamic
+              - listitem [ref=f1e879]: LUFS integrated — ตัวเลข loudness รวมทั้งเพลง แพลตฟอร์มใช้ normalize
+          - paragraph [ref=f1e881]: Headroom คือที่ว่างระหว่าง peak สูงสุดกับ 0 dBFS เป้าหมาย mix ให้ peak รวมที่ master bus อยู่ราว −6 dBFS (จุดเริ่มต้น) เพื่อเหลือที่ให้ mastering ใส่ EQ, compression และ limiter ได้โดยไม่ชนเพดาน ตัวเลขนี้ไม่ใช่กฎตายตัวแต่เป็นจุดเริ่มต้นปลอดภัยสำหรับมือใหม่ ส่วน true peak ควรคุมให้ต่ำกว่า −1 dBTP (จุดเริ่มต้น) ตอน export เพื่อเผื่อการแปลง codec ของสตรีมมิง
+          - generic [ref=f1e883]:
+            - strong [ref=f1e884]: "🔁 ก่อน–หลัง: mix ชนเพดาน vs เผื่อ headroom"
+            - paragraph [ref=f1e885]: "ก่อน: ทุกแทร็กดัน fader จน master peak ชน 0 dBFS ใส่ limiter กด 6 dB ตั้งแต่ตอน mix ผลคือเสียงอั้น กลองไม่กระแทก และ mastering ขยับอะไรไม่ได้ หลัง: ลดทุกแทร็กลงให้ master peak ราว −6 dBFS (จุดเริ่มต้น) เสียงเปิด กลองมี punch และ mastering มีที่ว่างให้ยก loudness อย่างสะอาด ความดังสุดท้ายไปทำตอน master ไม่ใช่ตอน mix"
+            - figure [ref=f1e886]:
+              - img "beforeAfter" [ref=f1e887]:
+                - generic [ref=f1e888]:
+                  - generic [ref=f1e893]: BEFORE
+                  - generic [ref=f1e894]: PROCESS
+                  - generic [ref=f1e895]: AFTER
+          - generic [ref=f1e897]:
+            - strong [ref=f1e898]: ⚠️ ระวัง
+            - paragraph [ref=f1e899]: Clipping ดิจิทัลไม่เหมือน saturation ของ analog ที่ยังฟังนุ่มได้ ดิจิทัล clip คือยอดคลื่นถูกตัดแบน เกิด harmonic แข็งๆ ที่หูจับได้ว่าแตกและล้า อย่าแก้ด้วยการลดแค่ master fader เพราะ clip ที่เกิดใน insert หรือ bus แล้วยังฝังอยู่ในเสียง ให้ไล่ gain staging ย้อนกลับไปแก้ที่ต้นเหตุ
+          - generic [ref=f1e901]:
+            - generic [ref=f1e902]: ภาพจำลองเพื่อการเรียนรู้
+            - strong [ref=f1e903]: 🖥️
+            - paragraph [ref=f1e904]: ใน FL Studio 25 ดู peak meter บน Mixer ถ้าไฟยอดเป็นสีแดงคือ clip แล้ว คลิกที่ตัวเลข peak เพื่อรีเซ็ตแล้วเล่นท่อนดังสุดดูใหม่ ใช้ Wave Candy ในโหมด Meter เพิ่มเพื่อดู RMS ควบคู่กัน กฎฝึกคือถ้า master แตะ 0 ให้ลด fader ทุกแทร็กลงพร้อมกัน ไม่ใช่ดึง master fader ลงอย่างเดียว
+          - generic [ref=f1e905]:
+            - heading "เช็กลิสต์ก่อนส่ง mix" [level=4] [ref=f1e906]
+            - list [ref=f1e907]:
+              - listitem [ref=f1e908]: Master peak ท่อนดังสุดราว −6 dBFS (จุดเริ่มต้น)
+              - listitem [ref=f1e909]: ไม่มีไฟแดง clip ที่ insert, bus หรือ master
+              - listitem [ref=f1e910]: True peak ไฟล์ export ต่ำกว่า −1 dBTP (จุดเริ่มต้น)
+              - listitem [ref=f1e911]: ฟังเทียบที่ระดับ monitor เท่าเดิม ไม่หลอกหูด้วยความดัง
+          - generic [ref=f1e912]:
+            - generic [ref=f1e913]:
+              - strong [ref=f1e914]: 📌 สรุป
+              - paragraph [ref=f1e915]: จำว่า dBFS เฝ้าเพดาน, LUFS คุยกับสตรีมมิง, Peak กันแตก, RMS/LUFS ดูความดังจริง และ headroom คือของขวัญที่ mix มอบให้ mastering ตั้งเป้า −6 dBFS (จุดเริ่มต้น) ไว้ก่อน เก่งแล้วค่อยปรับตามงาน บทต่อไปจะพาไปตั้งค่าโปรเจกต์และห้องฟังให้พร้อมก่อนเริ่ม mix จริง
+            - generic [ref=f1e916]:
+              - 'button "💡 Common Mistakes: มือใหม่ 90% มิกซ์โดยไม่มี headroom" [ref=f1e917] [cursor=pointer]'
+              - 'button "💡 Pro Tip: Template คืออาวุธลับของมืออาชีพ" [ref=f1e918] [cursor=pointer]'
+          - heading "💡 เกร็ดความรู้ประจำบท (2)" [level=2] [ref=f1e919]
+          - generic [ref=f1e920]:
+            - button "รู้ไหม? มือใหม่ 90% มิกซ์โดยไม่มี headroom" [ref=f1e921] [cursor=pointer]
+            - button "รู้ไหม? Template คืออาวุธลับของมืออาชีพ" [ref=f1e922] [cursor=pointer]
+          - heading "📝 แบบทดสอบท้ายบท (2 ข้อ)" [level=2] [ref=f1e923]
+          - generic [ref=f1e924]:
+            - generic [ref=f1e925]:
+              - strong [ref=f1e926]: ข้อ 1. มิกซ์ของคุณทุกแทร็กเฟเดอร์ดันเกือบสุด บัสมาสเตอร์ขึ้นแดงตลอด ควรทำสิ่งใดก่อน?
+              - generic [ref=f1e927]: วิเคราะห์สถานการณ์
+              - generic [ref=f1e928]:
+                - button "ใส่ลิมิตเตอร์แรงๆ ที่มาสเตอร์" [ref=f1e929] [cursor=pointer]
+                - button "ลด Master fader ลงอย่างเดียว" [ref=f1e930] [cursor=pointer]
+                - 'button "ทำ Gain Staging ใหม่: ลดทุกแทร็กให้พีคอยู่ราว -12 ถึง -6 dBFS แล้วค่อยมิกซ์" [ref=f1e931] [cursor=pointer]'
+            - generic [ref=f1e932]:
+              - strong [ref=f1e933]: ข้อ 2. Headroom คืออะไร?
+              - generic [ref=f1e934]: ตัวเลือก
+              - generic [ref=f1e935]:
+                - button "พื้นที่ว่างระหว่างระดับสัญญาณสูงสุดกับจุดคลิป (0 dBFS)" [ref=f1e936] [cursor=pointer]
+                - button "จำนวนแทร็กสูงสุดที่ FL เปิดได้" [ref=f1e937] [cursor=pointer]
+                - button "ความยาวของพรีดีเลย์ในรีเวิร์บ" [ref=f1e938] [cursor=pointer]
+                - button "หน่วยวัดความดังแบบ LUFS" [ref=f1e939] [cursor=pointer]
+            - button "ส่งคำตอบ (0/2)" [ref=f1e940] [cursor=pointer]
+          - heading "📚 อ่านต่อ & อ้างอิง" [level=2] [ref=f1e941]
+          - list [ref=f1e942]:
+            - listitem [ref=f1e943]: image-line-manual
+            - listitem [ref=f1e944]: izotope-learn-loudness
+            - listitem [ref=f1e945]: ear-production-guide
+          - generic [ref=f1e946]:
+            - link "◀ ความถี่ แอมพลิจูด รูปคลื่น และฮาร์มอนิก" [ref=f1e947] [cursor=pointer]:
+              - /url: "#/lesson/d1l2"
+            - link "ดิจิทัลออดิโอ การฟังอ้างอิง และตั้งค่า FL Studio ▶" [ref=f1e948] [cursor=pointer]:
+              - /url: "#/lesson/d1l4"
+          - paragraph [ref=f1e949]:
+            - text: "สไลด์ Day 1:"
+            - link "เปิดห้องสไลด์ (14 หน้า)" [ref=f1e950] [cursor=pointer]:
+              - /url: "#/slides/1"
+            - text: "• เกร็ดทั้งหมดของวัน: 6 รายการ"
+  - contentinfo [ref=f1e445]:
+    - generic [ref=f1e446]:
+      - strong [ref=f1e447]: MIXLAB
+      - generic [ref=f1e448]: ห้องเรียน Mix & Mastering ภาษาไทย • FL Studio 25 • ภาพ UI ที่วาดใหม่เป็น “ภาพจำลองเพื่อการเรียนรู้” ไม่ใช่ภาพหน้าจอจริงของ Image-Line
+      - generic [ref=f1e449]: ความถูกต้องของความรู้ > คุณภาพการสอน > ใช้งานได้ > สวยงาม

@@ -1,0 +1,219 @@
+- generic [ref=f1e2]:
+  - navigation "เมนูหลัก" [ref=f1e3]:
+    - generic [ref=f1e4]:
+      - link "MIXLAB MIX & MASTERING ACADEMY" [ref=f1e5] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f1e6]: MIXLAB
+        - generic [ref=f1e7]: MIX & MASTERING ACADEMY
+      - generic [ref=f1e8]:
+        - link "หน้าแรก" [ref=f1e9] [cursor=pointer]:
+          - /url: "#/"
+        - link "แดชบอร์ด" [ref=f1e10] [cursor=pointer]:
+          - /url: "#/dashboard"
+        - link "หลักสูตร 7 วัน" [ref=f1e11] [cursor=pointer]:
+          - /url: "#/curriculum"
+        - link "Sound Lab" [ref=f1e12] [cursor=pointer]:
+          - /url: "#/lab"
+        - link "พจนานุกรม" [ref=f1e13] [cursor=pointer]:
+          - /url: "#/glossary"
+        - link "อ้างอิง" [ref=f1e14] [cursor=pointer]:
+          - /url: "#/references"
+      - generic [ref=f1e15]:
+        - button "🎓 Teacher" [ref=f1e16] [cursor=pointer]
+        - button "▶ เคลื่อนไหว" [ref=f1e17] [cursor=pointer]
+  - generic [ref=f1e19]: MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK • MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK •
+  - main [ref=f1e602]:
+    - generic [ref=f1e603]:
+      - link "◀ หลักสูตร" [ref=f1e604] [cursor=pointer]:
+        - /url: "#/curriculum"
+      - generic [ref=f1e605]: DAY 1
+      - generic [ref=f1e606]: Beginner
+      - generic [ref=f1e607]: 45 นาที
+      - heading "ความถี่ แอมพลิจูด รูปคลื่น และฮาร์มอนิก" [level=1] [ref=f1e608]
+      - paragraph [ref=f1e609]: Frequency, Amplitude, Waveform & Harmonics
+      - generic [ref=f1e610]:
+        - button "☐ ทำเครื่องหมายว่าเรียนจบแล้ว" [ref=f1e611] [cursor=pointer]
+        - button "☆ บันทึกบทเรียน" [ref=f1e612] [cursor=pointer]
+        - link "⛶ สไลด์ Day 1" [ref=f1e613] [cursor=pointer]:
+          - /url: "#/slides/1"
+        - button "🖨 Print / PDF" [ref=f1e614] [cursor=pointer]
+      - generic [ref=f1e615]:
+        - complementary "สารบัญ" [ref=f1e616]:
+          - strong [ref=f1e617]: สารบัญ
+          - link "เริ่มต้น" [ref=f1e618] [cursor=pointer]:
+            - /url: "#b-0"
+          - link "Frequency คือความถี่ที่หูตีความเป็น pitch" [ref=f1e619] [cursor=pointer]:
+            - /url: "#b-1"
+          - link "p" [ref=f1e620] [cursor=pointer]:
+            - /url: "#b-2"
+          - link "list" [ref=f1e621] [cursor=pointer]:
+            - /url: "#b-3"
+          - link "Amplitude และรูปคลื่นพื้นฐาน" [ref=f1e622] [cursor=pointer]:
+            - /url: "#b-4"
+          - link "p" [ref=f1e623] [cursor=pointer]:
+            - /url: "#b-5"
+          - link "table" [ref=f1e624] [cursor=pointer]:
+            - /url: "#b-6"
+          - link "p" [ref=f1e625] [cursor=pointer]:
+            - /url: "#b-7"
+          - 'link "ตัวอย่าง: โน้ตเดียวกัน คนละเครื่อง" [ref=f1e626] [cursor=pointer]':
+            - /url: "#b-8"
+          - link "flstudio" [ref=f1e627] [cursor=pointer]:
+            - /url: "#b-9"
+          - link "warning" [ref=f1e628] [cursor=pointer]:
+            - /url: "#b-10"
+          - 'link "ลองทำ: ฝึกหูแยกย่าน" [ref=f1e629] [cursor=pointer]':
+            - /url: "#b-11"
+          - link "summary" [ref=f1e630] [cursor=pointer]:
+            - /url: "#b-12"
+        - article [ref=f1e631]:
+          - heading "🎯 สิ่งที่จะได้รับ" [level=2] [ref=f1e632]
+          - list [ref=f1e633]:
+            - listitem [ref=f1e634]: อธิบายความสัมพันธ์ของ frequency, pitch และ amplitude, loudness ได้
+            - listitem [ref=f1e635]: แยก sine, square, saw, triangle จากรูปคลื่นและเสียงได้
+            - listitem [ref=f1e636]: อธิบาย harmonic series และผลต่อ timbre ได้
+            - listitem [ref=f1e637]: อ่าน Parametric EQ 2 และ Wave Candy เบื้องต้นได้
+          - paragraph [ref=f1e639]: เสียงทุกเสียงอธิบายได้ด้วย 2 แกนหลักคือ ความถี่ (frequency หน่วย Hz) ซึ่งสมองตีความเป็น pitch สูงต่ำ และ แอมพลิจูด (amplitude) ซึ่งสมองตีความเป็นความดัง รูปคลื่น (waveform) คือภาพของ 2 แกนนี้เมื่อเวลาผ่านไป และฮาร์มอนิก (harmonics) คือเหตุผลว่าทำไมเปียโนกับกีตาร์เล่นโน้ตเดียวกันแต่เสียงต่างกัน
+          - generic [ref=f1e640]:
+            - figure "ภาพจำลองเพื่อการเรียนรู้ แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e641]:
+              - img "แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e642]:
+                - generic [ref=f1e643]:
+                  - generic [ref=f1e644]:
+                    - generic [ref=f1e646]: SOURCE
+                    - generic [ref=f1e647]: Channel
+                    - generic [ref=f1e648]: ➜
+                  - generic [ref=f1e649]:
+                    - generic [ref=f1e651]: INSERT
+                    - generic [ref=f1e652]: EQ/Comp
+                    - generic [ref=f1e653]: ➜
+                  - generic [ref=f1e654]:
+                    - generic [ref=f1e656]: BUS
+                    - generic [ref=f1e657]: Drum/Vox
+                    - generic [ref=f1e658]: ➜
+                  - generic [ref=f1e659]:
+                    - generic [ref=f1e661]: MASTER
+                    - generic [ref=f1e662]: Limiter
+              - generic [ref=f1e663]:
+                - generic [ref=f1e664]: ภาพจำลองเพื่อการเรียนรู้
+                - text: แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้
+            - heading "Frequency คือความถี่ที่หูตีความเป็น pitch" [level=2] [ref=f1e665]
+          - paragraph [ref=f1e667]: Frequency คือจำนวนรอบการสั่นต่อวินาที หน่วยเป็น Hz ตัวอย่าง A4 มาตรฐานเท่ากับ 440 Hz ยิ่ง Hz สูงเสียงยิ่งแหลม หูมนุษย์ได้ยินประมาณ 20 Hz ถึง 20 kHz โดย sub-bass อยู่ราว 20–60 Hz, bass 60–250 Hz, mid 250 Hz–4 kHz และ presence/air อยู่ 4–20 kHz การจำช่วงคร่าวๆ นี้ทำให้หมุน EQ ได้ตรงจุด
+          - generic [ref=f1e668]:
+            - heading [level=4]
+            - list [ref=f1e669]:
+              - listitem [ref=f1e670]: เสียงแหลม = ความถี่สูง รอบสั่นถี่ ไม่เกี่ยวกับความดัง
+              - listitem [ref=f1e671]: เสียงดัง = แอมพลิจูดสูง คลื่นลูกใหญ่ ไม่เกี่ยวกับ pitch
+              - listitem [ref=f1e672]: Octave คือความถี่คูณสอง เช่น 110 → 220 → 440 Hz ฟังเป็นโน้ตเดียวกันแต่สูงขึ้น
+          - generic [ref=f1e673]:
+            - figure "ภาพจำลองเพื่อการเรียนรู้ แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e674]:
+              - img "แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e675]:
+                - generic [ref=f1e676]:
+                  - generic [ref=f1e677]:
+                    - generic [ref=f1e679]: SOURCE
+                    - generic [ref=f1e680]: Channel
+                    - generic [ref=f1e681]: ➜
+                  - generic [ref=f1e682]:
+                    - generic [ref=f1e684]: INSERT
+                    - generic [ref=f1e685]: EQ/Comp
+                    - generic [ref=f1e686]: ➜
+                  - generic [ref=f1e687]:
+                    - generic [ref=f1e689]: BUS
+                    - generic [ref=f1e690]: Drum/Vox
+                    - generic [ref=f1e691]: ➜
+                  - generic [ref=f1e692]:
+                    - generic [ref=f1e694]: MASTER
+                    - generic [ref=f1e695]: Limiter
+              - generic [ref=f1e696]:
+                - generic [ref=f1e697]: ภาพจำลองเพื่อการเรียนรู้
+                - text: แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้
+            - heading "Amplitude และรูปคลื่นพื้นฐาน" [level=2] [ref=f1e698]
+          - paragraph [ref=f1e700]: Amplitude คือขนาดการแกว่งของคลื่น ยิ่งแกว่งแรงยิ่งดัง แต่ถ้าแรงเกินระบบจะ clip รูปคลื่นพื้นฐานมี 4 แบบที่ต้องจำ ได้แก่ sine (คลื่นมน นุ่ม มีแค่ fundamental), triangle (มนกว่า sine เล็กน้อย), square (เหลี่ยม เสียงกลวงเพราะมี odd harmonics) และ saw (ฟันเลื่อย เสียงแหลมแสบเพราะมี harmonics ครบ) เสียง synth ส่วนใหญ่เริ่มจาก 4 ทรงนี้แล้วปั้นต่อด้วย filter
+          - generic [ref=f1e701]:
+            - heading [level=4]
+            - table [ref=f1e702]:
+              - rowgroup [ref=f1e703]:
+                - row [ref=f1e704]:
+                  - columnheader "รูปคลื่น" [ref=f1e705]
+                  - columnheader "หน้าตา" [ref=f1e706]
+                  - columnheader "คาแรกเตอร์" [ref=f1e707]
+              - rowgroup [ref=f1e708]:
+                - row [ref=f1e709]:
+                  - cell "Sine" [ref=f1e710]
+                  - cell "โค้งมน" [ref=f1e711]
+                  - cell "นุ่ม กลม ใช้ทำ sub-bass" [ref=f1e712]
+                - row [ref=f1e713]:
+                  - cell "Triangle" [ref=f1e714]
+                  - cell "ซิกแซกมน" [ref=f1e715]
+                  - cell "นุ่มกว่า square เหมาะกับ flute-like" [ref=f1e716]
+                - row [ref=f1e717]:
+                  - cell "Square" [ref=f1e718]
+                  - cell "เหลี่ยม" [ref=f1e719]
+                  - cell "กลวง แข็ง มี odd harmonics" [ref=f1e720]
+                - row [ref=f1e721]:
+                  - cell "Saw" [ref=f1e722]
+                  - cell "ฟันเลื่อย" [ref=f1e723]
+                  - cell "แหลม พุ่ง เหมาะ lead/brass" [ref=f1e724]
+          - paragraph [ref=f1e726]: Harmonics (ฮาร์มอนิก) คือความถี่ลูกที่เกิดพ่วงมากับ fundamental เสมอ เช่น กด A 110 Hz จะมี 220, 330, 440 Hz เกิดตามมาด้วยความดังลดหลั่นกัน สัดส่วนความดังของ harmonics นี่เองที่สมองใช้แยก timbre ว่านี่คือไวโอลินหรือแซกโซโฟน งาน mixing จึงมักเป็นการจัด harmonics ไม่ให้เครื่องดนตรีหลายชิ้นทับกันในช่วงเดียวกัน
+          - generic [ref=f1e728]:
+            - strong [ref=f1e729]: "🎧 ตัวอย่าง: โน้ตเดียวกัน คนละเครื่อง"
+            - paragraph [ref=f1e730]: ให้เล่นโน้ต C3 จาก 3HOSC ด้วย sine ล้วนจะได้เสียงอู้อี้คล้ายไซน์เบส เปลี่ยนเป็น saw จะได้เสียงแสบพุ่งทันทีทั้งที่ pitch เดียวกันเพราะ harmonics เพิ่มขึ้น ในเพลงจริง kick กับ bass มักชนกันที่ 50–100 Hz ส่วน vocal กับ snare ชนกันที่ 2–5 kHz การรู้ว่าใครมี harmonics ตรงไหนช่วยให้เลือกว่าจะ cut ชิ้นไหน ไม่ใช่บูสต์ทุกชิ้น
+          - generic [ref=f1e732]:
+            - generic [ref=f1e733]: ภาพจำลองเพื่อการเรียนรู้
+            - strong [ref=f1e734]: 🖥️
+            - paragraph [ref=f1e735]: ใน FL Studio 25 เปิด 3HOSC เล่นโน้ตค้างแล้วเปิด Wave Candy ในโหมด Oscilloscope ดูรูปคลื่นเปลี่ยนตามทรงที่เลือก จากนั้นเปิด Parametric EQ 2 ดู spectrum ว่า saw มีแท่ง harmonics ยาวกว่า sine อย่างไร ให้ลด volume ก่อนสลับไป saw เพราะ saw ดังกว่าและแสบหูกว่า
+          - generic [ref=f1e737]:
+            - strong [ref=f1e738]: ⚠️ ระวัง
+            - paragraph [ref=f1e739]: อย่า Solo ฟังเสียงแล้วตัดสินใจทุกอย่าง เสียง saw ที่ฟังเดี่ยวๆ อาจเท่ แต่พอรวมกับกีตาร์และร้องอาจแย่งย่าน 2–5 kHz จน mix แน่นไปหมด ให้ตัดสินใจเรื่อง timbre ใน context ของทั้งเพลงเสมอ และระวังการบูสต์ high-frequency มากเกินเพราะหูล้าเร็ว
+          - generic [ref=f1e741]:
+            - strong [ref=f1e742]: "✏️ ลองทำ: ฝึกหูแยกย่าน"
+            - paragraph [ref=f1e743]: เปิด Parametric EQ 2 บนเพลงตัวอย่าง ใช้ band แคบๆ บูสต์ +6 dB แล้ว sweep จาก 50 Hz ไป 15 kHz ช้าๆ จดว่าแต่ละย่านได้ยินอะไรเด่น จากนั้นลอง mute แล้วทายว่าย่านไหนคือ kick ย่านไหนคือ hi-hat ทำซ้ำจนชี้ย่าน sub, low-mid, presence ได้โดยไม่ต้องดูจอ
+          - generic [ref=f1e744]:
+            - generic [ref=f1e745]:
+              - strong [ref=f1e746]: 📌 สรุป
+              - paragraph [ref=f1e747]: จำสามประโยคว่า frequency คือ pitch, amplitude คือความดัง และ harmonics คือตัวตนของเสียง รูปคลื่น 4 ทรงคือตัวอักษรของภาษาเสียงที่ต้องอ่านออก เมื่อมอง EQ ครั้งต่อไปจะเห็นเป็นแผนที่ย่านความถี่ ไม่ใช่แค่เส้นโค้งสวยๆ แล้วบทต่อไปจะพาไปเรื่องหน่วยวัดเสียงคือเดซิเบล
+            - generic [ref=f1e748]:
+              - 'button "💡 เทคนิคสตูดิโอ: ฝึกฟังย่านความถี่ด้วยเสียงดนตรีจริง" [ref=f1e749] [cursor=pointer]'
+              - 'button "💡 Myth vs Fact: Myth: เฟสมีผลเฉพาะตอนอัดหลายไมค์" [ref=f1e750] [cursor=pointer]'
+          - heading "💡 เกร็ดความรู้ประจำบท (2)" [level=2] [ref=f1e751]
+          - generic [ref=f1e752]:
+            - button "รู้ไหม? ฝึกฟังย่านความถี่ด้วยเสียงดนตรีจริง" [ref=f1e753] [cursor=pointer]
+            - 'button "รู้ไหม? Myth: เฟสมีผลเฉพาะตอนอัดหลายไมค์" [ref=f1e754] [cursor=pointer]'
+          - heading "📝 แบบทดสอบท้ายบท (2 ข้อ)" [level=2] [ref=f1e755]
+          - generic [ref=f1e756]:
+            - generic [ref=f1e757]:
+              - strong [ref=f1e758]: ข้อ 1. แอมพลิจูด (Amplitude) สัมพันธ์กับสิ่งที่เราได้ยินอย่างไร?
+              - generic [ref=f1e759]: ตัวเลือก
+              - generic [ref=f1e760]:
+                - button "ยิ่งแอมพลิจูดมาก ยิ่งรู้สึกว่าดังมาก" [ref=f1e761] [cursor=pointer]
+                - button "ยิ่งแอมพลิจูดมาก ยิ่งรู้สึกว่าแหลมมาก" [ref=f1e762] [cursor=pointer]
+                - button "แอมพลิจูดกำหนดความยาวรีเวิร์บ" [ref=f1e763] [cursor=pointer]
+                - button "แอมพลิจูดกำหนดตำแหน่งแพน" [ref=f1e764] [cursor=pointer]
+            - generic [ref=f1e765]:
+              - strong [ref=f1e766]: ข้อ 2. Phase cancellation เกิดขึ้นเมื่อใด?
+              - generic [ref=f1e767]: ตัวเลือก
+              - generic [ref=f1e768]:
+                - button "เมื่อเปิดเสียงดังเกิน 0 dBFS" [ref=f1e769] [cursor=pointer]
+                - button "เมื่อคลื่นสองลูกมาตรงกันข้ามเฟสจนหักล้างกัน เสียงบางหรือหาย" [ref=f1e770] [cursor=pointer]
+                - button "เมื่อใช้รีเวิร์บยาวเกินไป" [ref=f1e771] [cursor=pointer]
+                - button "เมื่อแพนเสียงไปด้านใดด้านหนึ่งสุด" [ref=f1e772] [cursor=pointer]
+            - button "ส่งคำตอบ (0/2)" [ref=f1e773] [cursor=pointer]
+          - heading "📚 อ่านต่อ & อ้างอิง" [level=2] [ref=f1e774]
+          - list [ref=f1e775]:
+            - listitem [ref=f1e776]: image-line-manual
+            - listitem [ref=f1e777]: izotope-learn-eq
+            - listitem [ref=f1e778]: soundonsound-basics
+          - generic [ref=f1e779]:
+            - link "◀ Production vs Mixing vs Mastering และ Signal Flow" [ref=f1e780] [cursor=pointer]:
+              - /url: "#/lesson/d1l1"
+            - link "เดซิเบล Peak RMS LUFS เฮดรูม และคลิปปิง ▶" [ref=f1e781] [cursor=pointer]:
+              - /url: "#/lesson/d1l3"
+          - paragraph [ref=f1e782]:
+            - text: "สไลด์ Day 1:"
+            - link "เปิดห้องสไลด์ (14 หน้า)" [ref=f1e783] [cursor=pointer]:
+              - /url: "#/slides/1"
+            - text: "• เกร็ดทั้งหมดของวัน: 6 รายการ"
+  - contentinfo [ref=f1e445]:
+    - generic [ref=f1e446]:
+      - strong [ref=f1e447]: MIXLAB
+      - generic [ref=f1e448]: ห้องเรียน Mix & Mastering ภาษาไทย • FL Studio 25 • ภาพ UI ที่วาดใหม่เป็น “ภาพจำลองเพื่อการเรียนรู้” ไม่ใช่ภาพหน้าจอจริงของ Image-Line
+      - generic [ref=f1e449]: ความถูกต้องของความรู้ > คุณภาพการสอน > ใช้งานได้ > สวยงาม

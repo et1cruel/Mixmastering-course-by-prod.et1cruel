@@ -1,0 +1,40 @@
+- generic [ref=e2]:
+  - navigation "เมนูหลัก" [ref=e3]:
+    - generic [ref=e4]:
+      - link "MIXLAB MIX & MASTERING ACADEMY" [ref=e5] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=e6]: MIXLAB
+        - generic [ref=e7]: MIX & MASTERING ACADEMY
+      - generic [ref=e8]:
+        - link "หน้าแรก" [ref=e9] [cursor=pointer]:
+          - /url: "#/"
+        - link "แดชบอร์ด" [ref=e10] [cursor=pointer]:
+          - /url: "#/dashboard"
+        - link "หลักสูตร 7 วัน" [ref=e11] [cursor=pointer]:
+          - /url: "#/curriculum"
+        - link "Sound Lab" [ref=e12] [cursor=pointer]:
+          - /url: "#/lab"
+        - link "พจนานุกรม" [ref=e13] [cursor=pointer]:
+          - /url: "#/glossary"
+        - link "แบบทดสอบ" [ref=e14] [cursor=pointer]:
+          - /url: "#/quiz"
+        - link "คลังความรู้" [ref=e15] [cursor=pointer]:
+          - /url: "#/library"
+        - link "ฉบับย่อ" [ref=e16] [cursor=pointer]:
+          - /url: "#/condensed"
+        - link "อ้างอิง" [ref=e17] [cursor=pointer]:
+          - /url: "#/references"
+      - generic [ref=e18]:
+        - button "TEACHER OFF" [ref=e19] [cursor=pointer]
+        - button "▶ เคลื่อนไหว" [ref=e20] [cursor=pointer]
+  - generic [ref=e22]: MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK • MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK •
+  - main [ref=e23]:
+    - generic [ref=e24]:
+      - heading "หาไม่เจอ (404)" [level=2] [ref=e25]
+      - link "กลับหน้าแรก" [ref=e26] [cursor=pointer]:
+        - /url: "#/"
+  - contentinfo [ref=e27]:
+    - generic [ref=e28]:
+      - strong [ref=e29]: MIXLAB
+      - generic [ref=e30]: ห้องเรียน Mix & Mastering ภาษาไทย • FL Studio 25 • ภาพ UI ที่วาดใหม่เป็น “ภาพจำลองเพื่อการเรียนรู้” ไม่ใช่ภาพหน้าจอจริงของ Image-Line
+      - generic [ref=e31]: ความถูกต้องของความรู้ > คุณภาพการสอน > ใช้งานได้ > สวยงาม

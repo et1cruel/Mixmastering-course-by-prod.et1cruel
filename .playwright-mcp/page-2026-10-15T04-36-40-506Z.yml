@@ -1,0 +1,436 @@
+- generic [ref=e2]:
+  - navigation "เมนูหลัก" [ref=e3]:
+    - generic [ref=e4]:
+      - link "MIXLAB MIX & MASTERING ACADEMY" [ref=e5] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=e6]: MIXLAB
+        - generic [ref=e7]: MIX & MASTERING ACADEMY
+      - generic [ref=e8]:
+        - link "หน้าแรก" [ref=e9] [cursor=pointer]:
+          - /url: "#/"
+        - link "แดชบอร์ด" [ref=e10] [cursor=pointer]:
+          - /url: "#/dashboard"
+        - link "หลักสูตร 7 วัน" [ref=e11] [cursor=pointer]:
+          - /url: "#/curriculum"
+        - link "Sound Lab" [ref=e12] [cursor=pointer]:
+          - /url: "#/lab"
+        - link "พจนานุกรม" [ref=e13] [cursor=pointer]:
+          - /url: "#/glossary"
+        - link "แบบทดสอบ" [ref=e14] [cursor=pointer]:
+          - /url: "#/quiz"
+        - link "อ้างอิง" [ref=e15] [cursor=pointer]:
+          - /url: "#/references"
+      - generic [ref=e16]:
+        - button "TEACHER OFF" [active] [ref=e1656] [cursor=pointer]
+        - button "▶ เคลื่อนไหว" [ref=e18] [cursor=pointer]
+  - generic [ref=e20]: MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK • MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK •
+  - main [ref=e1657]:
+    - heading "พจนานุกรมเสียง — 65 คำ" [level=2] [ref=e1659]
+    - generic [ref=e1660]:
+      - textbox "ค้นหาคำศัพท์" [ref=e1661]:
+        - /placeholder: ค้นหา Frequency, LUFS, Compressor...
+      - combobox "กรองตามหมวด" [ref=e1662] [cursor=pointer]:
+        - option "ทุกหมวด" [selected]
+        - option "fundamentals"
+        - option "space & stereo"
+        - option "mixing"
+        - option "mastering"
+        - option "dynamics"
+        - option "EQ"
+    - paragraph [ref=e1663]: 65 คำที่ตรง • กดที่การ์ดเพื่อดูคำอธิบายฉบับเต็ม + ตัวอย่าง + บทเรียนที่เกี่ยว
+    - generic [ref=e1664]:
+      - button "Frequency fundamentals ความถี่ • ฟรี-เควน-ซี จำนวนครั้งที่เสียงสั่นในหนึ่งวินาที ยิ่งมากยิ่งแหลม ยิ่งน้อยยิ่งทุ้ม" [ref=e1665] [cursor=pointer]:
+        - generic [ref=e1666]:
+          - strong [ref=e1667]: Frequency
+          - generic [ref=e1668]: fundamentals
+        - generic [ref=e1669]: ความถี่ • ฟรี-เควน-ซี
+        - generic [ref=e1670]: จำนวนครั้งที่เสียงสั่นในหนึ่งวินาที ยิ่งมากยิ่งแหลม ยิ่งน้อยยิ่งทุ้ม
+      - button "Amplitude fundamentals แอมพลิจูด • แอม-พลิ-จูด ขนาดของการสั่น ยิ่งใหญ่ยิ่งดัง" [ref=e1671] [cursor=pointer]:
+        - generic [ref=e1672]:
+          - strong [ref=e1673]: Amplitude
+          - generic [ref=e1674]: fundamentals
+        - generic [ref=e1675]: แอมพลิจูด • แอม-พลิ-จูด
+        - generic [ref=e1676]: ขนาดของการสั่น ยิ่งใหญ่ยิ่งดัง
+      - button "Phase fundamentals เฟส • เฟส จังหวะขึ้นลงของคลื่น ถ้าสองคลื่นสวนทางกันเสียงจะหักล้างกัน" [ref=e1677] [cursor=pointer]:
+        - generic [ref=e1678]:
+          - strong [ref=e1679]: Phase
+          - generic [ref=e1680]: fundamentals
+        - generic [ref=e1681]: เฟส • เฟส
+        - generic [ref=e1682]: จังหวะขึ้นลงของคลื่น ถ้าสองคลื่นสวนทางกันเสียงจะหักล้างกัน
+      - button "Polarity space & stereo ขั้วสัญญาณ • โพ-ลา-ริ-ตี ปุ่มกลับบวกลบของสัญญาณ (Ø) ใช้แก้เสียงหักล้างจากการอัด" [ref=e1683] [cursor=pointer]:
+        - generic [ref=e1684]:
+          - strong [ref=e1685]: Polarity
+          - generic [ref=e1686]: space & stereo
+        - generic [ref=e1687]: ขั้วสัญญาณ • โพ-ลา-ริ-ตี
+        - generic [ref=e1688]: ปุ่มกลับบวกลบของสัญญาณ (Ø) ใช้แก้เสียงหักล้างจากการอัด
+      - button "Harmonics fundamentals ฮาร์มอนิก • ฮาร์-โม-นิก เสียงความถี่ทวีคูณที่ติดมากับโน้ตหลัก ทำให้แต่ละเครื่องดนตรีมีเอกลักษณ์" [ref=e1689] [cursor=pointer]:
+        - generic [ref=e1690]:
+          - strong [ref=e1691]: Harmonics
+          - generic [ref=e1692]: fundamentals
+        - generic [ref=e1693]: ฮาร์มอนิก • ฮาร์-โม-นิก
+        - generic [ref=e1694]: เสียงความถี่ทวีคูณที่ติดมากับโน้ตหลัก ทำให้แต่ละเครื่องดนตรีมีเอกลักษณ์
+      - button "Fundamental fundamentals ความถี่หลัก • ฟัน-ดา-เมน-ทอล โน้ตหลักที่ต่ำที่สุดของเสียงนั้น เป็นตัวกำหนดว่านี่คือโน้ตอะไร" [ref=e1695] [cursor=pointer]:
+        - generic [ref=e1696]:
+          - strong [ref=e1697]: Fundamental
+          - generic [ref=e1698]: fundamentals
+        - generic [ref=e1699]: ความถี่หลัก • ฟัน-ดา-เมน-ทอล
+        - generic [ref=e1700]: โน้ตหลักที่ต่ำที่สุดของเสียงนั้น เป็นตัวกำหนดว่านี่คือโน้ตอะไร
+      - button "Masking mixing การกลบกันของเสียง • มาส-กิง เสียงหนึ่งกลบอีกเสียงที่อยู่ย่านเดียวกันจนฟังไม่ชัด" [ref=e1701] [cursor=pointer]:
+        - generic [ref=e1702]:
+          - strong [ref=e1703]: Masking
+          - generic [ref=e1704]: mixing
+        - generic [ref=e1705]: การกลบกันของเสียง • มาส-กิง
+        - generic [ref=e1706]: เสียงหนึ่งกลบอีกเสียงที่อยู่ย่านเดียวกันจนฟังไม่ชัด
+      - button "Gain Staging mixing การจัดเกน • เกน-สเตจ-จิง การตั้งความดังให้พอดีในทุกจุดของเส้นทางเสียง ไม่เบาเกินไม่แรงเกิน" [ref=e1707] [cursor=pointer]:
+        - generic [ref=e1708]:
+          - strong [ref=e1709]: Gain Staging
+          - generic [ref=e1710]: mixing
+        - generic [ref=e1711]: การจัดเกน • เกน-สเตจ-จิง
+        - generic [ref=e1712]: การตั้งความดังให้พอดีในทุกจุดของเส้นทางเสียง ไม่เบาเกินไม่แรงเกิน
+      - button "Headroom mixing เฮดรูม • เฮด-รูม ที่ว่างระหว่างเสียงดังสุดกับจุดแตก (0 dBFS)" [ref=e1713] [cursor=pointer]:
+        - generic [ref=e1714]:
+          - strong [ref=e1715]: Headroom
+          - generic [ref=e1716]: mixing
+        - generic [ref=e1717]: เฮดรูม • เฮด-รูม
+        - generic [ref=e1718]: ที่ว่างระหว่างเสียงดังสุดกับจุดแตก (0 dBFS)
+      - button "Peak fundamentals พีค • พีก ค่าสูงสุดชั่วขณะของเสียง ใช้ดูว่าจะแตกหรือไม่" [ref=e1719] [cursor=pointer]:
+        - generic [ref=e1720]:
+          - strong [ref=e1721]: Peak
+          - generic [ref=e1722]: fundamentals
+        - generic [ref=e1723]: พีค • พีก
+        - generic [ref=e1724]: ค่าสูงสุดชั่วขณะของเสียง ใช้ดูว่าจะแตกหรือไม่
+      - button "RMS fundamentals อาร์เอ็มเอส • อาร์-เอ็ม-เอส ค่าเฉลี่ยพลังงานเสียง บอกความดังที่รู้สึกได้ดีกว่าพีค" [ref=e1725] [cursor=pointer]:
+        - generic [ref=e1726]:
+          - strong [ref=e1727]: RMS
+          - generic [ref=e1728]: fundamentals
+        - generic [ref=e1729]: อาร์เอ็มเอส • อาร์-เอ็ม-เอส
+        - generic [ref=e1730]: ค่าเฉลี่ยพลังงานเสียง บอกความดังที่รู้สึกได้ดีกว่าพีค
+      - button "LUFS mastering ลัฟส์ • ลัฟส์ หน่วยวัดความดังมาตรฐานสตรีมมิงที่ตรงกับหูคน" [ref=e1731] [cursor=pointer]:
+        - generic [ref=e1732]:
+          - strong [ref=e1733]: LUFS
+          - generic [ref=e1734]: mastering
+        - generic [ref=e1735]: ลัฟส์ • ลัฟส์
+        - generic [ref=e1736]: หน่วยวัดความดังมาตรฐานสตรีมมิงที่ตรงกับหูคน
+      - button "LU (Loudness Unit) fundamentals แอลยู • แอล-ยู หน่วยต่างสัมพัทธ์ของความดัง (เช่น ดังกว่ากัน 2 LU)" [ref=e1737] [cursor=pointer]:
+        - generic [ref=e1738]:
+          - strong [ref=e1739]: LU (Loudness Unit)
+          - generic [ref=e1740]: fundamentals
+        - generic [ref=e1741]: แอลยู • แอล-ยู
+        - generic [ref=e1742]: หน่วยต่างสัมพัทธ์ของความดัง (เช่น ดังกว่ากัน 2 LU)
+      - button "True Peak mastering ทรูพีค • ทรู-พีก ยอดเสียงจริงรวมจุดที่ซ่อนระหว่างตัวอย่างดิจิทัล ใช้ดูว่าจะแตกหลังแปลงไฟล์ไหม" [ref=e1743] [cursor=pointer]:
+        - generic [ref=e1744]:
+          - strong [ref=e1745]: True Peak
+          - generic [ref=e1746]: mastering
+        - generic [ref=e1747]: ทรูพีค • ทรู-พีก
+        - generic [ref=e1748]: ยอดเสียงจริงรวมจุดที่ซ่อนระหว่างตัวอย่างดิจิทัล ใช้ดูว่าจะแตกหลังแปลงไฟล์ไหม
+      - button "Intersample Peak fundamentals ยอดระหว่างตัวอย่าง • อิน-เทอร์-แซม-เพิล ยอดคลื่นที่โผล่สูงกว่าจุดตัวอย่างดิจิทัล ทำให้แตกได้แม้มิเตอร์ไม่แดง" [ref=e1749] [cursor=pointer]:
+        - generic [ref=e1750]:
+          - strong [ref=e1751]: Intersample Peak
+          - generic [ref=e1752]: fundamentals
+        - generic [ref=e1753]: ยอดระหว่างตัวอย่าง • อิน-เทอร์-แซม-เพิล
+        - generic [ref=e1754]: ยอดคลื่นที่โผล่สูงกว่าจุดตัวอย่างดิจิทัล ทำให้แตกได้แม้มิเตอร์ไม่แดง
+      - button "Crest Factor dynamics เครสต์แฟกเตอร์ • เครสต์-แฟก-เตอร์ ระยะห่างระหว่างพีคกับความดังเฉลี่ย บอกว่าเพลงไดนามิกแค่ไหน" [ref=e1755] [cursor=pointer]:
+        - generic [ref=e1756]:
+          - strong [ref=e1757]: Crest Factor
+          - generic [ref=e1758]: dynamics
+        - generic [ref=e1759]: เครสต์แฟกเตอร์ • เครสต์-แฟก-เตอร์
+        - generic [ref=e1760]: ระยะห่างระหว่างพีคกับความดังเฉลี่ย บอกว่าเพลงไดนามิกแค่ไหน
+      - button "Transient dynamics ทรานเซียนต์ • ทราน-เซียนต์ หัวเสียงช่วงแรกที่แหลมและสั้น เช่น หัวไม้กลอง ดีดปิก" [ref=e1761] [cursor=pointer]:
+        - generic [ref=e1762]:
+          - strong [ref=e1763]: Transient
+          - generic [ref=e1764]: dynamics
+        - generic [ref=e1765]: ทรานเซียนต์ • ทราน-เซียนต์
+        - generic [ref=e1766]: หัวเสียงช่วงแรกที่แหลมและสั้น เช่น หัวไม้กลอง ดีดปิก
+      - button "Attack dynamics แอแทก • แอท-แทก เวลาที่คอมเพรสเซอร์ใช้เริ่มกดหลังเสียงเกิน threshold" [ref=e1767] [cursor=pointer]:
+        - generic [ref=e1768]:
+          - strong [ref=e1769]: Attack
+          - generic [ref=e1770]: dynamics
+        - generic [ref=e1771]: แอแทก • แอท-แทก
+        - generic [ref=e1772]: เวลาที่คอมเพรสเซอร์ใช้เริ่มกดหลังเสียงเกิน threshold
+      - button "Release dynamics รีลีส • รี-ลีส เวลาที่คอมเพรสเซอร์ใช้คายเกนกลับหลังเสียงต่ำกว่า threshold" [ref=e1773] [cursor=pointer]:
+        - generic [ref=e1774]:
+          - strong [ref=e1775]: Release
+          - generic [ref=e1776]: dynamics
+        - generic [ref=e1777]: รีลีส • รี-ลีส
+        - generic [ref=e1778]: เวลาที่คอมเพรสเซอร์ใช้คายเกนกลับหลังเสียงต่ำกว่า threshold
+      - button "Ratio dynamics เรโช • เร-โช อัตราส่วนการกด เช่น 4:1 คือเสียงเกินมา 4 เหลือออก 1" [ref=e1779] [cursor=pointer]:
+        - generic [ref=e1780]:
+          - strong [ref=e1781]: Ratio
+          - generic [ref=e1782]: dynamics
+        - generic [ref=e1783]: เรโช • เร-โช
+        - generic [ref=e1784]: อัตราส่วนการกด เช่น 4:1 คือเสียงเกินมา 4 เหลือออก 1
+      - button "Threshold dynamics เทรชโฮลด์ • เทรช-โฮลด์ เส้นระดับที่เมื่อเสียงเกินแล้วคอมเพรสเซอร์เริ่มทำงาน" [ref=e1785] [cursor=pointer]:
+        - generic [ref=e1786]:
+          - strong [ref=e1787]: Threshold
+          - generic [ref=e1788]: dynamics
+        - generic [ref=e1789]: เทรชโฮลด์ • เทรช-โฮลด์
+        - generic [ref=e1790]: เส้นระดับที่เมื่อเสียงเกินแล้วคอมเพรสเซอร์เริ่มทำงาน
+      - 'button "Knee dynamics นี • นี ความนุ่มของการเริ่มกด: นุ่ม (soft) ค่อยๆ กด แข็ง (hard) กดทันที" [ref=e1791] [cursor=pointer]':
+        - generic [ref=e1792]:
+          - strong [ref=e1793]: Knee
+          - generic [ref=e1794]: dynamics
+        - generic [ref=e1795]: นี • นี
+        - generic [ref=e1796]: "ความนุ่มของการเริ่มกด: นุ่ม (soft) ค่อยๆ กด แข็ง (hard) กดทันที"
+      - button "Makeup Gain fundamentals เมกอัพเกน • เมก-อัพ-เกน ปุ่มชดเชยความดังคืนหลังถูกกดให้เบาลง" [ref=e1797] [cursor=pointer]:
+        - generic [ref=e1798]:
+          - strong [ref=e1799]: Makeup Gain
+          - generic [ref=e1800]: fundamentals
+        - generic [ref=e1801]: เมกอัพเกน • เมก-อัพ-เกน
+        - generic [ref=e1802]: ปุ่มชดเชยความดังคืนหลังถูกกดให้เบาลง
+      - button "Sidechain dynamics ไซด์เชน • ไซด์-เชน ใช้เสียงหนึ่งเป็นตัวสั่งให้เอฟเฟกต์อีกแทร็กทำงาน เช่น kick สั่งกดเบส" [ref=e1803] [cursor=pointer]:
+        - generic [ref=e1804]:
+          - strong [ref=e1805]: Sidechain
+          - generic [ref=e1806]: dynamics
+        - generic [ref=e1807]: ไซด์เชน • ไซด์-เชน
+        - generic [ref=e1808]: ใช้เสียงหนึ่งเป็นตัวสั่งให้เอฟเฟกต์อีกแทร็กทำงาน เช่น kick สั่งกดเบส
+      - button "Parallel Processing dynamics พาราเลลโปรเซส • พา-รา-เลล ผสมเสียงที่ผ่านเอฟเฟกต์หนักกับเสียงแห้ง เพื่อได้พลังโดยยังเป็นธรรมชาติ" [ref=e1809] [cursor=pointer]:
+        - generic [ref=e1810]:
+          - strong [ref=e1811]: Parallel Processing
+          - generic [ref=e1812]: dynamics
+        - generic [ref=e1813]: พาราเลลโปรเซส • พา-รา-เลล
+        - generic [ref=e1814]: ผสมเสียงที่ผ่านเอฟเฟกต์หนักกับเสียงแห้ง เพื่อได้พลังโดยยังเป็นธรรมชาติ
+      - button "Saturation dynamics แซตเทอเรชัน • แซต-เทอ-เร-ชัน การเติมความอิ่มแบบเทป/หลอด ทำให้เสียงเด่นโดยไม่ต้องดังขึ้นมาก" [ref=e1815] [cursor=pointer]:
+        - generic [ref=e1816]:
+          - strong [ref=e1817]: Saturation
+          - generic [ref=e1818]: dynamics
+        - generic [ref=e1819]: แซตเทอเรชัน • แซต-เทอ-เร-ชัน
+        - generic [ref=e1820]: การเติมความอิ่มแบบเทป/หลอด ทำให้เสียงเด่นโดยไม่ต้องดังขึ้นมาก
+      - button "Clipping dynamics คลิปปิง • คลิป-ปิง ยอดเสียงถูกตัดเพราะเกินเพดาน แรงไปจะแตก น้อยๆ ใช้เพิ่มความดังได้" [ref=e1821] [cursor=pointer]:
+        - generic [ref=e1822]:
+          - strong [ref=e1823]: Clipping
+          - generic [ref=e1824]: dynamics
+        - generic [ref=e1825]: คลิปปิง • คลิป-ปิง
+        - generic [ref=e1826]: ยอดเสียงถูกตัดเพราะเกินเพดาน แรงไปจะแตก น้อยๆ ใช้เพิ่มความดังได้
+      - button "Limiting dynamics ลิมิตติง • ลิม-มิต-ติง คอมเพรสเซอร์อัตราส่วนสูงมากที่ใช้กันเสียงเกินเพดาน" [ref=e1827] [cursor=pointer]:
+        - generic [ref=e1828]:
+          - strong [ref=e1829]: Limiting
+          - generic [ref=e1830]: dynamics
+        - generic [ref=e1831]: ลิมิตติง • ลิม-มิต-ติง
+        - generic [ref=e1832]: คอมเพรสเซอร์อัตราส่วนสูงมากที่ใช้กันเสียงเกินเพดาน
+      - button "Lookahead fundamentals ลุกล่วงหน้า • ลุค-อะ-เฮด ให้ลิมิตเตอร์มองเสียงล่วงหน้าไม่กี่มิลลิวินาทีเพื่อจับยอดทัน" [ref=e1833] [cursor=pointer]:
+        - generic [ref=e1834]:
+          - strong [ref=e1835]: Lookahead
+          - generic [ref=e1836]: fundamentals
+        - generic [ref=e1837]: ลุกล่วงหน้า • ลุค-อะ-เฮด
+        - generic [ref=e1838]: ให้ลิมิตเตอร์มองเสียงล่วงหน้าไม่กี่มิลลิวินาทีเพื่อจับยอดทัน
+      - button "Oversampling fundamentals โอเวอร์แซมปลิง • โอ-เวอร์-แซม-ปลิง ให้ปลั๊กอินประมวลผลละเอียดกว่าปกติเพื่อจับยอดแหลมและลดเพี้ยน" [ref=e1839] [cursor=pointer]:
+        - generic [ref=e1840]:
+          - strong [ref=e1841]: Oversampling
+          - generic [ref=e1842]: fundamentals
+        - generic [ref=e1843]: โอเวอร์แซมปลิง • โอ-เวอร์-แซม-ปลิง
+        - generic [ref=e1844]: ให้ปลั๊กอินประมวลผลละเอียดกว่าปกติเพื่อจับยอดแหลมและลดเพี้ยน
+      - button "Width space & stereo ความกว้างสเตอริโอ • วิดธ์ ความกว้างของภาพเสียงซ้ายขวา กว้างไปเสี่ยงเฟสพัง" [ref=e1845] [cursor=pointer]:
+        - generic [ref=e1846]:
+          - strong [ref=e1847]: Width
+          - generic [ref=e1848]: space & stereo
+        - generic [ref=e1849]: ความกว้างสเตอริโอ • วิดธ์
+        - generic [ref=e1850]: ความกว้างของภาพเสียงซ้ายขวา กว้างไปเสี่ยงเฟสพัง
+      - button "Mono space & stereo โมโน • โม-โน เสียงช่องเดียว ซ้ายขวาเหมือนกัน ใช้เช็กว่ามิกซ์พังไหม" [ref=e1851] [cursor=pointer]:
+        - generic [ref=e1852]:
+          - strong [ref=e1853]: Mono
+          - generic [ref=e1854]: space & stereo
+        - generic [ref=e1855]: โมโน • โม-โน
+        - generic [ref=e1856]: เสียงช่องเดียว ซ้ายขวาเหมือนกัน ใช้เช็กว่ามิกซ์พังไหม
+      - button "Correlation space & stereo ค่าสหสัมพันธ์ • คอ-เร-เล-ชัน มิเตอร์บอกสุขภาพสเตอริโอ +1 ดี ติดลบคือเฟสมีปัญหา" [ref=e1857] [cursor=pointer]:
+        - generic [ref=e1858]:
+          - strong [ref=e1859]: Correlation
+          - generic [ref=e1860]: space & stereo
+        - generic [ref=e1861]: ค่าสหสัมพันธ์ • คอ-เร-เล-ชัน
+        - generic [ref=e1862]: มิเตอร์บอกสุขภาพสเตอริโอ +1 ดี ติดลบคือเฟสมีปัญหา
+      - button "Reverb space & stereo รีเวิร์บ • รี-เวิร์บ เสียงก้องที่เลียนแบบห้อง ทำให้เสียงมีที่อยู่และมิติ" [ref=e1863] [cursor=pointer]:
+        - generic [ref=e1864]:
+          - strong [ref=e1865]: Reverb
+          - generic [ref=e1866]: space & stereo
+        - generic [ref=e1867]: รีเวิร์บ • รี-เวิร์บ
+        - generic [ref=e1868]: เสียงก้องที่เลียนแบบห้อง ทำให้เสียงมีที่อยู่และมิติ
+      - button "Pre-delay space & stereo พรีดีเลย์ • พรี-ดี-เลย์ เวลาหน่วงก่อนก้องเริ่ม ใช้แยกเสียงต้นให้ชัดก่อนก้องตาม" [ref=e1869] [cursor=pointer]:
+        - generic [ref=e1870]:
+          - strong [ref=e1871]: Pre-delay
+          - generic [ref=e1872]: space & stereo
+        - generic [ref=e1873]: พรีดีเลย์ • พรี-ดี-เลย์
+        - generic [ref=e1874]: เวลาหน่วงก่อนก้องเริ่ม ใช้แยกเสียงต้นให้ชัดก่อนก้องตาม
+      - button "Feedback fundamentals ฟีดแบ็ก (ดีเลย์) • ฟีด-แบ็ก ปริมาณเสียงดีเลย์ที่วนกลับมาซ้ำ ยิ่งมากยิ่งซ้ำนาน" [ref=e1875] [cursor=pointer]:
+        - generic [ref=e1876]:
+          - strong [ref=e1877]: Feedback
+          - generic [ref=e1878]: fundamentals
+        - generic [ref=e1879]: ฟีดแบ็ก (ดีเลย์) • ฟีด-แบ็ก
+        - generic [ref=e1880]: ปริมาณเสียงดีเลย์ที่วนกลับมาซ้ำ ยิ่งมากยิ่งซ้ำนาน
+      - button "Delay space & stereo ดีเลย์ • ดี-เลย์ เสียงสะท้อนเป็นจังหวะ (เอคโค) ใช้สร้างมิติและความหนา" [ref=e1881] [cursor=pointer]:
+        - generic [ref=e1882]:
+          - strong [ref=e1883]: Delay
+          - generic [ref=e1884]: space & stereo
+        - generic [ref=e1885]: ดีเลย์ • ดี-เลย์
+        - generic [ref=e1886]: เสียงสะท้อนเป็นจังหวะ (เอคโค) ใช้สร้างมิติและความหนา
+      - button "Dithering mastering ดิเทอร์ • ดิ-เทอร์ เติมนอยส์เบามากตอนลดบิตเพื่อไม่ให้เสียงแตกแบบดิจิทัล" [ref=e1887] [cursor=pointer]:
+        - generic [ref=e1888]:
+          - strong [ref=e1889]: Dithering
+          - generic [ref=e1890]: mastering
+        - generic [ref=e1891]: ดิเทอร์ • ดิ-เทอร์
+        - generic [ref=e1892]: เติมนอยส์เบามากตอนลดบิตเพื่อไม่ให้เสียงแตกแบบดิจิทัล
+      - button "Sample Rate fundamentals แซมเปิลเรต • แซม-เพิล-เรต จำนวนครั้งที่บันทึกเสียงในหนึ่งวินาที ยิ่งมากยิ่งเก็บแหลมได้สูง" [ref=e1893] [cursor=pointer]:
+        - generic [ref=e1894]:
+          - strong [ref=e1895]: Sample Rate
+          - generic [ref=e1896]: fundamentals
+        - generic [ref=e1897]: แซมเปิลเรต • แซม-เพิล-เรต
+        - generic [ref=e1898]: จำนวนครั้งที่บันทึกเสียงในหนึ่งวินาที ยิ่งมากยิ่งเก็บแหลมได้สูง
+      - button "Bit Depth fundamentals บิตเดปธ์ • บิต-เดปธ์ ความละเอียดความดังของแต่ละตัวอย่าง ยิ่งมากยิ่งเงียบได้โดยไม่แตก" [ref=e1899] [cursor=pointer]:
+        - generic [ref=e1900]:
+          - strong [ref=e1901]: Bit Depth
+          - generic [ref=e1902]: fundamentals
+        - generic [ref=e1903]: บิตเดปธ์ • บิต-เดปธ์
+        - generic [ref=e1904]: ความละเอียดความดังของแต่ละตัวอย่าง ยิ่งมากยิ่งเงียบได้โดยไม่แตก
+      - button "Aliasing fundamentals อะไลแอสซิง • อะ-ไล-แอส-ซิง เสียงแหลมเกินที่ระบบเก็บได้แล้วพับกลับมาเป็นเสียงเพี้ยน" [ref=e1905] [cursor=pointer]:
+        - generic [ref=e1906]:
+          - strong [ref=e1907]: Aliasing
+          - generic [ref=e1908]: fundamentals
+        - generic [ref=e1909]: อะไลแอสซิง • อะ-ไล-แอส-ซิง
+        - generic [ref=e1910]: เสียงแหลมเกินที่ระบบเก็บได้แล้วพับกลับมาเป็นเสียงเพี้ยน
+      - button "Q (Quality Factor) EQ คิว • คิว ความแคบของ EQ ที่ปรับ ยิ่งสูงยิ่งเจาะจงจุด" [ref=e1911] [cursor=pointer]:
+        - generic [ref=e1912]:
+          - strong [ref=e1913]: Q (Quality Factor)
+          - generic [ref=e1914]: EQ
+        - generic [ref=e1915]: คิว • คิว
+        - generic [ref=e1916]: ความแคบของ EQ ที่ปรับ ยิ่งสูงยิ่งเจาะจงจุด
+      - button "Slope EQ สโลป • สโลป ความชันของฟิลเตอร์ เช่น 12 หรือ 24 dB ต่ออ็อกเทฟ" [ref=e1917] [cursor=pointer]:
+        - generic [ref=e1918]:
+          - strong [ref=e1919]: Slope
+          - generic [ref=e1920]: EQ
+        - generic [ref=e1921]: สโลป • สโลป
+        - generic [ref=e1922]: ความชันของฟิลเตอร์ เช่น 12 หรือ 24 dB ต่ออ็อกเทฟ
+      - button "Subtractive EQ EQ อีคิวแบบตัด • ซับ-แทร็ก-ทีฟ ปรัชญาแก้เสียงด้วยการตัดส่วนเกินออกก่อนบูสต์" [ref=e1923] [cursor=pointer]:
+        - generic [ref=e1924]:
+          - strong [ref=e1925]: Subtractive EQ
+          - generic [ref=e1926]: EQ
+        - generic [ref=e1927]: อีคิวแบบตัด • ซับ-แทร็ก-ทีฟ
+        - generic [ref=e1928]: ปรัชญาแก้เสียงด้วยการตัดส่วนเกินออกก่อนบูสต์
+      - button "Dynamic EQ EQ อีคิวไดนามิก • ได-นา-มิก EQ ที่ทำงานเฉพาะตอนย่านนั้นดังเกิน เหมาะกับปัญหาเป็นบางจังหวะ" [ref=e1929] [cursor=pointer]:
+        - generic [ref=e1930]:
+          - strong [ref=e1931]: Dynamic EQ
+          - generic [ref=e1932]: EQ
+        - generic [ref=e1933]: อีคิวไดนามิก • ได-นา-มิก
+        - generic [ref=e1934]: EQ ที่ทำงานเฉพาะตอนย่านนั้นดังเกิน เหมาะกับปัญหาเป็นบางจังหวะ
+      - button "Mid/Side EQ มิดไซด์ • มิด-ไซด์ แยกปรับเสียงกลาง (mono) กับเสียงข้าง (stereo) ได้อิสระ" [ref=e1935] [cursor=pointer]:
+        - generic [ref=e1936]:
+          - strong [ref=e1937]: Mid/Side
+          - generic [ref=e1938]: EQ
+        - generic [ref=e1939]: มิดไซด์ • มิด-ไซด์
+        - generic [ref=e1940]: แยกปรับเสียงกลาง (mono) กับเสียงข้าง (stereo) ได้อิสระ
+      - button "De-esser dynamics ดีเอสเซอร์ • ดี-เอส-เซอร์ ตัวลดเสียง ซ ซ บาดหูโดยไม่ทำให้เสียงทึบ" [ref=e1941] [cursor=pointer]:
+        - generic [ref=e1942]:
+          - strong [ref=e1943]: De-esser
+          - generic [ref=e1944]: dynamics
+        - generic [ref=e1945]: ดีเอสเซอร์ • ดี-เอส-เซอร์
+        - generic [ref=e1946]: ตัวลดเสียง ซ ซ บาดหูโดยไม่ทำให้เสียงทึบ
+      - 'button "Gate dynamics เกต • เกต ประตูเสียง: เบากว่าเส้นที่ตั้งจะถูกตัดทิ้ง เหมาะกำจัดเสียงรั่ว" [ref=e1947] [cursor=pointer]':
+        - generic [ref=e1948]:
+          - strong [ref=e1949]: Gate
+          - generic [ref=e1950]: dynamics
+        - generic [ref=e1951]: เกต • เกต
+        - generic [ref=e1952]: "ประตูเสียง: เบากว่าเส้นที่ตั้งจะถูกตัดทิ้ง เหมาะกำจัดเสียงรั่ว"
+      - button "Expander dynamics เอ็กซ์แพนเดอร์ • เอ็กซ์-แพน-เดอร์ ตัวลดเสียงเบาๆ อย่างนุ่มนวล (gate แบบสุภาพ)" [ref=e1953] [cursor=pointer]:
+        - generic [ref=e1954]:
+          - strong [ref=e1955]: Expander
+          - generic [ref=e1956]: dynamics
+        - generic [ref=e1957]: เอ็กซ์แพนเดอร์ • เอ็กซ์-แพน-เดอร์
+        - generic [ref=e1958]: ตัวลดเสียงเบาๆ อย่างนุ่มนวล (gate แบบสุภาพ)
+      - button "Bus mixing บัส • บัส แทร็กรวมที่รับเสียงจากหลายแทร็กมาประมวลผลพร้อมกัน" [ref=e1959] [cursor=pointer]:
+        - generic [ref=e1960]:
+          - strong [ref=e1961]: Bus
+          - generic [ref=e1962]: mixing
+        - generic [ref=e1963]: บัส • บัส
+        - generic [ref=e1964]: แทร็กรวมที่รับเสียงจากหลายแทร็กมาประมวลผลพร้อมกัน
+      - button "Send mixing เซนด์ • เซนด์ การแบ่งสัญญาณไปเอฟเฟกต์ที่ใช้ร่วมกัน เช่น รีเวิร์บห้องกลาง" [ref=e1965] [cursor=pointer]:
+        - generic [ref=e1966]:
+          - strong [ref=e1967]: Send
+          - generic [ref=e1968]: mixing
+        - generic [ref=e1969]: เซนด์ • เซนด์
+        - generic [ref=e1970]: การแบ่งสัญญาณไปเอฟเฟกต์ที่ใช้ร่วมกัน เช่น รีเวิร์บห้องกลาง
+      - button "Insert mixing อินเสิร์ต • อิน-เสิร์ต เอฟเฟกต์ที่เสียบตรงเส้นทางเสียงนั้น 100% เช่น EQ ประจำแทร็ก" [ref=e1971] [cursor=pointer]:
+        - generic [ref=e1972]:
+          - strong [ref=e1973]: Insert
+          - generic [ref=e1974]: mixing
+        - generic [ref=e1975]: อินเสิร์ต • อิน-เสิร์ต
+        - generic [ref=e1976]: เอฟเฟกต์ที่เสียบตรงเส้นทางเสียงนั้น 100% เช่น EQ ประจำแทร็ก
+      - button "Fader mixing เฟเดอร์ • เฟ-เดอร์ แถบเลื่อนวอลลุ่มของแต่ละแทร็ก หัวใจของการบาลานซ์" [ref=e1977] [cursor=pointer]:
+        - generic [ref=e1978]:
+          - strong [ref=e1979]: Fader
+          - generic [ref=e1980]: mixing
+        - generic [ref=e1981]: เฟเดอร์ • เฟ-เดอร์
+        - generic [ref=e1982]: แถบเลื่อนวอลลุ่มของแต่ละแทร็ก หัวใจของการบาลานซ์
+      - button "Pan space & stereo แพน • แพน ตำแหน่งซ้ายขวาของเสียงบนเวทีสเตอริโอ" [ref=e1983] [cursor=pointer]:
+        - generic [ref=e1984]:
+          - strong [ref=e1985]: Pan
+          - generic [ref=e1986]: space & stereo
+        - generic [ref=e1987]: แพน • แพน
+        - generic [ref=e1988]: ตำแหน่งซ้ายขวาของเสียงบนเวทีสเตอริโอ
+      - button "EQ (Equalizer) EQ อีคิว • อี-คิว เครื่องมือปรับสมดุลย่านความถี่ ตัดส่วนเกิน เติมส่วนขาด" [ref=e1989] [cursor=pointer]:
+        - generic [ref=e1990]:
+          - strong [ref=e1991]: EQ (Equalizer)
+          - generic [ref=e1992]: EQ
+        - generic [ref=e1993]: อีคิว • อี-คิว
+        - generic [ref=e1994]: เครื่องมือปรับสมดุลย่านความถี่ ตัดส่วนเกิน เติมส่วนขาด
+      - 'button "Compressor dynamics คอมเพรสเซอร์ • คอม-เพรส-เซอร์ ตัวคุมไดนามิก: กดส่วนดังให้ใกล้ส่วนเบา เสียงสม่ำเสมอขึ้น" [ref=e1995] [cursor=pointer]':
+        - generic [ref=e1996]:
+          - strong [ref=e1997]: Compressor
+          - generic [ref=e1998]: dynamics
+        - generic [ref=e1999]: คอมเพรสเซอร์ • คอม-เพรส-เซอร์
+        - generic [ref=e2000]: "ตัวคุมไดนามิก: กดส่วนดังให้ใกล้ส่วนเบา เสียงสม่ำเสมอขึ้น"
+      - button "Sustain fundamentals ซัสเทน • ซัส-เทน หางเสียง/ตัวเสียงที่ลากยาวหลังหัวเสียงผ่านไป" [ref=e2001] [cursor=pointer]:
+        - generic [ref=e2002]:
+          - strong [ref=e2003]: Sustain
+          - generic [ref=e2004]: fundamentals
+        - generic [ref=e2005]: ซัสเทน • ซัส-เทน
+        - generic [ref=e2006]: หางเสียง/ตัวเสียงที่ลากยาวหลังหัวเสียงผ่านไป
+      - button "Mixdown fundamentals มิกซ์ดาวน์ • มิกซ์-ดาวน์ ขั้นตอนปรับสมดุลทุกแทร็กให้เป็นเพลงสเตอริโอหนึ่งเดียว" [ref=e2007] [cursor=pointer]:
+        - generic [ref=e2008]:
+          - strong [ref=e2009]: Mixdown
+          - generic [ref=e2010]: fundamentals
+        - generic [ref=e2011]: มิกซ์ดาวน์ • มิกซ์-ดาวน์
+        - generic [ref=e2012]: ขั้นตอนปรับสมดุลทุกแทร็กให้เป็นเพลงสเตอริโอหนึ่งเดียว
+      - button "Mastering mastering มาสเตอริง • มาส-เตอร์-ริง ขัดเกลาไฟล์รวมขั้นสุดท้ายให้ดัง ครบ และเล่นได้ทุกที่" [ref=e2013] [cursor=pointer]:
+        - generic [ref=e2014]:
+          - strong [ref=e2015]: Mastering
+          - generic [ref=e2016]: mastering
+        - generic [ref=e2017]: มาสเตอริง • มาส-เตอร์-ริง
+        - generic [ref=e2018]: ขัดเกลาไฟล์รวมขั้นสุดท้ายให้ดัง ครบ และเล่นได้ทุกที่
+      - 'button "Meter fundamentals มิเตอร์ • มี-เตอร์ หน้าปัดวัดระดับเสียง: ดูว่าจะแตกหรือดังพอหรือยัง" [ref=e2019] [cursor=pointer]':
+        - generic [ref=e2020]:
+          - strong [ref=e2021]: Meter
+          - generic [ref=e2022]: fundamentals
+        - generic [ref=e2023]: มิเตอร์ • มี-เตอร์
+        - generic [ref=e2024]: "หน้าปัดวัดระดับเสียง: ดูว่าจะแตกหรือดังพอหรือยัง"
+      - button "Chorus space & stereo คอรัส • คอ-รัส เอฟเฟกต์เสียงหนาเหมือนเล่นพร้อมกันหลายคน" [ref=e2025] [cursor=pointer]:
+        - generic [ref=e2026]:
+          - strong [ref=e2027]: Chorus
+          - generic [ref=e2028]: space & stereo
+        - generic [ref=e2029]: คอรัส • คอ-รัส
+        - generic [ref=e2030]: เอฟเฟกต์เสียงหนาเหมือนเล่นพร้อมกันหลายคน
+      - button "Nyquist Frequency fundamentals ไนควิสต์ • ไน-ควิสต์ เพดานความถี่สูงสุดที่ระบบดิจิทัลเก็บได้ = ครึ่งหนึ่งของ sample rate" [ref=e2031] [cursor=pointer]:
+        - generic [ref=e2032]:
+          - strong [ref=e2033]: Nyquist Frequency
+          - generic [ref=e2034]: fundamentals
+        - generic [ref=e2035]: ไนควิสต์ • ไน-ควิสต์
+        - generic [ref=e2036]: เพดานความถี่สูงสุดที่ระบบดิจิทัลเก็บได้ = ครึ่งหนึ่งของ sample rate
+      - button "Stereo Imaging space & stereo ภาพสเตอริโอ • สเต-ริ-โอ การวางตำแหน่งเสียงซ้ายขวาให้เป็นเวที ฟังแล้วรู้ว่าอะไรอยู่ตรงไหน" [ref=e2037] [cursor=pointer]:
+        - generic [ref=e2038]:
+          - strong [ref=e2039]: Stereo Imaging
+          - generic [ref=e2040]: space & stereo
+        - generic [ref=e2041]: ภาพสเตอริโอ • สเต-ริ-โอ
+        - generic [ref=e2042]: การวางตำแหน่งเสียงซ้ายขวาให้เป็นเวที ฟังแล้วรู้ว่าอะไรอยู่ตรงไหน
+      - button "Automation fundamentals ออโตเมชัน • ออ-โต-เม-ชัน การเขียนให้ค่าต่างๆ เปลี่ยนตามเวลาเพลง เช่น วอลลุ่มดังขึ้นตอนฮุก" [ref=e2043] [cursor=pointer]:
+        - generic [ref=e2044]:
+          - strong [ref=e2045]: Automation
+          - generic [ref=e2046]: fundamentals
+        - generic [ref=e2047]: ออโตเมชัน • ออ-โต-เม-ชัน
+        - generic [ref=e2048]: การเขียนให้ค่าต่างๆ เปลี่ยนตามเวลาเพลง เช่น วอลลุ่มดังขึ้นตอนฮุก
+      - button "High-pass Filter (HPF) EQ ไฮพาสฟิลเตอร์ • ไฮ-พาส ฟิลเตอร์ที่ให้เสียงสูงผ่าน ตัดเสียงต่ำทิ้ง ใช้เก็บกวาดความขุ่น" [ref=e2049] [cursor=pointer]:
+        - generic [ref=e2050]:
+          - strong [ref=e2051]: High-pass Filter (HPF)
+          - generic [ref=e2052]: EQ
+        - generic [ref=e2053]: ไฮพาสฟิลเตอร์ • ไฮ-พาส
+        - generic [ref=e2054]: ฟิลเตอร์ที่ให้เสียงสูงผ่าน ตัดเสียงต่ำทิ้ง ใช้เก็บกวาดความขุ่น
+  - contentinfo [ref=e134]:
+    - generic [ref=e135]:
+      - strong [ref=e136]: MIXLAB
+      - generic [ref=e137]: ห้องเรียน Mix & Mastering ภาษาไทย • FL Studio 25 • ภาพ UI ที่วาดใหม่เป็น “ภาพจำลองเพื่อการเรียนรู้” ไม่ใช่ภาพหน้าจอจริงของ Image-Line
+      - generic [ref=e138]: ความถูกต้องของความรู้ > คุณภาพการสอน > ใช้งานได้ > สวยงาม

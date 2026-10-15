@@ -1,0 +1,78 @@
+- generic [ref=e2]:
+  - navigation "เมนูหลัก" [ref=e3]:
+    - generic [ref=e4]:
+      - link "MIXLAB MIX & MASTERING ACADEMY" [ref=e5] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=e6]: MIXLAB
+        - generic [ref=e7]: MIX & MASTERING ACADEMY
+      - generic [ref=e8]:
+        - link "หน้าแรก" [ref=e9] [cursor=pointer]:
+          - /url: "#/"
+        - link "แดชบอร์ด" [ref=e10] [cursor=pointer]:
+          - /url: "#/dashboard"
+        - link "หลักสูตร 7 วัน" [ref=e11] [cursor=pointer]:
+          - /url: "#/curriculum"
+        - link "Sound Lab" [ref=e12] [cursor=pointer]:
+          - /url: "#/lab"
+        - link "พจนานุกรม" [ref=e13] [cursor=pointer]:
+          - /url: "#/glossary"
+        - link "แบบทดสอบ" [ref=e14] [cursor=pointer]:
+          - /url: "#/quiz"
+        - link "อ้างอิง" [ref=e15] [cursor=pointer]:
+          - /url: "#/references"
+      - generic [ref=e16]:
+        - button "TEACHER OFF" [active] [ref=e1656] [cursor=pointer]
+        - button "▶ เคลื่อนไหว" [ref=e18] [cursor=pointer]
+  - generic [ref=e20]: MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK • MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK •
+  - main [ref=e2055]:
+    - generic [ref=e2056]:
+      - generic [ref=e2057]:
+        - link "◀ หลักสูตร" [ref=e2058] [cursor=pointer]:
+          - /url: "#/curriculum"
+        - button "⛶ เต็มจอ (F) — ใช้แชร์หน้าจอสอน" [ref=e2059] [cursor=pointer]
+        - button "ซ่อนโน้ตผู้สอน" [ref=e2060] [cursor=pointer]
+        - button "🖨 Print/PDF" [ref=e2061] [cursor=pointer]
+        - generic [ref=e2062]: สไลด์ 1/14
+      - generic [ref=e2063]:
+        - generic [ref=e2064]: DAY 3 • 1/14
+        - 'heading "Day 3: EQ คือมีดผ่าตัด ไม่ใช่ค้อน" [level=2] [ref=e2065]'
+        - list [ref=e2066]:
+          - listitem [ref=e2067]: EQ ดี = ทุกชิ้นมีที่อยู่
+          - listitem [ref=e2068]: "คติวันนี้: ตัดก่อนเติม"
+          - listitem [ref=e2069]: ห้ามบูสต์ก่อนหาเสียงกวนเจอ
+        - 'figure "ภาพจำลองเพื่อการเรียนรู้ ไตเติลสไลด์: สเปกตรัมเต็มแถบ + มีดผ่าตัดเล็งย่านความถี่เป็นช่องๆ" [ref=e2071]':
+          - 'img "ไตเติลสไลด์: สเปกตรัมเต็มแถบ + มีดผ่าตัดเล็งย่านความถี่เป็นช่องๆ" [ref=e2072]':
+            - generic [ref=e2073]:
+              - generic [ref=e2078]: BEFORE
+              - generic [ref=e2079]: PROCESS
+              - generic [ref=e2080]: AFTER
+          - generic [ref=e2081]:
+            - generic [ref=e2082]: ภาพจำลองเพื่อการเรียนรู้
+            - text: "ไตเติลสไลด์: สเปกตรัมเต็มแถบ + มีดผ่าตัดเล็งย่านความถี่เป็นช่องๆ"
+        - generic [ref=e2083]:
+          - strong [ref=e2084]: "🎓 Presenter Notes :"
+          - paragraph [ref=e2085]: เปิดสเปกตรัม Analyzer บนเพลงเต็มใน FL ถามว่า "ย่านไหนแน่นจนล้น ย่านไหนโล่ง"
+      - generic [ref=e2086]:
+        - button "◀ ย้อน (←)" [disabled] [ref=e2087] [cursor=pointer]
+        - button "ถัดไป (→/Space) ▶" [ref=e2088] [cursor=pointer]
+        - generic [ref=e2089]:
+          - button "ไปสไลด์ 1" [ref=e2090] [cursor=pointer]: "1"
+          - button "ไปสไลด์ 2" [ref=e2091] [cursor=pointer]: "2"
+          - button "ไปสไลด์ 3" [ref=e2092] [cursor=pointer]: "3"
+          - button "ไปสไลด์ 4" [ref=e2093] [cursor=pointer]: "4"
+          - button "ไปสไลด์ 5" [ref=e2094] [cursor=pointer]: "5"
+          - button "ไปสไลด์ 6" [ref=e2095] [cursor=pointer]: "6"
+          - button "ไปสไลด์ 7" [ref=e2096] [cursor=pointer]: "7"
+          - button "ไปสไลด์ 8" [ref=e2097] [cursor=pointer]: "8"
+          - button "ไปสไลด์ 9" [ref=e2098] [cursor=pointer]: "9"
+          - button "ไปสไลด์ 10" [ref=e2099] [cursor=pointer]: "10"
+          - button "ไปสไลด์ 11" [ref=e2100] [cursor=pointer]: "11"
+          - button "ไปสไลด์ 12" [ref=e2101] [cursor=pointer]: "12"
+          - button "ไปสไลด์ 13" [ref=e2102] [cursor=pointer]: "13"
+          - button "ไปสไลด์ 14" [ref=e2103] [cursor=pointer]: "14"
+      - paragraph [ref=e2104]: "คีย์บอร์ด: ←/→ หรือ Space เปลี่ยนสไลด์ • F เต็มจอ • Esc ออกจากโหมดบันทึก • หนึ่งสไลด์ = หนึ่งแนวคิด"
+  - contentinfo [ref=e134]:
+    - generic [ref=e135]:
+      - strong [ref=e136]: MIXLAB
+      - generic [ref=e137]: ห้องเรียน Mix & Mastering ภาษาไทย • FL Studio 25 • ภาพ UI ที่วาดใหม่เป็น “ภาพจำลองเพื่อการเรียนรู้” ไม่ใช่ภาพหน้าจอจริงของ Image-Line
+      - generic [ref=e138]: ความถูกต้องของความรู้ > คุณภาพการสอน > ใช้งานได้ > สวยงาม

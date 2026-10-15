@@ -1,0 +1,173 @@
+- generic [ref=f9e2]:
+  - navigation "เมนูหลัก" [ref=f9e3]:
+    - generic [ref=f9e4]:
+      - link "MIXLAB MIX & MASTERING ACADEMY" [ref=f9e5] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f9e6]: MIXLAB
+        - generic [ref=f9e7]: MIX & MASTERING ACADEMY
+      - generic [ref=f9e8]:
+        - link "หน้าแรก" [ref=f9e9] [cursor=pointer]:
+          - /url: "#/"
+        - link "แดชบอร์ด" [ref=f9e10] [cursor=pointer]:
+          - /url: "#/dashboard"
+        - link "หลักสูตร 7 วัน" [ref=f9e11] [cursor=pointer]:
+          - /url: "#/curriculum"
+        - link "Sound Lab" [ref=f9e12] [cursor=pointer]:
+          - /url: "#/lab"
+        - link "พจนานุกรม" [ref=f9e13] [cursor=pointer]:
+          - /url: "#/glossary"
+        - link "แบบทดสอบ" [ref=f9e14] [cursor=pointer]:
+          - /url: "#/quiz"
+        - link "คลังความรู้" [ref=f9e15] [cursor=pointer]:
+          - /url: "#/library"
+        - link "อ้างอิง" [ref=f9e16] [cursor=pointer]:
+          - /url: "#/references"
+      - generic [ref=f9e17]:
+        - button "TEACHER OFF" [ref=f9e18] [cursor=pointer]
+        - button "▶ เคลื่อนไหว" [ref=f9e19] [cursor=pointer]
+  - generic [ref=f9e21]: MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK • MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK •
+  - main [ref=f9e22]:
+    - generic [ref=f9e24]:
+      - generic [ref=f9e25]:
+        - generic [ref=f9e26]: ห้องเรียนภาษาไทย • FL STUDIO 25 • 7 วัน 14 ชม.
+        - heading "MIX. SHAPE. MASTER. LEARN." [level=1] [ref=f9e27]:
+          - generic [ref=f9e28]: MIX.
+          - generic [ref=f9e29]: SHAPE.
+          - text: MASTER. LEARN.
+        - paragraph [ref=f9e30]:
+          - strong [ref=f9e31]: MIXLAB — The Mix & Mastering Academy.
+          - text: "คลังความรู้ที่ใช้สอนจริง: เข้าใจ"
+          - emphasis [ref=f9e32]: เหตุผล
+          - text: ของทุกการตัดสินใจเรื่องเสียง ไม่ใช่จำค่า EQ ตามคนอื่น เริ่มจากพื้นฐานเสียง ➜ จัด session ➜ EQ ➜ Dynamics ➜ Space ➜ Mix ทั้งเพลง ➜ Master & ส่งงาน
+        - generic [ref=f9e33]:
+          - link "เริ่มเรียน Day 1 ➜" [ref=f9e34] [cursor=pointer]:
+            - /url: "#/curriculum"
+          - link "หลักสูตร 7 วัน" [ref=f9e35] [cursor=pointer]:
+            - /url: "#/curriculum"
+          - link "เปิด Sound Lab" [ref=f9e36] [cursor=pointer]:
+            - /url: "#/lab"
+        - generic [ref=f9e37]:
+          - generic [ref=f9e38]: ความคืบหน้า 1/28 บท
+          - progressbar "ความคืบหน้า 4%" [ref=f9e39]
+      - paragraph [ref=f9e42]: กำลังโหลดห้องแล็บเสียง…
+    - generic [ref=f9e43]:
+      - generic [ref=f9e44]:
+        - generic [ref=f9e45]: "01"
+        - heading "เส้นทางการเรียน 7 วัน" [level=2] [ref=f9e46]
+      - generic [ref=f9e47]:
+        - link "DAY 1 วันที่ 1 — ฟังเป็น จัดระเบียบเป็น ฝึกฟังแยกย่านความถี่ ไดนามิก และสเตอริโอ พร้อมจัดโปรเจกต์ FL Studio ให้พร้อมมิกซ์ด้วย Gain Staging และ Headroom ที่ถูกต้อง 4 บท • 120 นาที • 0/4 จบ" [ref=f9e48] [cursor=pointer]:
+          - /url: "#/curriculum#day-1"
+          - generic [ref=f9e49]: DAY 1
+          - heading "วันที่ 1 — ฟังเป็น จัดระเบียบเป็น" [level=3] [ref=f9e50]
+          - paragraph [ref=f9e51]: ฝึกฟังแยกย่านความถี่ ไดนามิก และสเตอริโอ พร้อมจัดโปรเจกต์ FL Studio ให้พร้อมมิกซ์ด้วย Gain Staging และ Headroom ที่ถูกต้อง
+          - generic [ref=f9e52]: 4 บท • 120 นาที • 0/4 จบ
+        - 'link "DAY 2 วันที่ 2 — EQ: เคลียร์ความถี่ให้เครื่องดนตรีอยู่ร่วมกัน ใช้ EQ แบบ Subtractive แก้ Masking ด้วย Q, Slope และ High-pass ที่เหมาะสม ฟังออกว่าเสียงขุ่นหรือบางเพราะอะไร 4 บท • 120 นาที • 0/4 จบ" [ref=f9e53] [cursor=pointer]':
+          - /url: "#/curriculum#day-2"
+          - generic [ref=f9e54]: DAY 2
+          - 'heading "วันที่ 2 — EQ: เคลียร์ความถี่ให้เครื่องดนตรีอยู่ร่วมกัน" [level=3] [ref=f9e55]'
+          - paragraph [ref=f9e56]: ใช้ EQ แบบ Subtractive แก้ Masking ด้วย Q, Slope และ High-pass ที่เหมาะสม ฟังออกว่าเสียงขุ่นหรือบางเพราะอะไร
+          - generic [ref=f9e57]: 4 บท • 120 นาที • 0/4 จบ
+        - 'link "DAY 3 วันที่ 3 — Dynamics: คุมความดังให้เพลงหายใจ ตั้ง Threshold, Ratio, Attack, Release, Knee ได้ตามวัตถุประสงค์ ใช้ Gate/Expander และ Sidechain อย่างเข้าใจ 4 บท • 120 นาที • 1/4 จบ" [ref=f9e58] [cursor=pointer]':
+          - /url: "#/curriculum#day-3"
+          - generic [ref=f9e59]: DAY 3
+          - 'heading "วันที่ 3 — Dynamics: คุมความดังให้เพลงหายใจ" [level=3] [ref=f9e60]'
+          - paragraph [ref=f9e61]: ตั้ง Threshold, Ratio, Attack, Release, Knee ได้ตามวัตถุประสงค์ ใช้ Gate/Expander และ Sidechain อย่างเข้าใจ
+          - generic [ref=f9e62]: 4 บท • 120 นาที • 1/4 จบ
+        - 'link "DAY 4 วันที่ 4 — มิติและสเตอริโอ: กว้าง ลึก แต่ไม่พัง ใช้ Pan, Reverb, Delay, Pre-delay และ Mid/Side สร้างมิติโดยยัง Mono-compatible และ Correlation ปลอดภัย 4 บท • 120 นาที • 0/4 จบ" [ref=f9e63] [cursor=pointer]':
+          - /url: "#/curriculum#day-4"
+          - generic [ref=f9e64]: DAY 4
+          - 'heading "วันที่ 4 — มิติและสเตอริโอ: กว้าง ลึก แต่ไม่พัง" [level=3] [ref=f9e65]'
+          - paragraph [ref=f9e66]: ใช้ Pan, Reverb, Delay, Pre-delay และ Mid/Side สร้างมิติโดยยัง Mono-compatible และ Correlation ปลอดภัย
+          - generic [ref=f9e67]: 4 บท • 120 นาที • 0/4 จบ
+        - 'link "DAY 5 วันที่ 5 — สีสันและความแน่น: Saturation, Bus, Automation เพิ่ม Harmonics ด้วย Saturation/Clipping อย่างพอดี จัด Bus/Send และเขียน Automation ให้เพลงเคลื่อนไหว 4 บท • 120 นาที • 0/4 จบ" [ref=f9e68] [cursor=pointer]':
+          - /url: "#/curriculum#day-5"
+          - generic [ref=f9e69]: DAY 5
+          - 'heading "วันที่ 5 — สีสันและความแน่น: Saturation, Bus, Automation" [level=3] [ref=f9e70]'
+          - paragraph [ref=f9e71]: เพิ่ม Harmonics ด้วย Saturation/Clipping อย่างพอดี จัด Bus/Send และเขียน Automation ให้เพลงเคลื่อนไหว
+          - generic [ref=f9e72]: 4 บท • 120 นาที • 0/4 จบ
+        - 'link "DAY 6 วันที่ 6 — มาสเตอริง: ดัง ครบ เคลื่อนย้ายได้ ต่อโซ่มาสเตอริง EQ → Comp → Limiter ได้ ตั้งเป้า LUFS/True Peak ตามแพลตฟอร์ม และ Export + Dither ถูกต้อง 4 บท • 120 นาที • 0/4 จบ" [ref=f9e73] [cursor=pointer]':
+          - /url: "#/curriculum#day-6"
+          - generic [ref=f9e74]: DAY 6
+          - 'heading "วันที่ 6 — มาสเตอริง: ดัง ครบ เคลื่อนย้ายได้" [level=3] [ref=f9e75]'
+          - paragraph [ref=f9e76]: ต่อโซ่มาสเตอริง EQ → Comp → Limiter ได้ ตั้งเป้า LUFS/True Peak ตามแพลตฟอร์ม และ Export + Dither ถูกต้อง
+          - generic [ref=f9e77]: 4 บท • 120 นาที • 0/4 จบ
+        - 'link "DAY 7 วันที่ 7 — โปรเจกต์จบ: มิกซ์ มาสเตอร์ ส่งงาน นำทุกทักษะมาทำเพลงหนึ่งให้จบ ตรวจเช็กด้วย Checklist ส่งออกไฟล์ถูกสเปก และวิจารณ์งานเพื่อนอย่างสร้างสรรค์ 4 บท • 120 นาที • 0/4 จบ" [ref=f9e78] [cursor=pointer]':
+          - /url: "#/curriculum#day-7"
+          - generic [ref=f9e79]: DAY 7
+          - 'heading "วันที่ 7 — โปรเจกต์จบ: มิกซ์ มาสเตอร์ ส่งงาน" [level=3] [ref=f9e80]'
+          - paragraph [ref=f9e81]: นำทุกทักษะมาทำเพลงหนึ่งให้จบ ตรวจเช็กด้วย Checklist ส่งออกไฟล์ถูกสเปก และวิจารณ์งานเพื่อนอย่างสร้างสรรค์
+          - generic [ref=f9e82]: 4 บท • 120 นาที • 0/4 จบ
+    - generic [ref=f9e84]:
+      - generic [ref=f9e85]:
+        - generic [ref=f9e86]: QUICK TIP ประจำวัน
+        - 'heading "💡 Myth: ยิ่งกดเยอะยิ่งโปร" [level=3] [ref=f9e87]'
+        - paragraph [ref=f9e88]: มิเตอร์ GR ที่ขยับ 15 dB ดูเท่ในภาพ แต่เสียงจริงคือแบน ไม่มีลมหายใจ และหูเหนื่อยเร็ว มาสเตอร์ที่กดหนักเกินจะแพ้มาสเตอร์ที่กดพอดีในการฟังยาวๆ เสมอ งานวิจัยด้าน loudness war พิสูจน์มาหลายรอบแล้วว่าเพลงไดนามิกดีฟังได้นานกว่าและเปิดดังได้โดยไม่ล้า
+        - paragraph [ref=f9e89]: "ลอง: เอาเพลงที่กดหนักมาเปิดเบาๆ ฟัง 3 นาที เทียบกับเพลงไดนามิกดี อันไหนเหนื่อยหูก่อน"
+        - link "เปิดบทที่เกี่ยว ➜" [ref=f9e90] [cursor=pointer]:
+          - /url: "#/lesson/d3l2"
+      - generic [ref=f9e91]:
+        - generic [ref=f9e92]: AUDIO GLOSSARY
+        - 'heading "คำศัพท์วันนี้: Headroom / LUFS / True Peak" [level=3] [ref=f9e93]'
+        - list [ref=f9e94]:
+          - listitem [ref=f9e95]:
+            - link [ref=f9e96] [cursor=pointer]:
+              - /url: "#/glossary?q=Fundamental"
+              - strong [ref=f9e97]: ความถี่หลัก
+              - text: (Fundamental)
+            - text: — โน้ตหลักที่ต่ำที่สุดของเสียงนั้น เป็นตัวกำหนดว่านี่คือโน้ตอะไร
+          - listitem [ref=f9e98]:
+            - link [ref=f9e99] [cursor=pointer]:
+              - /url: "#/glossary?q=Masking"
+              - strong [ref=f9e100]: การกลบกันของเสียง
+              - text: (Masking)
+            - text: — เสียงหนึ่งกลบอีกเสียงที่อยู่ย่านเดียวกันจนฟังไม่ชัด
+          - listitem [ref=f9e101]:
+            - link [ref=f9e102] [cursor=pointer]:
+              - /url: "#/glossary?q=Gain%20Staging"
+              - strong [ref=f9e103]: การจัดเกน
+              - text: (Gain Staging)
+            - text: — การตั้งความดังให้พอดีในทุกจุดของเส้นทางเสียง ไม่เบาเกินไม่แรงเกิน
+        - link "เปิดพจนานุกรม 65 คำ ➜" [ref=f9e104] [cursor=pointer]:
+          - /url: "#/glossary"
+    - generic [ref=f9e105]:
+      - generic [ref=f9e106]:
+        - generic [ref=f9e107]: "02"
+        - heading "แผนที่ความรู้" [level=2] [ref=f9e108]
+      - generic [ref=f9e109]:
+        - link [ref=f9e110] [cursor=pointer]:
+          - /url: "#/lesson/d1l2"
+          - heading "A. พื้นฐานเสียง" [level=3] [ref=f9e111]
+          - paragraph [ref=f9e112]: Frequency / dB / Digital / การฟัง
+        - link [ref=f9e113] [cursor=pointer]:
+          - /url: "#/lesson/d2l3"
+          - heading "B. เวิร์กโฟลว์มิกซ์" [level=3] [ref=f9e114]
+          - paragraph [ref=f9e115]: Gain / Routing / Balance / Mono
+        - link [ref=f9e116] [cursor=pointer]:
+          - /url: "#/lesson/d3l3"
+          - heading "C. EQ & Masking" [level=3] [ref=f9e117]
+          - paragraph [ref=f9e118]: ตัดก่อนบูสต์ แยก Kick-Bass
+        - link [ref=f9e119] [cursor=pointer]:
+          - /url: "#/lesson/d4l2"
+          - heading "D. Dynamics" [level=3] [ref=f9e120]
+          - paragraph [ref=f9e121]: Comp / Limit / Saturate
+        - link [ref=f9e122] [cursor=pointer]:
+          - /url: "#/lesson/d5l2"
+          - heading "E. Space & Stereo" [level=3] [ref=f9e123]
+          - paragraph [ref=f9e124]: Reverb / Delay / Width
+        - link [ref=f9e125] [cursor=pointer]:
+          - /url: "#/lesson/d7l3"
+          - heading "F. Master & ส่งงาน" [level=3] [ref=f9e126]
+          - paragraph [ref=f9e127]: LUFS / TruePeak / Export QC
+    - generic [ref=f9e129]:
+      - heading "ควรเรียนอะไรถัดไป?" [level=2] [ref=f9e130]
+      - paragraph [ref=f9e131]: "ต่อจากบทล่าสุด: d3l3"
+      - generic [ref=f9e132]:
+        - link "แดชบอร์ดของฉัน" [ref=f9e133] [cursor=pointer]:
+          - /url: "#/dashboard"
+        - link "ดูหลักสูตรทั้งหมด" [ref=f9e134] [cursor=pointer]:
+          - /url: "#/curriculum"
+  - contentinfo [ref=f9e135]:
+    - generic [ref=f9e136]:
+      - strong [ref=f9e137]: MIXLAB
+      - generic [ref=f9e138]: ห้องเรียน Mix & Mastering ภาษาไทย • FL Studio 25 • ภาพ UI ที่วาดใหม่เป็น “ภาพจำลองเพื่อการเรียนรู้” ไม่ใช่ภาพหน้าจอจริงของ Image-Line
+      - generic [ref=f9e139]: ความถูกต้องของความรู้ > คุณภาพการสอน > ใช้งานได้ > สวยงาม
