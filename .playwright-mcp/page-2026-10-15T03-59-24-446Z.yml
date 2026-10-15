@@ -1,0 +1,242 @@
+- generic [ref=f1e2]:
+  - navigation "เมนูหลัก" [ref=f1e3]:
+    - generic [ref=f1e4]:
+      - link "MIXLAB MIX & MASTERING ACADEMY" [ref=f1e5] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f1e6]: MIXLAB
+        - generic [ref=f1e7]: MIX & MASTERING ACADEMY
+      - generic [ref=f1e8]:
+        - link "หน้าแรก" [ref=f1e9] [cursor=pointer]:
+          - /url: "#/"
+        - link "แดชบอร์ด" [ref=f1e10] [cursor=pointer]:
+          - /url: "#/dashboard"
+        - link "หลักสูตร 7 วัน" [ref=f1e11] [cursor=pointer]:
+          - /url: "#/curriculum"
+        - link "Sound Lab" [ref=f1e12] [cursor=pointer]:
+          - /url: "#/lab"
+        - link "พจนานุกรม" [ref=f1e13] [cursor=pointer]:
+          - /url: "#/glossary"
+        - link "อ้างอิง" [ref=f1e14] [cursor=pointer]:
+          - /url: "#/references"
+      - generic [ref=f1e15]:
+        - button "🎓 Teacher" [ref=f1e16] [cursor=pointer]
+        - button "▶ เคลื่อนไหว" [ref=f1e17] [cursor=pointer]
+  - generic [ref=f1e19]: MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK • MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK •
+  - main [ref=f1e6030]:
+    - generic [ref=f1e6031]:
+      - link "◀ หลักสูตร" [ref=f1e6032] [cursor=pointer]:
+        - /url: "#/curriculum"
+      - generic [ref=f1e6033]: DAY 7
+      - generic [ref=f1e6034]: Advanced
+      - generic [ref=f1e6035]: 35 นาที
+      - heading "Limiting, LUFS, True Peak และ Crest" [level=1] [ref=f1e6036]
+      - paragraph [ref=f1e6037]: Limiting, LUFS, True Peak and Crest Factor
+      - generic [ref=f1e6038]:
+        - button "☐ ทำเครื่องหมายว่าเรียนจบแล้ว" [ref=f1e6039] [cursor=pointer]
+        - button "☆ บันทึกบทเรียน" [ref=f1e6040] [cursor=pointer]
+        - link "⛶ สไลด์ Day 7" [ref=f1e6041] [cursor=pointer]:
+          - /url: "#/slides/7"
+        - button "🖨 Print / PDF" [ref=f1e6042] [cursor=pointer]
+      - generic [ref=f1e6043]:
+        - complementary "สารบัญ" [ref=f1e6044]:
+          - strong [ref=f1e6045]: สารบัญ
+          - link "ดังแค่ไหนถึงพอ? คำตอบคือ \"แล้วแต่\"" [ref=f1e6046] [cursor=pointer]:
+            - /url: "#b-0"
+          - link "p" [ref=f1e6047] [cursor=pointer]:
+            - /url: "#b-1"
+          - link "ศัพท์ 4 คำที่ต้องรู้" [ref=f1e6048] [cursor=pointer]:
+            - /url: "#b-2"
+          - link "Peak / True Peak / RMS / LUFS" [ref=f1e6049] [cursor=pointer]:
+            - /url: "#b-3"
+          - link "Normalization ของแพลตฟอร์ม (คอนเซปต์)" [ref=f1e6050] [cursor=pointer]:
+            - /url: "#b-4"
+          - link "p" [ref=f1e6051] [cursor=pointer]:
+            - /url: "#b-5"
+          - link "ไม่มีเลขวิเศษเลขเดียว" [ref=f1e6052] [cursor=pointer]:
+            - /url: "#b-6"
+          - 'link "Limiter: องครักษ์ด่านสุดท้าย" [ref=f1e6053] [cursor=pointer]':
+            - /url: "#b-7"
+          - link "list" [ref=f1e6054] [cursor=pointer]:
+            - /url: "#b-8"
+          - 'link "ภาพจำลอง: Limiter + Meter ใน FL Studio" [ref=f1e6055] [cursor=pointer]':
+            - /url: "#b-9"
+          - 'link "Crest Factor: ตัวเลขของ \"ลมหายใจ\"" [ref=f1e6056] [cursor=pointer]':
+            - /url: "#b-10"
+          - link "p" [ref=f1e6057] [cursor=pointer]:
+            - /url: "#b-11"
+          - link "แนวทางความดังตามงาน (จุดเริ่ม ไม่ใช่กฎเหล็ก)" [ref=f1e6058] [cursor=pointer]:
+            - /url: "#b-12"
+          - link "ฝึกตั้ง Limiter (15 นาที)" [ref=f1e6059] [cursor=pointer]:
+            - /url: "#b-13"
+          - link "ข้อผิดพลาดที่พบบ่อย" [ref=f1e6060] [cursor=pointer]:
+            - /url: "#b-14"
+          - link "ตัวอย่างการตัดสินใจ" [ref=f1e6061] [cursor=pointer]:
+            - /url: "#b-15"
+          - link "ลองด้วยตัวเอง" [ref=f1e6062] [cursor=pointer]:
+            - /url: "#b-16"
+          - link "สรุปบทนี้" [ref=f1e6063] [cursor=pointer]:
+            - /url: "#b-17"
+        - article [ref=f1e6064]:
+          - heading "🎯 สิ่งที่จะได้รับ" [level=2] [ref=f1e6065]
+          - list [ref=f1e6066]:
+            - listitem [ref=f1e6067]: อธิบายความดัง (LUFS) แบบเข้าใจ normalization ของแพลตฟอร์มได้
+            - listitem [ref=f1e6068]: ตั้ง limiter (ceiling, gain, release) ให้ดังโดยไม่แตกได้
+            - listitem [ref=f1e6069]: รักษา crest factor / ไดนามิก ไม่บีบแบนได้
+            - listitem [ref=f1e6070]: เลือกเป้าหมายความดังตามงานได้โดยไม่ยึดเลขเดียว
+          - heading "ดังแค่ไหนถึงพอ? คำตอบคือ \"แล้วแต่\"" [level=3] [ref=f1e6072]
+          - paragraph [ref=f1e6074]: ไม่มีเลข LUFS เลขเดียวที่เหมาะทุกเพลง เพลงกล่อมเด็กกับเพลง EDM ดังไม่เท่ากันอยู่แล้ว บทนี้สอนให้เข้าใจหน่วยวัด + วิธี normalization ของแพลตฟอร์มแบบคอนเซปต์ แล้วตั้ง limiter ให้ดังพอโดยเพลงยังหายใจ
+          - heading "ศัพท์ 4 คำที่ต้องรู้" [level=2] [ref=f1e6076]
+          - generic [ref=f1e6077]:
+            - heading "Peak / True Peak / RMS / LUFS" [level=4] [ref=f1e6078]
+            - table [ref=f1e6079]:
+              - rowgroup [ref=f1e6080]:
+                - row [ref=f1e6081]:
+                  - columnheader "หน่วย" [ref=f1e6082]
+                  - columnheader "วัดอะไร" [ref=f1e6083]
+                  - columnheader "ทำไมสำคัญ" [ref=f1e6084]
+              - rowgroup [ref=f1e6085]:
+                - row [ref=f1e6086]:
+                  - cell "Peak (dBFS)" [ref=f1e6087]
+                  - cell "จุดสูงสุดของ sample" [ref=f1e6088]
+                  - cell "เกิน 0 = คลิป" [ref=f1e6089]
+                - row [ref=f1e6090]:
+                  - cell "True Peak (dBTP)" [ref=f1e6091]
+                  - cell "จุดสูงสุดหลังแปลง D/A (สอดไส้ระหว่าง sample)" [ref=f1e6092]
+                  - cell "แพลตฟอร์ม/โคเดกใช้ตัวนี้ ต้องต่ำกว่า 0 (เผื่อ -1)" [ref=f1e6093]
+                - row [ref=f1e6094]:
+                  - cell "RMS" [ref=f1e6095]
+                  - cell "ค่าเฉลี่ยพลังงาน" [ref=f1e6096]
+                  - cell "บอกความแน่นคร่าวๆ" [ref=f1e6097]
+                - row [ref=f1e6098]:
+                  - cell "LUFS (integrated/short-term)" [ref=f1e6099]
+                  - cell "ความดังที่หูรับรู้ (K-weighting + gating)" [ref=f1e6100]
+                  - cell "แพลตฟอร์มใช้ปรับความดังอัตโนมัติ" [ref=f1e6101]
+          - generic [ref=f1e6102]:
+            - figure "ภาพจำลองเพื่อการเรียนรู้ แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e6103]:
+              - img "แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e6104]:
+                - generic [ref=f1e6105]: WAVEFORM ก่อน ➜ หลัง (จำลอง)
+              - generic [ref=f1e6156]:
+                - generic [ref=f1e6157]: ภาพจำลองเพื่อการเรียนรู้
+                - text: แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้
+            - heading "Normalization ของแพลตฟอร์ม (คอนเซปต์)" [level=2] [ref=f1e6158]
+          - paragraph [ref=f1e6160]: "แพลตฟอร์มสตรีมมิงมีปุ่ม normalization: ถ้าเพลงเราดังกว่าเกณฑ์ เขาจะลดวอลลุ่มลงให้เท่าเพลงอื่น ถ้าเบากว่า เขาจะเร่งขึ้น (แต่เร่งได้จำกัดและอาจดันนอยส์) ผลคือ \"อัดดังเกินไม่ได้ดังกว่า\" แถมเพลงที่บีบแบนจะฟังแย่กว่าเพลงไดนามิกดีที่โดนลดมาเท่าๆ กัน ดังนั้นเป้าหมายคือมิกซ์/มาสเตอร์ให้ไดนามิกดี ไม่ใช่บีบให้ตัวเลข integrated ดังสุด"
+          - generic [ref=f1e6162]:
+            - strong [ref=f1e6163]: ⚠️ ไม่มีเลขวิเศษเลขเดียว
+            - paragraph [ref=f1e6164]: "อย่ายึดว่า \"ต้อง -14 LUFS ทุกเพลง\" เพราะแต่ละแพลตฟอร์มเกณฑ์ต่างกัน เปลี่ยนได้ตลอด และเพลงแต่ละแนวเหมาะกับความดังต่างกัน ให้ใช้หลัก: เพลงเบา-ไดนามิกกว้าง (อะคูสติก แจ๊ส) ดังน้อยกว่าได้ เพลงจังหวะหนัก (ป๊อป แดนซ์ ฮิปฮอป) ดังกว่าได้ แต่ทุกแนวต้อง true peak ปลอดภัยและไม่แตก"
+          - generic [ref=f1e6165]:
+            - figure "ภาพจำลองเพื่อการเรียนรู้ แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e6166]:
+              - img "แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e6167]:
+                - generic [ref=f1e6168]: WAVEFORM ก่อน ➜ หลัง (จำลอง)
+              - generic [ref=f1e6219]:
+                - generic [ref=f1e6220]: ภาพจำลองเพื่อการเรียนรู้
+                - text: แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้
+            - 'heading "Limiter: องครักษ์ด่านสุดท้าย" [level=2] [ref=f1e6221]'
+          - generic [ref=f1e6222]:
+            - heading [level=4]
+            - list [ref=f1e6223]:
+              - listitem [ref=f1e6224]: "Ceiling / Output: ตั้ง -1.0 dBTP (เผื่อ headroom ให้โคเดก MP3/AAC) อย่าตั้ง 0"
+              - listitem [ref=f1e6225]: "Gain / Input: ดันขึ้นจน GR ขยับ 1-3dB ช่วงดังสุด (เพลงไดนามิกกว้างอาจแค่ 1-2dB)"
+              - listitem [ref=f1e6226]: "Release/Character: เริ่ม auto/กลาง ถ้าได้ยินปั๊ม/แตกให้ช้าลง ถ้าอั้นให้เร็วขึ้น"
+              - listitem [ref=f1e6227]: "ฟัง 3 จุด: ท่อนดังสุด (แตกไหม) ท่อนเบา (นอยส์โผล่ไหม) เสียง S/ฉาบ (บาดไหม)"
+          - generic [ref=f1e6229]:
+            - generic [ref=f1e6230]: ภาพจำลองเพื่อการเรียนรู้ ไม่ใช่ภาพหน้าจอจริงของ FL Studio
+            - strong [ref=f1e6231]: "🖥️ ภาพจำลอง: Limiter + Meter ใน FL Studio"
+            - paragraph [ref=f1e6232]: "[Fruity Limiter LIMIT mode: Ceiling -1.0 / Gain ดันจน GR 2dB] ─> [Wave Candy / Edison meter: ดู peak + LUFS คร่าวๆ] กราฟ GR ขยับเฉพาะยอดดัง ไม่แช่แดงตลอด"
+          - generic [ref=f1e6233]:
+            - figure "ภาพจำลองเพื่อการเรียนรู้ แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e6234]:
+              - img "แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e6235]:
+                - generic [ref=f1e6236]: WAVEFORM ก่อน ➜ หลัง (จำลอง)
+              - generic [ref=f1e6287]:
+                - generic [ref=f1e6288]: ภาพจำลองเพื่อการเรียนรู้
+                - text: แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้
+            - 'heading "Crest Factor: ตัวเลขของ \"ลมหายใจ\"" [level=2] [ref=f1e6289]'
+          - paragraph [ref=f1e6291]: "Crest factor คือระยะห่างระหว่างพีคกับความดังเฉลี่ย (peak − RMS/LUFS คร่าวๆ) ค่ามาก = ไดนามิกกว้าง (กลองเด้ง) ค่าน้อย = แบนแน่น (EDM ดังสุด) ถ้าบีบจน crest เหลือน้อยมาก เพลงจะล้าและทรานเซียนต์หาย วิธีรักษา: ดัน gain ทีละ 0.5dB ฟังเทียบ crest อย่าปล่อยให้ verse-hook กลายเป็นก้อนเดียวกัน"
+          - generic [ref=f1e6292]:
+            - heading "แนวทางความดังตามงาน (จุดเริ่ม ไม่ใช่กฎเหล็ก)" [level=4] [ref=f1e6293]
+            - table [ref=f1e6294]:
+              - rowgroup [ref=f1e6295]:
+                - row [ref=f1e6296]:
+                  - columnheader "งาน" [ref=f1e6297]
+                  - columnheader "แนวคิด" [ref=f1e6298]
+                  - columnheader "ข้อควรระวัง" [ref=f1e6299]
+              - rowgroup [ref=f1e6300]:
+                - row [ref=f1e6301]:
+                  - cell "เดโม/ส่งเพื่อน" [ref=f1e6302]
+                  - cell "ดังพอฟัง ไม่ต้องสุด" [ref=f1e6303]
+                  - cell "อย่าบี้จนแตก" [ref=f1e6304]
+                - row [ref=f1e6305]:
+                  - cell "ซิงเกิลสตรีมมิง" [ref=f1e6306]
+                  - cell "ใกล้เคียง reference แนวเดียวกัน ไดนามิกดี" [ref=f1e6307]
+                  - cell "true peak -1, ฟังหลัง normalization" [ref=f1e6308]
+                - row [ref=f1e6309]:
+                  - cell "เพลงจังหวะหนัก" [ref=f1e6310]
+                  - cell "แน่นกว่าได้ GR มากหน่อย" [ref=f1e6311]
+                  - cell "ฟังความล้าท่อนฮุกซ้ำๆ" [ref=f1e6312]
+                - row [ref=f1e6313]:
+                  - cell "เพลงไดนามิกกว้าง" [ref=f1e6314]
+                  - cell "ยอมเบากว่า รักษา verse-hook" [ref=f1e6315]
+                  - cell "อย่าดัน verse ขึ้นมาเท่า hook" [ref=f1e6316]
+          - generic [ref=f1e6317]:
+            - heading "ฝึกตั้ง Limiter (15 นาที)" [level=4] [ref=f1e6318]
+            - list [ref=f1e6319]:
+              - listitem [ref=f1e6320]: bypass limiter ฟัง reference แนวเดียวกัน 1 รอบ จดความรู้สึกดัง/แน่น
+              - listitem [ref=f1e6321]: เปิด limiter ceiling -1.0 ดัน gain ทีละ 0.5dB จน GR 1-3dB ช่วงดังสุด
+              - listitem [ref=f1e6322]: สลับ bypass (level-match คร่าวๆ) ถามว่าแน่นขึ้นหรือแค่ดังขึ้น
+              - listitem [ref=f1e6323]: ฟังท่อนเบาสุดว่า hiss/reverb โผล่ไหม ฟังท่อนดังสุดว่าแตกไหม
+              - listitem [ref=f1e6324]: ถ้าแตกก่อนดังพอ = กลับไปแก้มิกซ์/เชน (อย่าฝืน limiter)
+          - generic [ref=f1e6326]:
+            - strong [ref=f1e6327]: 💥 ข้อผิดพลาดที่พบบ่อย
+            - list [ref=f1e6328]:
+              - listitem [ref=f1e6329]: ตั้ง ceiling 0.0 แล้วแตกบนมือถือ/หลังแปลง MP3
+              - listitem [ref=f1e6330]: GR แช่ 5-8dB ทั้งเพลงจนหูล้า
+              - listitem [ref=f1e6331]: ไล่ตามเลข LUFS เดียวทุกเพลงจนเพลงช้าโดนบีบแบน
+          - generic [ref=f1e6333]:
+            - strong [ref=f1e6334]: 🎧 ตัวอย่างการตัดสินใจ
+            - paragraph [ref=f1e6335]: "เพลงบัลลาด: GR 1-2dB ยอม integrated เบากว่า reference EDM เก็บ verse เบาไว้ | เพลงแดนซ์: GR 3-4dB ได้ แต่ฟังฮุกรอบที่ 3 ว่าล้าหรือไม่ ถ้าล้าให้ถอย 0.5dB ความดังที่ฟังได้นานชนะความดังสุดเสมอ"
+          - generic [ref=f1e6337]:
+            - strong [ref=f1e6338]: ✏️ ลองด้วยตัวเอง
+            - paragraph [ref=f1e6339]: "bounce มาสเตอร์ 2 เวอร์ชัน: A) GR 1-2dB ไดนามิกกว้าง B) GR 4-5dB ดังสุด เปิด normalization ของแพลตฟอร์ม (หรือลดวอลลุ่มให้ดังเท่า) แล้ว blind test กับเพื่อนว่าอันไหนน่าฟังกว่า"
+          - generic [ref=f1e6340]:
+            - generic [ref=f1e6341]:
+              - strong [ref=f1e6342]: 📌 สรุปบทนี้
+              - paragraph [ref=f1e6343]: เข้าใจ peak/true peak/LUFS รู้ว่าแพลตฟอร์มปรับดังอัตโนมัติ (ดังเกินไม่ได้ดังกว่า) ตั้ง limiter ceiling -1.0 GR 1-3dB รักษา crest/ไดนามิกไว้ ไม่มีเลขเดียวที่เหมาะทุกเพลง เทียบ reference แนวเดียวกันเสมอ
+            - 'button "💡 Myth vs Fact: Myth: ส่งไฟล์อะไรก็ได้ เดี๋ยวแพลตฟอร์มแก้ให้" [ref=f1e6345] [cursor=pointer]'
+          - heading "💡 เกร็ดความรู้ประจำบท (1)" [level=2] [ref=f1e6346]
+          - 'button "รู้ไหม? Myth: ส่งไฟล์อะไรก็ได้ เดี๋ยวแพลตฟอร์มแก้ให้" [ref=f1e6348] [cursor=pointer]'
+          - heading "📝 แบบทดสอบท้ายบท (2 ข้อ)" [level=2] [ref=f1e6349]
+          - generic [ref=f1e6350]:
+            - generic [ref=f1e6351]:
+              - strong [ref=f1e6352]: ข้อ 1. ชุดไฟล์ส่งงานมาตรฐานควรมีอะไรบ้าง?
+              - generic [ref=f1e6353]: ตัวเลือก
+              - generic [ref=f1e6354]:
+                - button "แค่ mp3 เดียวพอ" [ref=f1e6355] [cursor=pointer]
+                - button "WAV master + MP3 preview + สเต็ม/เวอร์ชัน instrumental (ถ้าตกลงกัน) พร้อมตั้งชื่อมีเวอร์ชัน" [ref=f1e6356] [cursor=pointer]
+                - button "แค่โปรเจกต์ FL" [ref=f1e6357] [cursor=pointer]
+                - button "ส่งเป็นภาพหน้าจอมิกเซอร์" [ref=f1e6358] [cursor=pointer]
+            - generic [ref=f1e6359]:
+              - strong [ref=f1e6360]: ข้อ 2. ก่อนส่งไฟล์ ควรฟังไฟล์ export จริงตั้งแต่ต้นจนจบอีกครั้ง แม้จะฟังในโปรเจกต์มาแล้ว
+              - generic [ref=f1e6361]: ถูก/ผิด
+              - generic [ref=f1e6362]:
+                - button "ถูก" [ref=f1e6363] [cursor=pointer]
+                - button "ผิด" [ref=f1e6364] [cursor=pointer]
+            - button "ส่งคำตอบ (0/2)" [ref=f1e6365] [cursor=pointer]
+          - heading "📚 อ่านต่อ & อ้างอิง" [level=2] [ref=f1e6366]
+          - list [ref=f1e6367]:
+            - listitem [ref=f1e6368]: "iZotope: LUFS and true peak explained"
+            - listitem [ref=f1e6369]: "FL Studio Manual: Fruity Limiter"
+            - listitem [ref=f1e6370]: EBU R128 (concept reference)
+          - generic [ref=f1e6371]:
+            - 'link "◀ เชนมาสเตอร์: EQ กาว Saturation สเตอริโอ" [ref=f1e6372] [cursor=pointer]':
+              - /url: "#/lesson/d7l2"
+            - link "Export, Dither, QC และส่งงาน + เช็กลิสต์จบ ▶" [ref=f1e6373] [cursor=pointer]:
+              - /url: "#/lesson/d7l4"
+          - paragraph [ref=f1e6374]:
+            - text: "สไลด์ Day 7:"
+            - link "เปิดห้องสไลด์ (14 หน้า)" [ref=f1e6375] [cursor=pointer]:
+              - /url: "#/slides/7"
+            - text: "• เกร็ดทั้งหมดของวัน: 6 รายการ"
+  - contentinfo [ref=f1e445]:
+    - generic [ref=f1e446]:
+      - strong [ref=f1e447]: MIXLAB
+      - generic [ref=f1e448]: ห้องเรียน Mix & Mastering ภาษาไทย • FL Studio 25 • ภาพ UI ที่วาดใหม่เป็น “ภาพจำลองเพื่อการเรียนรู้” ไม่ใช่ภาพหน้าจอจริงของ Image-Line
+      - generic [ref=f1e449]: ความถูกต้องของความรู้ > คุณภาพการสอน > ใช้งานได้ > สวยงาม

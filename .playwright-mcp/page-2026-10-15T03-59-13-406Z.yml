@@ -1,0 +1,186 @@
+- generic [ref=f1e2]:
+  - navigation "เมนูหลัก" [ref=f1e3]:
+    - generic [ref=f1e4]:
+      - link "MIXLAB MIX & MASTERING ACADEMY" [ref=f1e5] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f1e6]: MIXLAB
+        - generic [ref=f1e7]: MIX & MASTERING ACADEMY
+      - generic [ref=f1e8]:
+        - link "หน้าแรก" [ref=f1e9] [cursor=pointer]:
+          - /url: "#/"
+        - link "แดชบอร์ด" [ref=f1e10] [cursor=pointer]:
+          - /url: "#/dashboard"
+        - link "หลักสูตร 7 วัน" [ref=f1e11] [cursor=pointer]:
+          - /url: "#/curriculum"
+        - link "Sound Lab" [ref=f1e12] [cursor=pointer]:
+          - /url: "#/lab"
+        - link "พจนานุกรม" [ref=f1e13] [cursor=pointer]:
+          - /url: "#/glossary"
+        - link "อ้างอิง" [ref=f1e14] [cursor=pointer]:
+          - /url: "#/references"
+      - generic [ref=f1e15]:
+        - button "🎓 Teacher" [ref=f1e16] [cursor=pointer]
+        - button "▶ เคลื่อนไหว" [ref=f1e17] [cursor=pointer]
+  - generic [ref=f1e19]: MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK • MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK •
+  - main [ref=f1e2931]:
+    - generic [ref=f1e2932]:
+      - link "◀ หลักสูตร" [ref=f1e2933] [cursor=pointer]:
+        - /url: "#/curriculum"
+      - generic [ref=f1e2934]: DAY 4
+      - generic [ref=f1e2935]: Advanced
+      - generic [ref=f1e2936]: 35 นาที
+      - heading "Limiter, Clipper, Saturation, De-ess, Gate" [level=1] [ref=f1e2937]
+      - paragraph [ref=f1e2938]: Limiter, Clipper, Saturation, De-Ess & Gate
+      - generic [ref=f1e2939]:
+        - button "☐ ทำเครื่องหมายว่าเรียนจบแล้ว" [ref=f1e2940] [cursor=pointer]
+        - button "☆ บันทึกบทเรียน" [ref=f1e2941] [cursor=pointer]
+        - link "⛶ สไลด์ Day 4" [ref=f1e2942] [cursor=pointer]:
+          - /url: "#/slides/4"
+        - button "🖨 Print / PDF" [ref=f1e2943] [cursor=pointer]
+      - generic [ref=f1e2944]:
+        - complementary "สารบัญ" [ref=f1e2945]:
+          - strong [ref=f1e2946]: สารบัญ
+          - link "ด่านสุดท้ายก่อนเพลงออกสู่โลก" [ref=f1e2947] [cursor=pointer]:
+            - /url: "#b-0"
+          - 'link "1. Limiter: การ์ดห้ามเสียงแตก" [ref=f1e2948] [cursor=pointer]':
+            - /url: "#b-1"
+          - link "p" [ref=f1e2949] [cursor=pointer]:
+            - /url: "#b-2"
+          - link "p" [ref=f1e2950] [cursor=pointer]:
+            - /url: "#b-3"
+          - link "Fruity Limiter บน Master" [ref=f1e2951] [cursor=pointer]:
+            - /url: "#b-4"
+          - link "2. Clipper vs Limiter และ Saturation" [ref=f1e2952] [cursor=pointer]:
+            - /url: "#b-5"
+          - link "p" [ref=f1e2953] [cursor=pointer]:
+            - /url: "#b-6"
+          - link "p" [ref=f1e2954] [cursor=pointer]:
+            - /url: "#b-7"
+          - 'link "ตัวอย่าง: เบสบางในมือถือ (จุดเริ่มต้นให้ทดลอง)" [ref=f1e2955] [cursor=pointer]':
+            - /url: "#b-8"
+          - 'link "3. De-esser และ Gate: ยามเฉพาะกิจ" [ref=f1e2956] [cursor=pointer]':
+            - /url: "#b-9"
+          - link "p" [ref=f1e2957] [cursor=pointer]:
+            - /url: "#b-10"
+          - link "p" [ref=f1e2958] [cursor=pointer]:
+            - /url: "#b-11"
+          - 'link "Over-compression: สัญญาณเตือนว่าหนักมือไปแล้ว" [ref=f1e2959] [cursor=pointer]':
+            - /url: "#b-12"
+          - link "เช็กลิสต์อาการกดหนักเกิน" [ref=f1e2960] [cursor=pointer]:
+            - /url: "#b-13"
+          - link "p" [ref=f1e2961] [cursor=pointer]:
+            - /url: "#b-14"
+          - link "ตรวจ Over-compression ด้วย Wave Candy" [ref=f1e2962] [cursor=pointer]:
+            - /url: "#b-15"
+          - link "Maximus ทรงพลัง แต่พังได้ทั้งมิกซ์ในคลิกเดียว" [ref=f1e2963] [cursor=pointer]:
+            - /url: "#b-16"
+          - 'link "ลองทำ: หาจุดพอดีของ Limiter" [ref=f1e2964] [cursor=pointer]':
+            - /url: "#b-17"
+          - link "ข้อผิดพลาดที่พบบ่อย" [ref=f1e2965] [cursor=pointer]:
+            - /url: "#b-18"
+          - link "สรุปบทเรียน" [ref=f1e2966] [cursor=pointer]:
+            - /url: "#b-19"
+        - article [ref=f1e2967]:
+          - heading "🎯 สิ่งที่จะได้รับ" [level=2] [ref=f1e2968]
+          - list [ref=f1e2969]:
+            - listitem [ref=f1e2970]: อธิบายบทบาทของ Limiter, Clipper, Saturator, De-esser และ Gate ได้
+            - listitem [ref=f1e2971]: ตั้ง Limiter บน Master เบื้องต้นโดยไม่บี้เพลงจนแบน
+            - listitem [ref=f1e2972]: เลือกใช้ Saturation เติมฮาร์มอนิกอย่างพอดี
+            - listitem [ref=f1e2973]: สังเกตอาการ Over-compression และแก้ไขได้
+          - generic [ref=f1e2974]:
+            - heading "ด่านสุดท้ายก่อนเพลงออกสู่โลก" [level=3] [ref=f1e2975]
+            - paragraph [ref=f1e2976]: หลัง EQ กับ Compressor จัดระเบียบเพลงแล้ว ยังมีเครื่องมือด่านสุดท้ายที่ตัดสินว่าเพลงจะดังพอ แน่นพอ และสะอาดพอหรือไม่ บทนี้รวม Limiter, Clipper, Saturation, De-esser และ Gate พร้อมสัญญาณเตือนว่าเมื่อไรแปลว่าเรากดหนักเกินไปแล้ว
+          - generic [ref=f1e2977]:
+            - figure "ภาพจำลองเพื่อการเรียนรู้ แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e2978]:
+              - img "แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e2979]:
+                - generic [ref=f1e2980]: INPUT ➜ OUTPUT (จำลอง)
+              - generic [ref=f1e2985]:
+                - generic [ref=f1e2986]: ภาพจำลองเพื่อการเรียนรู้
+                - text: แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้
+            - 'heading "1. Limiter: การ์ดห้ามเสียงแตก" [level=2] [ref=f1e2987]'
+          - paragraph [ref=f1e2989]: Limiter คือ Compressor ที่ Ratio สูงมาก (เช่น 10:1 ขึ้นไปจนถึง Infinity) หน้าที่หลักคือกันไม่ให้เสียงเกิน 0 dBFS จนแตก และเพิ่มความดังรวมของเพลง บน Master นิยมตั้ง Ceiling ไว้ที่ -1 dBTP (กันแตกบนสตรีมมิง) แล้วดัน Input ขึ้นจนได้ความดังที่ต้องการ แต่ยิ่งดันมาก เพลงยิ่งแบนและ Transient ยิ่งหาย
+          - paragraph [ref=f1e2991]: หลักการตั้ง Limiter ที่ปลอดภัยคือดันทีละน้อยแล้วฟัง Transient กลองว่ายังอยู่หรือไม่ ถ้า Kick เริ่มแป๊ก สแนร์เริ่มแบน แปลว่าดันเกินแล้ว ให้ถอยกลับ สำหรับเพลงส่งอาจารย์ในคลาสนี้ ไม่ต้องไล่ความดังแข่งกับเพลงตลาด ขอแค่ไม่แตกและไดนามิกยังอยู่ก็พอแล้ว ความดังไล่ทันกันได้ตอน Mastering จริง
+          - generic [ref=f1e2993]:
+            - generic [ref=f1e2994]: ภาพจำลองเพื่อการเรียนรู้ — Fruity Limiter (Master)
+            - strong [ref=f1e2995]: 🖥️ Fruity Limiter บน Master
+            - paragraph [ref=f1e2996]: เปิด Fruity Limiter ตัวสุดท้ายบน Master ในโหมด Limit ตั้ง Ceiling -1 dB ดูมิเตอร์ Gain Reduction ว่าถูกกดไปกี่ dB ถ้ากดเกิน 2–3 dB ตลอดทั้งเพลงสำหรับการบ้านนี้ ถือว่าหนักไป ให้กลับไปแก้ที่มิกซ์แทนการดัน Limiter ต่อ
+          - heading "2. Clipper vs Limiter และ Saturation" [level=2] [ref=f1e2998]
+          - paragraph [ref=f1e3000]: Clipper ตัดยอด Peak ทิ้งตรงๆ แทนที่จะกดแบบ Limiter ข้อดีคือได้ความดังเพิ่มโดยจังหวะยังเด้งอยู่ ข้อเสียคือถ้าตัดมากไปเสียงจะแตกหยาบ นิยมใช้กับกลองก่อนเข้า Limiter เพื่อเล็มยอดแหลมออก 1–2 dB แล้ว Limiter จะได้ทำงานน้อยลง ส่วน Saturation คือการเติมฮาร์มอนิกให้เสียงอิ่ม อุ่น และฟังดังขึ้นโดยไม่ต้องดัน Volume
+          - paragraph [ref=f1e3002]: Saturation มีหลายรสตั้งแต่ Tape ที่นุ่มอุ่น Tube ที่อิ่มหนา ไปจนถึง Distortion ที่แตกดิบ ใช้ได้ตั้งแต่เบส (เติมฮาร์มอนิกให้ดังในลำโพงเล็ก) เสียงร้อง (เติมเนื้อให้ลอย) ไปจนถึง Drum bus (เติมกาวให้เกาะกัน) หลักคือเริ่มจากน้อยมากๆ แล้วค่อยเพิ่มจนได้ยินความต่าง ถ้าได้ยินว่าแตกชัด แปลว่ามากไปสำหรับงานมิกซ์ทั่วไป
+          - generic [ref=f1e3004]:
+            - strong [ref=f1e3005]: "🎧 ตัวอย่าง: เบสบางในมือถือ (จุดเริ่มต้นให้ทดลอง)"
+            - paragraph [ref=f1e3006]: ถ้าเบสมีแต่ Sub แล้วหายในลำโพงเล็ก ลอง Saturation เบาๆ เพื่อสร้างฮาร์มอนิกย่าน 200–800 Hz เพิ่มขึ้นมา เริ่มจาก Drive ต่ำๆ ผสม 10–20% แล้วฟังในลำโพงมือถือว่าเบสเริ่มได้ยินหรือไม่ เหตุผลที่วิธีนี้ดีกว่าการบูสต์ Sub เพราะลำโพงเล็กปล่อย Sub ไม่ออกตั้งแต่แรก บูสต์ไปก็ไม่ได้ยินอยู่ดี
+          - 'heading "3. De-esser และ Gate: ยามเฉพาะกิจ" [level=2] [ref=f1e3008]'
+          - paragraph [ref=f1e3010]: De-esser คือ Compressor ที่เฝ้าเฉพาะย่านเสียง S (ราว 5–9 kHz แล้วแต่เสียงคน) คอยกดลงเฉพาะตอนเสียง S โผล่ขึ้นมา ตั้งให้กด 3–6 dB เฉพาะคำที่บาดหูเป็นจุดเริ่มต้นให้ทดลอง ถ้ากดมากไปเสียงร้องจะกลายเป็นเสียงติดอ่าง ส่วน Gate คือประตูที่ปิดเสียงเบากว่า Threshold ทิ้ง ใช้ตัดเสียง bleed เสียงแอร์ หรือเสียงจี่ตอนนักร้องไม่ร้อง
+          - paragraph [ref=f1e3012]: Gate ตั้ง Threshold ให้ปิดแค่ช่วงเงียบ ไม่ใช่ตั้งสูงจนตัดหางเสียงร้องไปด้วย Attack เปิดไว Release กลางๆ เพื่อให้ประตูเปิดปิดเนียน ถ้าได้ยินเสียงร้องขาดๆ หายๆ แปลว่า Threshold สูงไปหรือ Release สั้นไป สำหรับงานบ้านทั่วไป ถ้าห้องอัดเงียบอยู่แล้ว อาจไม่ต้องใช้ Gate เลยก็ได้
+          - 'heading "Over-compression: สัญญาณเตือนว่าหนักมือไปแล้ว" [level=3] [ref=f1e3014]'
+          - generic [ref=f1e3015]:
+            - heading "เช็กลิสต์อาการกดหนักเกิน" [level=4] [ref=f1e3016]
+            - list [ref=f1e3017]:
+              - listitem [ref=f1e3018]: กลองทู่ จังหวะไม่เด้ง ทั้งที่ Volume ดัง
+              - listitem [ref=f1e3019]: เสียงร้องแบน ไม่มีเบาดัง ทุกคำดังเท่ากันหมด
+              - listitem [ref=f1e3020]: เพลงฟังแล้วเหนื่อย เปิดเบาๆ ก็ยังรู้สึกล้า
+              - listitem [ref=f1e3021]: มิเตอร์ Master แดงตลอด Limiter กด 5 dB+ ไม่ยอมปล่อย
+              - listitem [ref=f1e3022]: Bypass Compressor ทุกตัวแล้วเพลงหายใจดีขึ้นชัดเจน
+          - paragraph [ref=f1e3024]: วิธีแก้ Over-compression ไม่ใช่การถอดทุกอย่างออกในครั้งเดียว แต่ให้ Bypass ทีละตัวแล้วฟังว่าตัวไหนคือผู้ร้าย จากนั้นลด Ratio ยก Threshold หรือยืด Attack กลับมาก่อน ถ้า Limiter บน Master ทำงานหนัก ให้กลับไปลดที่มิกซ์ทีละแทร็กแทน จำไว้ว่าความดังที่ได้จากการบี้จนแบน แพ้ความดังที่ได้จากมิกซ์สมดุลเสมอ
+          - generic [ref=f1e3026]:
+            - generic [ref=f1e3027]: ภาพจำลองเพื่อการเรียนรู้ — Wave Candy (Master meter)
+            - strong [ref=f1e3028]: 🖥️ ตรวจ Over-compression ด้วย Wave Candy
+            - paragraph [ref=f1e3029]: เปิด Wave Candy บน Master ดู Waveform ว่ายอดถูกตัดเรียบเป็นก้อนอิฐ (Brickwall) หรือไม่ ดู LUFS/short-term meter ว่าเพลงแน่นตลอดไม่มีหายใจเลยหรือเปล่า ภาพนี้เป็นภาพประกอบ ให้ใช้ดูรูปทรง ไม่ใช่จดตัวเลขในภาพไปใช้
+          - generic [ref=f1e3031]:
+            - strong [ref=f1e3032]: ⚠️ Maximus ทรงพลัง แต่พังได้ทั้งมิกซ์ในคลิกเดียว
+            - paragraph [ref=f1e3033]: Maximus เป็น Multiband ที่กดแยกย่านได้ เหมาะ Glue มาสเตอร์เบาๆ แต่ถ้ากดหนักทุกย่านพร้อมกัน เพลงจะแบนและเฟสเพี้ยนจนแก้ไม่กลับ สำหรับมือใหม่ให้ใช้แค่ Preset เบาๆ แล้วลด Amount ลงครึ่งหนึ่งก่อน ถ้าฟังไม่ออกว่าดีขึ้นให้ Bypass ทิ้ง อย่าฝืนเก็บไว้เพราะเห็นว่ามันเป็นปลั๊กอินเทพ
+          - generic [ref=f1e3035]:
+            - strong [ref=f1e3036]: "✏️ ลองทำ: หาจุดพอดีของ Limiter"
+            - paragraph [ref=f1e3037]: เปิดเพลงมิกซ์ตัวเอง ดัน Limiter input ขึ้นช้าๆ จนเริ่มได้ยินกลองทู่ แล้วถอยกลับลงมา 2–3 dB จดไว้ว่าจุดนั้น Gain Reduction ขยับเท่าไร นั่นคือเพดานของเพลงนี้ อย่าดันเกินนั้นเพื่อแลกความดังอีกนิดเดียว
+          - generic [ref=f1e3039]:
+            - strong [ref=f1e3040]: 💥 ข้อผิดพลาดที่พบบ่อย
+            - list [ref=f1e3041]:
+              - listitem [ref=f1e3042]: ดัน Limiter จนเพลงดังเท่าเพลงตลาด แต่ Transient หายหมด
+              - listitem [ref=f1e3043]: ใส่ Saturation หนักทุกแทร็กจนเพลงแตกหยาบทั้งมิกซ์
+              - listitem [ref=f1e3044]: De-ess จนเสียงร้องติดอ่าง เพราะกดกว้างและแรงเกินไป
+              - listitem [ref=f1e3045]: Gate ตัดหางเสียงจนเพลงขาดๆ หายๆ
+          - generic [ref=f1e3046]:
+            - generic [ref=f1e3047]:
+              - strong [ref=f1e3048]: 📌 สรุปบทเรียน
+              - paragraph [ref=f1e3049]: Limiter กันแตก Clipper เล็มยอด Saturation เติมเนื้อ De-esser จับเสียง S Gate ตัดเสียงเงียบ ทั้งหมดใช้แต่น้อยและฟังผลเสมอ ถ้ามีอาการ Over-compression ให้ถอยกลับมาที่มิกซ์ ไม่ใช่ดันด่านสุดท้ายให้หนักขึ้น
+            - 'button "💡 Listen For This: ฟัง correlation meter ให้เป็นนิสัย" [ref=f1e3051] [cursor=pointer]'
+          - heading "💡 เกร็ดความรู้ประจำบท (1)" [level=2] [ref=f1e3052]
+          - button "รู้ไหม? ฟัง correlation meter ให้เป็นนิสัย" [ref=f1e3054] [cursor=pointer]
+          - heading "📝 แบบทดสอบท้ายบท (2 ข้อ)" [level=2] [ref=f1e3055]
+          - generic [ref=f1e3056]:
+            - generic [ref=f1e3057]:
+              - strong [ref=f1e3058]: ข้อ 1. Mid/Side processing คืออะไร?
+              - generic [ref=f1e3059]: ตัวเลือก
+              - generic [ref=f1e3060]:
+                - button "การแยกปรับส่วนกลาง (mono) กับส่วนข้าง (stereo) ได้อิสระ" [ref=f1e3061] [cursor=pointer]
+                - button "การแปลง mp3 เป็น wav" [ref=f1e3062] [cursor=pointer]
+                - button "การ dither" [ref=f1e3063] [cursor=pointer]
+                - button "การตั้ง tempo" [ref=f1e3064] [cursor=pointer]
+            - generic [ref=f1e3065]:
+              - strong [ref=f1e3066]: ข้อ 2. ค่า Correlation meter ติดลบแรง (+1 คือดี) แปลว่าภาพสเตอริโอมีปัญหเฟส ควรแก้ไขก่อนส่งงาน
+              - generic [ref=f1e3067]: ถูก/ผิด
+              - generic [ref=f1e3068]:
+                - button "ถูก" [ref=f1e3069] [cursor=pointer]
+                - button "ผิด" [ref=f1e3070] [cursor=pointer]
+            - button "ส่งคำตอบ (0/2)" [ref=f1e3071] [cursor=pointer]
+          - heading "📚 อ่านต่อ & อ้างอิง" [level=2] [ref=f1e3072]
+          - list [ref=f1e3073]:
+            - listitem [ref=f1e3074]: "FL Studio Manual: Fruity Limiter"
+            - listitem [ref=f1e3075]: "FL Studio Manual: Maximus"
+            - listitem [ref=f1e3076]: "FL Studio Manual: Fruity Blood Overdrive / Saturation"
+          - generic [ref=f1e3077]:
+            - link "◀ Compression กลอง เบส ร้อง + เทคนิคขั้นกลาง" [ref=f1e3078] [cursor=pointer]:
+              - /url: "#/lesson/d4l3"
+            - 'link "มิติความลึก: Direct, Early Reflections, Tail ▶" [ref=f1e3079] [cursor=pointer]':
+              - /url: "#/lesson/d5l1"
+          - paragraph [ref=f1e3080]:
+            - text: "สไลด์ Day 4:"
+            - link "เปิดห้องสไลด์ (14 หน้า)" [ref=f1e3081] [cursor=pointer]:
+              - /url: "#/slides/4"
+            - text: "• เกร็ดทั้งหมดของวัน: 6 รายการ"
+  - contentinfo [ref=f1e445]:
+    - generic [ref=f1e446]:
+      - strong [ref=f1e447]: MIXLAB
+      - generic [ref=f1e448]: ห้องเรียน Mix & Mastering ภาษาไทย • FL Studio 25 • ภาพ UI ที่วาดใหม่เป็น “ภาพจำลองเพื่อการเรียนรู้” ไม่ใช่ภาพหน้าจอจริงของ Image-Line
+      - generic [ref=f1e449]: ความถูกต้องของความรู้ > คุณภาพการสอน > ใช้งานได้ > สวยงาม

@@ -1,0 +1,169 @@
+- generic [ref=f1e2]:
+  - navigation "เมนูหลัก" [ref=f1e3]:
+    - generic [ref=f1e4]:
+      - link "MIXLAB MIX & MASTERING ACADEMY" [ref=f1e5] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f1e6]: MIXLAB
+        - generic [ref=f1e7]: MIX & MASTERING ACADEMY
+      - generic [ref=f1e8]:
+        - link "หน้าแรก" [ref=f1e9] [cursor=pointer]:
+          - /url: "#/"
+        - link "แดชบอร์ด" [ref=f1e10] [cursor=pointer]:
+          - /url: "#/dashboard"
+        - link "หลักสูตร 7 วัน" [ref=f1e11] [cursor=pointer]:
+          - /url: "#/curriculum"
+        - link "Sound Lab" [ref=f1e12] [cursor=pointer]:
+          - /url: "#/lab"
+        - link "พจนานุกรม" [ref=f1e13] [cursor=pointer]:
+          - /url: "#/glossary"
+        - link "อ้างอิง" [ref=f1e14] [cursor=pointer]:
+          - /url: "#/references"
+      - generic [ref=f1e15]:
+        - button "🎓 Teacher" [ref=f1e16] [cursor=pointer]
+        - button "▶ เคลื่อนไหว" [ref=f1e17] [cursor=pointer]
+  - generic [ref=f1e19]: MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK • MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK •
+  - main [ref=f1e2330]:
+    - generic [ref=f1e2331]:
+      - link "◀ หลักสูตร" [ref=f1e2332] [cursor=pointer]:
+        - /url: "#/curriculum"
+      - generic [ref=f1e2333]: DAY 3
+      - generic [ref=f1e2334]: Intermediate
+      - generic [ref=f1e2335]: 30 นาที
+      - heading "Dynamic EQ, Mid/Side และการเทียบ Before-After" [level=1] [ref=f1e2336]
+      - paragraph [ref=f1e2337]: Dynamic EQ, Mid/Side & Level-Matched Comparison
+      - generic [ref=f1e2338]:
+        - button "☐ ทำเครื่องหมายว่าเรียนจบแล้ว" [ref=f1e2339] [cursor=pointer]
+        - button "☆ บันทึกบทเรียน" [ref=f1e2340] [cursor=pointer]
+        - link "⛶ สไลด์ Day 3" [ref=f1e2341] [cursor=pointer]:
+          - /url: "#/slides/3"
+        - button "🖨 Print / PDF" [ref=f1e2342] [cursor=pointer]
+      - generic [ref=f1e2343]:
+        - complementary "สารบัญ" [ref=f1e2344]:
+          - strong [ref=f1e2345]: สารบัญ
+          - link "เมื่อ EQ ธรรมดาแก้ไม่ได้" [ref=f1e2346] [cursor=pointer]:
+            - /url: "#b-0"
+          - link "1. Static EQ vs Dynamic EQ" [ref=f1e2347] [cursor=pointer]:
+            - /url: "#b-1"
+          - link "p" [ref=f1e2348] [cursor=pointer]:
+            - /url: "#b-2"
+          - link "p" [ref=f1e2349] [cursor=pointer]:
+            - /url: "#b-3"
+          - link "ตัวอย่างการตั้ง Dynamic EQ (จุดเริ่มต้นให้ทดลอง)" [ref=f1e2350] [cursor=pointer]:
+            - /url: "#b-4"
+          - link "2. Mid/Side EQ คืออะไร" [ref=f1e2351] [cursor=pointer]:
+            - /url: "#b-5"
+          - link "p" [ref=f1e2352] [cursor=pointer]:
+            - /url: "#b-6"
+          - link "p" [ref=f1e2353] [cursor=pointer]:
+            - /url: "#b-7"
+          - link "เครื่องมือใน FL Studio" [ref=f1e2354] [cursor=pointer]:
+            - /url: "#b-8"
+          - 'link "3. Level-matched Before/After: วิธีเทียบเสียงไม่ให้โดนหลอก" [ref=f1e2355] [cursor=pointer]':
+            - /url: "#b-9"
+          - link "p" [ref=f1e2356] [cursor=pointer]:
+            - /url: "#b-10"
+          - link "ขั้นตอนเทียบแบบซื่อสัตย์" [ref=f1e2357] [cursor=pointer]:
+            - /url: "#b-11"
+          - link "EQ ที่ดีที่สุดบางครั้งคือการไม่ EQ" [ref=f1e2358] [cursor=pointer]:
+            - /url: "#b-12"
+          - 'link "Myth: Dynamic EQ แทนที่ Static EQ ได้ทั้งหมด" [ref=f1e2359] [cursor=pointer]':
+            - /url: "#b-13"
+          - 'link "ลองทำ: Blind test 3 รอบ" [ref=f1e2360] [cursor=pointer]':
+            - /url: "#b-14"
+          - link "ข้อผิดพลาดที่พบบ่อย" [ref=f1e2361] [cursor=pointer]:
+            - /url: "#b-15"
+          - link "สรุปบทเรียน" [ref=f1e2362] [cursor=pointer]:
+            - /url: "#b-16"
+        - article [ref=f1e2363]:
+          - heading "🎯 สิ่งที่จะได้รับ" [level=2] [ref=f1e2364]
+          - list [ref=f1e2365]:
+            - listitem [ref=f1e2366]: อธิบายความต่างของ Static EQ กับ Dynamic EQ และเลือกใช้ถูกงาน
+            - listitem [ref=f1e2367]: อธิบายแนวคิด Mid/Side และตัดสินใจได้ว่าเมื่อไรควร EQ แยก
+            - listitem [ref=f1e2368]: เทียบ Before-After แบบ Level-matched ได้โดยไม่โดนความดังหลอกหู
+            - listitem [ref=f1e2369]: วางแผนใช้ Dynamic EQ แก้ปัญหาเฉพาะท่อนเพลงได้
+          - generic [ref=f1e2370]:
+            - heading "เมื่อ EQ ธรรมดาแก้ไม่ได้" [level=3] [ref=f1e2371]
+            - paragraph [ref=f1e2372]: บางปัญหาไม่ได้เกิดตลอดเพลง เช่น เบสบวมเฉพาะโน้ตต่ำบางตัว หรือเสียงร้องแหลมบาดเฉพาะคำที่ขึ้นเสียงสูง ถ้าใช้ Static EQ คัตทิ้งทั้งเพลง เสียงจะเสียในท่อนที่ไม่มีปัญหา บทนี้จะพาไปรู้จัก Dynamic EQ, Mid/Side และวิธีเทียบเสียงอย่างซื่อสัตย์กับหูตัวเอง
+          - generic [ref=f1e2373]:
+            - figure "ภาพจำลองเพื่อการเรียนรู้ แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e2374]:
+              - img "แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e2375]:
+                - generic [ref=f1e2376]: EQ CURVE (จำลอง)
+              - generic [ref=f1e2381]:
+                - generic [ref=f1e2382]: ภาพจำลองเพื่อการเรียนรู้
+                - text: แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้
+            - heading "1. Static EQ vs Dynamic EQ" [level=2] [ref=f1e2383]
+          - paragraph [ref=f1e2385]: Static EQ คือการบูสต์หรือคัตคงที่ตลอดเวลา เหมาะกับปรับโทนรวมของเสียง ส่วน Dynamic EQ คือ EQ ที่ทำงานเฉพาะเมื่อสัญญาณในย่านนั้นดังเกิน Threshold ที่ตั้งไว้ คล้ายเอา Compressor กับ EQ มารวมกัน ข้อดีคือแก้ปัญหาเฉพาะจุดที่เกิด โดยไม่แตะเสียงในจังหวะที่ไม่มีปัญหา
+          - paragraph [ref=f1e2387]: ตัวอย่างคลาสสิกคือเสียงร้องที่มีเสียง S แหลมบาดเฉพาะบางคำ ถ้าใช้ Static EQ กด 7 kHz ทิ้งทั้งเพลง เสียงร้องจะทึบตลอด แต่ถ้าใช้ Dynamic EQ ตั้งให้กด 7 kHz ลงเฉพาะตอนที่เสียง S โผล่ขึ้นมา ท่อนอื่นเสียงร้องจะยังใสเหมือนเดิม อีกตัวอย่างคือเบสที่บวมเฉพาะโน้ตต่ำบางตัว ก็ใช้ Dynamic EQ กดย่านนั้นเฉพาะตอนโน้ตนั้นดัง
+          - generic [ref=f1e2389]:
+            - strong [ref=f1e2390]: 🎧 ตัวอย่างการตั้ง Dynamic EQ (จุดเริ่มต้นให้ทดลอง)
+            - paragraph [ref=f1e2391]: "สมมติเสียงร้องบาดที่ 6–8 kHz: เลือก Band นั้นเป็น Dynamic mode ตั้ง Threshold ให้เริ่มทำงานเฉพาะตอนคำที่บาดหู Ratio/Range ให้กดลง 3–5 dB Attack เร็วปานกลาง Release กลางๆ เหตุผลที่ต้องเริ่มเบาๆ เพราะ Dynamic EQ ที่กดแรงเกินไปทำให้เสียงร้องวูบวาบ ฟังแล้วเหนื่อยกว่าปัญหาเดิม"
+          - heading "2. Mid/Side EQ คืออะไร" [level=2] [ref=f1e2393]
+          - paragraph [ref=f1e2395]: เสียง Stereo แยกมองได้เป็นสองส่วนคือ Mid (สิ่งที่อยู่กลางเหมือนกันทั้งซ้ายขวา เช่น เสียงร้อง Kick เบส) กับ Side (สิ่งที่ต่างกันซ้ายขวา เช่น กีตาร์ประสาน รีเวิร์บ ฉาบ) Mid/Side EQ คือการ EQ สองส่วนนี้แยกกัน ทำให้แก้ปัญหาได้ละเอียดกว่า เช่น เพิ่ม Air ให้ Side อย่างเดียว เสียงจะกว้างฟุ้งโดยเสียงร้องตรงกลางไม่บาดหูตาม
+          - paragraph [ref=f1e2397]: งานที่ใช้บ่อยคือคัต Sub ของ Side ออกเพื่อให้เสียงต่ำอยู่กลางแน่นๆ เบสไม่วูบวาบซ้ายขวา หรือลด Low-Mid ของ Mid เพื่อเคลียร์เสียงร้องโดยไม่ทำให้กีตาร์ด้านข้างผอมลง ข้อควรระวังคือ Mid/Side ที่ทำแรงเกินไปทำให้เฟสเพี้ยน ฟังใน Mono แล้วเสียงหาย ควรเช็ก Mono ทุกครั้งหลังแตะ Mid/Side (ใน FL ตรวจด้วย Wave Candy Correlation meter หรือปุ่ม Mono บน Master)
+          - generic [ref=f1e2399]:
+            - generic [ref=f1e2400]: ภาพจำลองเพื่อการเรียนรู้ — Maximus + Wave Candy
+            - strong [ref=f1e2401]: 🖥️ เครื่องมือใน FL Studio
+            - paragraph [ref=f1e2402]: Maximus มีโหมดแยกย่านและ Stereo separation ให้ทำ Dynamic-style processing ได้ ส่วน Parametric EQ 2 ใช้ดูสเปกตรัมประกอบการตัดสินใจ ส่วน Wave Candy ใช้ดู Stereo meter และ Correlation ว่าหลังทำ Mid/Side แล้วยัง Mono-compatible หรือไม่
+          - 'heading "3. Level-matched Before/After: วิธีเทียบเสียงไม่ให้โดนหลอก" [level=2] [ref=f1e2404]'
+          - paragraph [ref=f1e2406]: กับดักใหญ่ที่สุดของการทำ EQ คือเสียงที่ดังกว่าจะฟังดูดีกว่าเสมอ ไม่ว่าจะ EQ ดีหรือไม่ดี ดังนั้นทุกครั้งที่ Bypass เทียบ ต้องปรับความดังให้เท่ากันก่อน วิธีง่ายคือดูมิเตอร์ LUFS หรือใช้หูปรับ Output Gain ของ EQ ให้ตอนเปิดกับตอน Bypass ดังพอๆ กัน แล้วค่อยตัดสินว่าโทนดีขึ้นจริงหรือไม่
+          - generic [ref=f1e2407]:
+            - heading "ขั้นตอนเทียบแบบซื่อสัตย์" [level=4] [ref=f1e2408]
+            - list [ref=f1e2409]:
+              - listitem [ref=f1e2410]: ทำ EQ จนพอใจ แล้วจดจำเสียงไว้
+              - listitem [ref=f1e2411]: Bypass EQ แล้วปรับ Volume ให้ดังเท่าตอนเปิด EQ (ใช้มิเตอร์ช่วย)
+              - listitem [ref=f1e2412]: สลับเปิด-ปิดหลายรอบโดยไม่ดูจอ ให้เพื่อนช่วยกดยิ่งดี (Blind test)
+              - listitem [ref=f1e2413]: ถ้าแยกไม่ออกว่าเปิดดีกว่า แปลว่า EQ นั้นอาจไม่จำเป็น ให้เอาออกเพื่อรักษาเสียงต้นฉบับ
+          - generic [ref=f1e2415]:
+            - strong [ref=f1e2416]: ⚠️ EQ ที่ดีที่สุดบางครั้งคือการไม่ EQ
+            - paragraph [ref=f1e2417]: ถ้าเทียบแบบ Level-matched แล้วฟังไม่ออกว่าดีขึ้น นั่นคือสัญญาณว่าเสียงต้นฉบับดีอยู่แล้ว การเก็บ EQ ไว้เฉยๆ แค่เพิ่มเฟสเพี้ยนและความเสี่ยงโดยไม่ได้อะไรกลับมา มืออาชีพจำนวนมากเอาปลั๊กอินออกมากกว่าที่ใส่เพิ่ม นี่คือความกล้าที่ต้องฝึก
+          - generic [ref=f1e2419]:
+            - strong [ref=f1e2420]: "💥 Myth: Dynamic EQ แทนที่ Static EQ ได้ทั้งหมด"
+            - list
+            - paragraph [ref=f1e2421]: ความจริงคือทั้งสองทำงานคนละหน้าที่ Static EQ เหมาะปรับโทนพื้นฐานให้ถูกตั้งแต่แรก ส่วน Dynamic EQ เหมาะแก้ปัญหาที่เกิดเป็นบางเวลา การใช้ Dynamic EQ แก้โทนรวมทั้งเพลงทำให้เสียงไม่นิ่ง ส่วนการใช้ Static EQ แก้ปัญหาชั่วคราวทำให้เสียงเสียทั้งเพลง
+          - generic [ref=f1e2423]:
+            - strong [ref=f1e2424]: "✏️ ลองทำ: Blind test 3 รอบ"
+            - paragraph [ref=f1e2425]: เลือก EQ ที่เพิ่งทำมา 1 ตัว ปรับ Gain ให้เปิดกับ Bypass ดังเท่ากัน หลับตาให้เพื่อนกดสลับ 3 รอบแล้วทายว่ารอบไหนเปิด EQ ถ้าทายถูกและชอบเสียงเปิดมากกว่า ค่อยเก็บไว้ ถ้าทายผิดหรือชอบเสียง Bypass ให้ลบ EQ นั้นทิ้ง
+          - generic [ref=f1e2427]:
+            - strong [ref=f1e2428]: 💥 ข้อผิดพลาดที่พบบ่อย
+            - list [ref=f1e2429]:
+              - listitem [ref=f1e2430]: เทียบ Before/After โดยไม่ปรับความดังให้เท่ากัน
+              - listitem [ref=f1e2431]: ทำ Mid/Side แรงจนฟัง Mono แล้วเบสหาย
+              - listitem [ref=f1e2432]: ใช้ Dynamic EQ กดแรงจนเสียงวูบวาบเป็นปั๊ม
+          - generic [ref=f1e2433]:
+            - generic [ref=f1e2434]:
+              - strong [ref=f1e2435]: 📌 สรุปบทเรียน
+              - paragraph [ref=f1e2436]: Static EQ ปรับโทนรวม Dynamic EQ แก้ปัญหาเฉพาะเวลา Mid/Side แยกกลางกับข้าง และทุกการตัดสินใจต้องผ่านการเทียบแบบ Level-matched ก่อน จำไว้ว่าตัวเลขในบทนี้คือจุดเริ่มต้นให้ทดลอง และ EQ ที่ไม่ผ่าน Blind test ควรถูกลบออก
+            - 'button "💡 Try It Yourself: Sidechain เบสหลบ kick ใน 5 ขั้นตอน" [ref=f1e2438] [cursor=pointer]'
+          - heading "💡 เกร็ดความรู้ประจำบท (1)" [level=2] [ref=f1e2439]
+          - button "รู้ไหม? Sidechain เบสหลบ kick ใน 5 ขั้นตอน" [ref=f1e2441] [cursor=pointer]
+          - heading "📝 แบบทดสอบท้ายบท (1 ข้อ)" [level=2] [ref=f1e2442]
+          - generic [ref=f1e2443]:
+            - generic [ref=f1e2444]:
+              - strong [ref=f1e2445]: ข้อ 1. ต้องการให้เบสหลบให้ kick ทุกครั้งที่ kick ตี โดยไม่ต้องเขียน automation มือ ควรใช้?
+              - generic [ref=f1e2446]: วิเคราะห์สถานการณ์
+              - generic [ref=f1e2447]:
+                - button "Parallel compression" [ref=f1e2448] [cursor=pointer]
+                - button "Sidechain compression โดยใช้ kick เป็น key input ให้คอมเพรสเซอร์ที่เบส" [ref=f1e2449] [cursor=pointer]
+                - button "Dithering" [ref=f1e2450] [cursor=pointer]
+                - button "Mid/Side EQ" [ref=f1e2451] [cursor=pointer]
+            - button "ส่งคำตอบ (0/1)" [ref=f1e2452] [cursor=pointer]
+          - heading "📚 อ่านต่อ & อ้างอิง" [level=2] [ref=f1e2453]
+          - list [ref=f1e2454]:
+            - listitem [ref=f1e2455]: "FL Studio Manual: Maximus"
+            - listitem [ref=f1e2456]: "FL Studio Manual: Wave Candy"
+            - listitem [ref=f1e2457]: "FabFilter: Dynamic EQ Guide"
+          - generic [ref=f1e2458]:
+            - link "◀ Masking, Kick vs Bass และ Subtractive EQ" [ref=f1e2459] [cursor=pointer]:
+              - /url: "#/lesson/d3l3"
+            - link "ไดนามิก ทรานเซียนต์ และ ADSR ▶" [ref=f1e2460] [cursor=pointer]:
+              - /url: "#/lesson/d4l1"
+          - paragraph [ref=f1e2461]:
+            - text: "สไลด์ Day 3:"
+            - link "เปิดห้องสไลด์ (14 หน้า)" [ref=f1e2462] [cursor=pointer]:
+              - /url: "#/slides/3"
+            - text: "• เกร็ดทั้งหมดของวัน: 6 รายการ"
+  - contentinfo [ref=f1e445]:
+    - generic [ref=f1e446]:
+      - strong [ref=f1e447]: MIXLAB
+      - generic [ref=f1e448]: ห้องเรียน Mix & Mastering ภาษาไทย • FL Studio 25 • ภาพ UI ที่วาดใหม่เป็น “ภาพจำลองเพื่อการเรียนรู้” ไม่ใช่ภาพหน้าจอจริงของ Image-Line
+      - generic [ref=f1e449]: ความถูกต้องของความรู้ > คุณภาพการสอน > ใช้งานได้ > สวยงาม

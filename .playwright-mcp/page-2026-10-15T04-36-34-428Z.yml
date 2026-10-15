@@ -1,0 +1,182 @@
+- generic [ref=e2]:
+  - navigation "เมนูหลัก" [ref=e3]:
+    - generic [ref=e4]:
+      - link "MIXLAB MIX & MASTERING ACADEMY" [ref=e5] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=e6]: MIXLAB
+        - generic [ref=e7]: MIX & MASTERING ACADEMY
+      - generic [ref=e8]:
+        - link "หน้าแรก" [ref=e9] [cursor=pointer]:
+          - /url: "#/"
+        - link "แดชบอร์ด" [ref=e10] [cursor=pointer]:
+          - /url: "#/dashboard"
+        - link "หลักสูตร 7 วัน" [ref=e11] [cursor=pointer]:
+          - /url: "#/curriculum"
+        - link "Sound Lab" [ref=e12] [cursor=pointer]:
+          - /url: "#/lab"
+        - link "พจนานุกรม" [ref=e13] [cursor=pointer]:
+          - /url: "#/glossary"
+        - link "แบบทดสอบ" [ref=e14] [cursor=pointer]:
+          - /url: "#/quiz"
+        - link "อ้างอิง" [ref=e15] [cursor=pointer]:
+          - /url: "#/references"
+      - generic [ref=e16]:
+        - button "● สอนอยู่ 24:50" [pressed] [ref=e655] [cursor=pointer]
+        - button "▶ เคลื่อนไหว" [ref=e18] [cursor=pointer]
+  - generic [ref=e20]: MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK • MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK •
+  - main [ref=e656]:
+    - generic [ref=e657]:
+      - generic [ref=e658]: A–J
+      - heading "คลังความรู้เปิดอ่าน" [level=2] [ref=e659]
+    - generic [ref=e660]:
+      - generic [ref=e661]:
+        - generic [ref=e662]: A
+        - heading "Audio Fundamentals" [level=3] [ref=e663]
+        - paragraph [ref=e664]: คลื่น ความถี่ dB ดิจิทัล ความดัง การฟัง
+        - list [ref=e665]:
+          - listitem [ref=e666]:
+            - link "Production vs Mixing vs Mastering และ Signal Flow" [ref=e667] [cursor=pointer]:
+              - /url: "#/lesson/d1l1"
+          - listitem [ref=e668]:
+            - link "ความถี่ แอมพลิจูด รูปคลื่น และฮาร์มอนิก" [ref=e669] [cursor=pointer]:
+              - /url: "#/lesson/d1l2"
+          - listitem [ref=e670]:
+            - link "เดซิเบล Peak RMS LUFS เฮดรูม และคลิปปิง" [ref=e671] [cursor=pointer]:
+              - /url: "#/lesson/d1l3"
+          - listitem [ref=e672]:
+            - link "ดิจิทัลออดิโอ การฟังอ้างอิง และตั้งค่า FL Studio" [ref=e673] [cursor=pointer]:
+              - /url: "#/lesson/d1l4"
+      - generic [ref=e674]:
+        - generic [ref=e675]: B
+        - heading "Mixing Workflow" [level=3] [ref=e676]
+        - paragraph [ref=e677]: จัด session gain routing balance pan mono reference
+        - list [ref=e678]:
+          - listitem [ref=e679]:
+            - link "จัด Session ตั้งชื่อ และใช้สีอย่างเป็นระบบ" [ref=e680] [cursor=pointer]:
+              - /url: "#/lesson/d2l1"
+          - listitem [ref=e681]:
+            - link "Routing Bus Send และ Insert" [ref=e682] [cursor=pointer]:
+              - /url: "#/lesson/d2l2"
+          - listitem [ref=e683]:
+            - 'link "Gain Staging และ Static Mix: Balance กับ Pan" [ref=e684] [cursor=pointer]':
+              - /url: "#/lesson/d2l3"
+          - listitem [ref=e685]:
+            - link "เช็ก Mono Phase Polarity และการอ่านมิเตอร์" [ref=e686] [cursor=pointer]:
+              - /url: "#/lesson/d2l4"
+      - generic [ref=e687]:
+        - generic [ref=e688]: C
+        - heading "EQ" [level=3] [ref=e689]
+        - paragraph [ref=e690]: parametric dynamic filter masking mid-side
+        - list [ref=e691]:
+          - listitem [ref=e692]:
+            - link "ย่านความถี่ สเปกตรัม และฮาร์มอนิก" [ref=e693] [cursor=pointer]:
+              - /url: "#/lesson/d3l1"
+          - listitem [ref=e694]:
+            - link "พารามิเตอร์ EQ และฟิลเตอร์ทุกชนิด" [ref=e695] [cursor=pointer]:
+              - /url: "#/lesson/d3l2"
+          - listitem [ref=e696]:
+            - link "Masking, Kick vs Bass และ Subtractive EQ" [ref=e697] [cursor=pointer]:
+              - /url: "#/lesson/d3l3"
+          - listitem [ref=e698]:
+            - link "Dynamic EQ, Mid/Side และการเทียบ Before-After" [ref=e699] [cursor=pointer]:
+              - /url: "#/lesson/d3l4"
+      - generic [ref=e700]:
+        - generic [ref=e701]: D
+        - heading "Dynamics" [level=3] [ref=e702]
+        - paragraph [ref=e703]: compress limit clip saturate gate de-ess sidechain
+        - list [ref=e704]:
+          - listitem [ref=e705]:
+            - link "ไดนามิก ทรานเซียนต์ และ ADSR" [ref=e706] [cursor=pointer]:
+              - /url: "#/lesson/d4l1"
+          - listitem [ref=e707]:
+            - link "พารามิเตอร์ Compressor และการอ่านมิเตอร์" [ref=e708] [cursor=pointer]:
+              - /url: "#/lesson/d4l2"
+          - listitem [ref=e709]:
+            - link "Compression กลอง เบส ร้อง + เทคนิคขั้นกลาง" [ref=e710] [cursor=pointer]:
+              - /url: "#/lesson/d4l3"
+          - listitem [ref=e711]:
+            - link "Limiter, Clipper, Saturation, De-ess, Gate" [ref=e712] [cursor=pointer]:
+              - /url: "#/lesson/d4l4"
+      - generic [ref=e713]:
+        - generic [ref=e714]: E
+        - heading "Space & Stereo" [level=3] [ref=e715]
+        - paragraph [ref=e716]: reverb delay width mid-side haas modulation depth
+        - list [ref=e717]:
+          - listitem [ref=e718]:
+            - 'link "มิติความลึก: Direct, Early Reflections, Tail" [ref=e719] [cursor=pointer]':
+              - /url: "#/lesson/d5l1"
+          - listitem [ref=e720]:
+            - link "ชนิด Reverb, Send Bus และ EQ ที่ Return" [ref=e721] [cursor=pointer]:
+              - /url: "#/lesson/d5l2"
+          - listitem [ref=e722]:
+            - 'link "Delay และ Modulation: มิติแบบชัดแต่ไม่เละ" [ref=e723] [cursor=pointer]':
+              - /url: "#/lesson/d5l3"
+          - listitem [ref=e724]:
+            - link "ความกว้าง ความเข้ากันโมโน และ Haas" [ref=e725] [cursor=pointer]:
+              - /url: "#/lesson/d5l4"
+      - generic [ref=e726]:
+        - generic [ref=e727]: F
+        - heading "Instrument Mixing" [level=3] [ref=e728]
+        - paragraph [ref=e729]: kick snare bass 808 vocal synth piano guitar
+        - list [ref=e730]:
+          - listitem [ref=e731]:
+            - link "แผนมิกซ์และลำดับชั้นความสำคัญ" [ref=e732] [cursor=pointer]:
+              - /url: "#/lesson/d6l1"
+          - listitem [ref=e733]:
+            - link "Static Balance, Gain และ EQ กันทับ" [ref=e734] [cursor=pointer]:
+              - /url: "#/lesson/d6l2"
+          - listitem [ref=e735]:
+            - link "ไดนามิก มิติ และ Automation ในมิกซ์รวม" [ref=e736] [cursor=pointer]:
+              - /url: "#/lesson/d6l3"
+          - listitem [ref=e737]:
+            - link "Reference, Mono, Translation และ Versioning" [ref=e738] [cursor=pointer]:
+              - /url: "#/lesson/d6l4"
+      - generic [ref=e739]:
+        - generic [ref=e740]: G
+        - heading "Genre Workflow" [level=3] [ref=e741]
+        - paragraph [ref=e742]: hip-hop trap R&B pop electronic rock ambient lo-fi — แนวทางต่างกันตามเพลง ไม่เหมารวม
+        - list
+      - generic [ref=e743]:
+        - generic [ref=e744]: H
+        - heading "Mastering" [level=3] [ref=e745]
+        - paragraph [ref=e746]: premaster tonal dynamics loudness export QC
+        - list [ref=e747]:
+          - listitem [ref=e748]:
+            - link "มาสเตอริงคืออะไร และเช็กพรีมาสเตอร์" [ref=e749] [cursor=pointer]:
+              - /url: "#/lesson/d7l1"
+          - listitem [ref=e750]:
+            - 'link "เชนมาสเตอร์: EQ กาว Saturation สเตอริโอ" [ref=e751] [cursor=pointer]':
+              - /url: "#/lesson/d7l2"
+          - listitem [ref=e752]:
+            - link "Limiting, LUFS, True Peak และ Crest" [ref=e753] [cursor=pointer]:
+              - /url: "#/lesson/d7l3"
+          - listitem [ref=e754]:
+            - link "Export, Dither, QC และส่งงาน + เช็กลิสต์จบ" [ref=e755] [cursor=pointer]:
+              - /url: "#/lesson/d7l4"
+      - generic [ref=e756]:
+        - generic [ref=e757]: I
+        - heading "Troubleshooting" [level=3] [ref=e758]
+        - paragraph [ref=e759]: ขุ่น เบสชน vocal จม แหลมบาด reverb เยอะ mono หาย peak เกิน
+        - list [ref=e760]:
+          - listitem [ref=e761]:
+            - link "ย่านความถี่ สเปกตรัม และฮาร์มอนิก" [ref=e762] [cursor=pointer]:
+              - /url: "#/lesson/d3l1"
+          - listitem [ref=e763]:
+            - link "พารามิเตอร์ EQ และฟิลเตอร์ทุกชนิด" [ref=e764] [cursor=pointer]:
+              - /url: "#/lesson/d3l2"
+          - listitem [ref=e765]:
+            - link "Masking, Kick vs Bass และ Subtractive EQ" [ref=e766] [cursor=pointer]:
+              - /url: "#/lesson/d3l3"
+          - listitem [ref=e767]:
+            - link "Dynamic EQ, Mid/Side และการเทียบ Before-After" [ref=e768] [cursor=pointer]:
+              - /url: "#/lesson/d3l4"
+      - generic [ref=e769]:
+        - generic [ref=e770]: J
+        - heading "Professional Workflow" [level=3] [ref=e771]
+        - paragraph [ref=e772]: ไฟล์ template versioning backup revision delivery
+        - list
+  - contentinfo [ref=e134]:
+    - generic [ref=e135]:
+      - strong [ref=e136]: MIXLAB
+      - generic [ref=e137]: ห้องเรียน Mix & Mastering ภาษาไทย • FL Studio 25 • ภาพ UI ที่วาดใหม่เป็น “ภาพจำลองเพื่อการเรียนรู้” ไม่ใช่ภาพหน้าจอจริงของ Image-Line
+      - generic [ref=e138]: ความถูกต้องของความรู้ > คุณภาพการสอน > ใช้งานได้ > สวยงาม

@@ -1,0 +1,208 @@
+- generic [ref=e2]:
+  - navigation "เมนูหลัก" [ref=e3]:
+    - generic [ref=e4]:
+      - link "MIXLAB MIX & MASTERING ACADEMY" [ref=e5] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=e6]: MIXLAB
+        - generic [ref=e7]: MIX & MASTERING ACADEMY
+      - generic [ref=e8]:
+        - link "หน้าแรก" [ref=e9] [cursor=pointer]:
+          - /url: "#/"
+        - link "แดชบอร์ด" [ref=e10] [cursor=pointer]:
+          - /url: "#/dashboard"
+        - link "หลักสูตร 7 วัน" [ref=e11] [cursor=pointer]:
+          - /url: "#/curriculum"
+        - link "Sound Lab" [ref=e12] [cursor=pointer]:
+          - /url: "#/lab"
+        - link "พจนานุกรม" [ref=e13] [cursor=pointer]:
+          - /url: "#/glossary"
+        - link "แบบทดสอบ" [ref=e14] [cursor=pointer]:
+          - /url: "#/quiz"
+        - link "อ้างอิง" [ref=e15] [cursor=pointer]:
+          - /url: "#/references"
+      - generic [ref=e16]:
+        - button "TEACHER OFF" [active] [ref=e1656] [cursor=pointer]
+        - button "▶ เคลื่อนไหว" [ref=e18] [cursor=pointer]
+  - generic [ref=e20]: MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK • MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK •
+  - main [ref=e2108]:
+    - generic [ref=e2109]:
+      - link "◀ หลักสูตร" [ref=e2110] [cursor=pointer]:
+        - /url: "#/curriculum"
+      - generic [ref=e2111]: DAY 7
+      - generic [ref=e2112]: Beginner
+      - generic [ref=e2113]: 30 นาที
+      - heading "Export, Dither, QC และส่งงาน + เช็กลิสต์จบ" [level=1] [ref=e2114]
+      - paragraph [ref=e2115]: Export, Dither, QC, Delivery and Final Checklist
+      - generic [ref=e2116]:
+        - button "☐ ทำเครื่องหมายว่าเรียนจบแล้ว" [ref=e2117] [cursor=pointer]
+        - button "☆ บันทึกบทเรียน" [ref=e2118] [cursor=pointer]
+        - link "⛶ สไลด์ Day 7" [ref=e2119] [cursor=pointer]:
+          - /url: "#/slides/7"
+        - button "🖨 Print / PDF" [ref=e2120] [cursor=pointer]
+      - generic [ref=e2121]:
+        - complementary "สารบัญ" [ref=e2122]:
+          - strong [ref=e2123]: สารบัญ
+          - button "1. อีก 30 นาที เพลงจะออกสู่โลก" [ref=e2124] [cursor=pointer]
+          - button "2. ฟอร์แมตไหนส่งที่ไหน" [ref=e2125] [cursor=pointer]
+          - button "3. WAV vs MP3 vs ส่งมาสเตอร์" [ref=e2126] [cursor=pointer]
+          - 'button "4. Dither: เรื่องเล็กที่ต้องรู้" [ref=e2127] [cursor=pointer]'
+          - button "5. เนื้อหา" [ref=e2128] [cursor=pointer]
+          - button "6. Export มาสเตอร์ใน FL Studio" [ref=e2129] [cursor=pointer]
+          - button "7. ตั้งชื่อไฟล์ + แพ็กส่งงาน" [ref=e2130] [cursor=pointer]
+          - button "8. ประเด็นสำคัญ" [ref=e2131] [cursor=pointer]
+          - 'button "9. ภาพจำลอง: โฟลเดอร์ส่งงาน" [ref=e2132] [cursor=pointer]'
+          - 'button "10. QC สุดท้าย: 8 ข้อก่อนกดส่ง" [ref=e2133] [cursor=pointer]'
+          - button "11. Final QC (ฟังไฟล์ export จริง)" [ref=e2134] [cursor=pointer]
+          - button "12. ฟังไฟล์ export จริงก่อนส่งเสมอ" [ref=e2135] [cursor=pointer]
+          - button "13. เช็กลิสต์จบ 7 วัน" [ref=e2136] [cursor=pointer]
+          - button "14. ทบทวนทั้งคอร์ส (ทำได้ = จบจริง)" [ref=e2137] [cursor=pointer]
+          - button "15. ตัวอย่างโน้ตส่ง distributor" [ref=e2138] [cursor=pointer]
+          - button "16. ข้อผิดพลาดที่พบบ่อย" [ref=e2139] [cursor=pointer]
+          - button "17. ลองด้วยตัวเอง (Final Project)" [ref=e2140] [cursor=pointer]
+          - button "18. สรุปบทนี้ + จบคอร์ส" [ref=e2141] [cursor=pointer]
+        - article [ref=e2142]:
+          - heading "🎯 สิ่งที่จะได้รับ" [level=2] [ref=e2143]
+          - list [ref=e2144]:
+            - listitem [ref=e2145]: เลือกฟอร์แมต export (WAV/MP3) และตั้งค่า (bit depth, sample rate, dither) ถูก
+            - listitem [ref=e2146]: ทำ QC สุดท้าย (คลิก โมโน fade เมทาดาทา) ได้
+            - listitem [ref=e2147]: ตั้งชื่อไฟล์และเตรียมแพ็กส่งงาน (มาสเตอร์ สตรีม อินสตรูเมนทัล) ได้
+            - listitem [ref=e2148]: ใช้เช็กลิสต์จบ 7 วันทบทวนทั้งคอร์สได้
+          - generic [ref=e2149]:
+            - heading "อีก 30 นาที เพลงจะออกสู่โลก" [level=3] [ref=e2150]
+            - paragraph [ref=e2151]: Export ผิดทีเดียวงานพังได้ (ส่ง MP3 ให้สตรีมมิง ส่งไฟล์ค้าง mono ลืม dither) บทสุดท้ายนี้คือคู่มือส่งงานจริง + เช็กลิสต์ทบทวน 7 วันก่อนจบคลาส
+          - generic [ref=e2152]:
+            - figure "ภาพจำลองเพื่อการเรียนรู้ แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=e2153]:
+              - img "แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=e2154]:
+                - generic [ref=e2155]: WAVEFORM ก่อน ➜ หลัง (จำลอง)
+              - generic [ref=e2206]:
+                - generic [ref=e2207]: ภาพจำลองเพื่อการเรียนรู้
+                - text: แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้
+            - heading "ฟอร์แมตไหนส่งที่ไหน" [level=2] [ref=e2208]
+          - generic [ref=e2209]:
+            - heading "WAV vs MP3 vs ส่งมาสเตอร์" [level=4] [ref=e2210]
+            - table [ref=e2211]:
+              - rowgroup [ref=e2212]:
+                - row [ref=e2213]:
+                  - columnheader "ฟอร์แมต" [ref=e2214]
+                  - columnheader "ใช้เมื่อ" [ref=e2215]
+                  - columnheader "ตั้งค่า" [ref=e2216]
+              - rowgroup [ref=e2217]:
+                - row [ref=e2218]:
+                  - cell "WAV (master)" [ref=e2219]
+                  - cell "ส่งสตรีมมิง/ distributor/เก็บถาวร" [ref=e2220]
+                  - cell "24-bit (หรือตามที่ distributor ขอ) sample rate เท่า session" [ref=e2221]
+                - row [ref=e2222]:
+                  - cell "WAV (premaster)" [ref=e2223]
+                  - cell "ส่งคนมาสเตอริง" [ref=e2224]
+                  - cell "24-bit/32-float ไม่ dither ไม่ limiter (ดู d6l4)" [ref=e2225]
+                - row [ref=e2226]:
+                  - cell "MP3/AAC" [ref=e2227]
+                  - cell "ส่งฟังตัวอย่าง/โซเชียลที่ต้องการไฟล์เล็ก" [ref=e2228]
+                  - cell "320kbps ขึ้นไป จากไฟล์มาสเตอร์แล้ว" [ref=e2229]
+                - row [ref=e2230]:
+                  - cell "Instrumental/TV mix" [ref=e2231]
+                  - cell "ส่งประกวด/ขายบีท/ร้องสด" [ref=e2232]
+                  - cell "มาสเตอร์เชนเดียวกับตัวหลัก ดังใกล้กัน" [ref=e2233]
+          - 'heading "Dither: เรื่องเล็กที่ต้องรู้" [level=2] [ref=e2235]'
+          - paragraph [ref=e2237]: "Dither คือ noise เบามากที่เติมตอนลด bit depth (เช่น 24-bit → 16-bit CD) เพื่อกัน quantization distortion ขั้นบันได กฎง่ายๆ: ลด bit depth ครั้งเดียวตอนสุดท้าย + dither ครั้งเดียว ถ้าส่ง 24-bit ขึ้นไปไม่ต้อง dither ถ้า bounce ภายใน 32-bit float ไม่ต้อง dither"
+          - generic [ref=e2238]:
+            - heading "Export มาสเตอร์ใน FL Studio" [level=4] [ref=e2239]
+            - list [ref=e2240]:
+              - listitem [ref=e2241]: "เช็ก: ปลด solo/mute แปลกๆ ปลด mono ค้าง fade หัว-ท้ายเรียบร้อย"
+              - listitem [ref=e2242]: "File > Export > Wave file: ตั้ง WAV, bit depth ตามปลายทาง, sample rate เท่า session (อย่า resample โดยไม่จำเป็น)"
+              - listitem [ref=e2243]: "เปิด/ปิด Dither ตาม bit depth (16-bit: on / 24-bit ขึ้นไป: off)"
+              - listitem [ref=e2244]: "Normalize: OFF (เราคุมดังด้วย limiter แล้ว)"
+              - listitem [ref=e2245]: ตั้งชื่อตามระบบ (ดูหัวข้อถัดไป) export แล้วฟังไฟล์จริง 1 รอบก่อนส่ง
+          - heading "ตั้งชื่อไฟล์ + แพ็กส่งงาน" [level=2] [ref=e2247]
+          - generic [ref=e2248]:
+            - heading [level=4]
+            - list [ref=e2249]:
+              - listitem [ref=e2250]: "รูปแบบชื่อ: ศิลปิน_เพลง_Master_v1_24-48k.wav (มีเวอร์ชัน + สเปกในชื่อ)"
+              - listitem [ref=e2251]: "แพ็กมาตรฐาน: 1 Master WAV + 1 MP3 320k (ฟังตัวอย่าง) + 1 Instrumental (ถ้ามีร้อง)"
+              - listitem [ref=e2252]: "แนบโน้ต TXT: tempo, ISRC (ถ้ามี), เครดิต, เนื้อเพลง (ถ้าต้องการ), contact"
+              - listitem [ref=e2253]: เก็บโปรเจกต์ + มิกซ์ + มาสเตอร์แยกโฟลเดอร์ + backup อีกที่ (cloud/external)
+          - generic [ref=e2255]:
+            - generic [ref=e2256]: ภาพจำลองเพื่อการเรียนรู้ ไม่ใช่ภาพหน้าจอจริงของ FL Studio
+            - strong [ref=e2257]: "🖥️ ภาพจำลอง: โฟลเดอร์ส่งงาน"
+            - paragraph [ref=e2258]: "[เพลง_ใจกลางเมือง/ 01_Premaster/ 02_Master/WAV+MP3 / 03_Instrumental/ 04_Notes/credits.txt] แต่ละไฟล์มี v1 v2 ชัดเจน ไม่มี final-final2"
+          - 'heading "QC สุดท้าย: 8 ข้อก่อนกดส่ง" [level=2] [ref=e2260]'
+          - generic [ref=e2261]:
+            - heading "Final QC (ฟังไฟล์ export จริง)" [level=4] [ref=e2262]
+            - list [ref=e2263]:
+              - listitem [ref=e2264]: "ฟังต้น-จบ: ไม่มีคลิก ป๊อป fade หลุด เสียงแปลก"
+              - listitem [ref=e2265]: เช็ก mono 1 รอบ + เช็กมือถือ 1 รอบ (translation สุดท้าย)
+              - listitem [ref=e2266]: true peak ต่ำกว่า 0 (ceiling -1.0) ไม่มีคลิป
+              - listitem [ref=e2267]: ดังใกล้ reference แนวเดียวกัน (ไม่เบา/ดังโดด)
+              - listitem [ref=e2268]: ชื่อไฟล์/แท็ก/ปก (artwork) ถูกต้องตาม distributor
+              - listitem [ref=e2269]: มี silence หัว-ท้าย fade เรียบร้อย
+              - listitem [ref=e2270]: ส่งถูกไฟล์ (ไม่สลับ demo กับ master)
+              - listitem [ref=e2271]: backup โปรเจกต์เรียบร้อยแล้ว
+          - generic [ref=e2273]:
+            - strong [ref=e2274]: ⚠️ ฟังไฟล์ export จริงก่อนส่งเสมอ
+            - paragraph [ref=e2275]: อย่าส่งโดยไม่ฟังไฟล์ที่ bounce ออกมา อย่างน้อยฟัง 1 รอบเต็มบนหูฟังหลัก + สปอตเช็กมือถือ ปัญหา render (ปลั๊กอิน demo ตัดเสียง, automation หลุด, tail reverb ขาด) เจอตอนนี้ยังแก้ทัน
+          - heading "เช็กลิสต์จบ 7 วัน" [level=2] [ref=e2277]
+          - generic [ref=e2278]:
+            - heading "ทบทวนทั้งคอร์ส (ทำได้ = จบจริง)" [level=4] [ref=e2279]
+            - list [ref=e2280]:
+              - listitem [ref=e2281]: "Day 1: อธิบาย gain staging/headroom ได้"
+              - listitem [ref=e2282]: "Day 2: EQ (HPF/masking) + comp พื้นฐานได้"
+              - listitem [ref=e2283]: "Day 3: จัดกลอง-เบสให้กรูฟแน่นได้"
+              - listitem [ref=e2284]: "Day 4: ร้องชัด (de-ess/compression/EQ) ได้"
+              - listitem [ref=e2285]: "Day 5: วางมิติ reverb/delay/width + เช็ก mono ได้"
+              - listitem [ref=e2286]: "Day 6: มิกซ์ตามแผน + reference + ส่ง premaster ถูกสเปก"
+              - listitem [ref=e2287]: "Day 7: มาสเตอร์เชนสั้น + limiter ปลอดภัย + export/QC/ส่งงานได้"
+          - generic [ref=e2289]:
+            - strong [ref=e2290]: 🎧 ตัวอย่างโน้ตส่ง distributor
+            - paragraph [ref=e2291]: "\"Artist: … | Title: … (Master v1) | WAV 24-bit/48kHz TP -1.0 | ISRC: … | Composer/Lyric: … | Contact: … | หมายเหตุ: explicit/clean, ปก 3000x3000 แนบแล้ว\""
+          - generic [ref=e2293]:
+            - strong [ref=e2294]: 💥 ข้อผิดพลาดที่พบบ่อย
+            - list [ref=e2295]:
+              - listitem [ref=e2296]: Export ค้าง mono/solo แล้วส่ง
+              - listitem [ref=e2297]: Normalize ON ทำให้ดังเพี้ยนจากที่มาสเตอร์ไว้
+              - listitem [ref=e2298]: ส่ง MP3 128k เป็นมาสเตอร์หลัก
+          - generic [ref=e2300]:
+            - strong [ref=e2301]: ✏️ ลองด้วยตัวเอง (Final Project)
+            - paragraph [ref=e2302]: "ส่งแพ็กจริง 1 เพลง: Master WAV + MP3 + Instrumental + โน้ต ผ่าน QC 8 ข้อ แล้วให้เพื่อน 2 คนฟัง (หูฟัง 1 มือถือ 1) เก็บ feedback มาปรับเป็น v2 ถ้าทำครบ = จบคอร์สอย่างสมบูรณ์"
+          - generic [ref=e2303]:
+            - generic [ref=e2304]:
+              - strong [ref=e2305]: 📌 สรุปบทนี้ + จบคอร์ส
+              - paragraph [ref=e2306]: WAV มาสเตอร์ / MP3 ตัวอย่าง / dither เฉพาะลด bit / normalize OFF / ฟังไฟล์จริงก่อนส่ง / ชื่อไฟล์มีเวอร์ชัน / QC 8 ข้อ / backup เสมอ ยินดีด้วย คุณผ่าน MIXLAB 7 วันแล้ว ที่เหลือคือทำเพลงต่อไปให้ดีกว่าเดิม
+            - 'button "💡 Try It Yourself: แผนฝึก 30 วันหลังจบคอร์ส" [ref=e2308] [cursor=pointer]'
+          - heading "💡 เกร็ดความรู้ประจำบท (1)" [level=2] [ref=e2309]
+          - button "รู้ไหม? แผนฝึก 30 วันหลังจบคอร์ส" [ref=e2311] [cursor=pointer]
+          - heading "📝 แบบทดสอบท้ายบท (2 ข้อ)" [level=2] [ref=e2312]
+          - generic [ref=e2313]:
+            - generic [ref=e2314]:
+              - strong [ref=e2315]: ข้อ 1. เพื่อนบอกว่ามิกซ์คุณท่อนฮุกไม่ใหญ่กว่าท่อนเวิร์ส ควรแก้อย่างไร?
+              - generic [ref=e2316]: วิเคราะห์สถานการณ์
+              - generic [ref=e2317]:
+                - button "ดันมาสเตอร์ให้ดังขึ้นทั้งเพลง" [ref=e2318] [cursor=pointer]
+                - 'button "ใช้ automation/Re-arrangement: เปิดเครื่องดนตรี เพิ่ม width/reverb หรือดัน element ฮุกให้ต่างจากเวิร์สอย่างตั้งใจ" [ref=e2319] [cursor=pointer]'
+                - button "เปลี่ยน sample rate" [ref=e2320] [cursor=pointer]
+                - button "dither เพิ่ม" [ref=e2321] [cursor=pointer]
+            - generic [ref=e2322]:
+              - strong [ref=e2323]: ข้อ 2. ทัศนคติที่ถูกต้องหลังจบคอร์ส 7 วันคือข้อใด?
+              - generic [ref=e2324]: ตัวเลือก
+              - generic [ref=e2325]:
+                - button "รู้ครบแล้ว ไม่ต้องฝึกอีก" [ref=e2326] [cursor=pointer]
+                - button "มีแผนที่และจุดเริ่มต้นที่ถูกต้อง (ตัวเลขเป็นแค่จุดเริ่ม) ที่เหลือคือฝึกหู+ทำเพลงเยอะๆ" [ref=e2327] [cursor=pointer]
+                - button "ต้องซื้อปลั๊กอินแพงก่อนถึงเก่งได้" [ref=e2328] [cursor=pointer]
+                - button "มิกซ์ด้วยพรีเซ็ตอย่างเดียวพอ" [ref=e2329] [cursor=pointer]
+            - button "ส่งคำตอบ (0/2)" [ref=e2330] [cursor=pointer]
+          - heading "📚 อ่านต่อ & อ้างอิง" [level=2] [ref=e2331]
+          - list [ref=e2332]:
+            - listitem [ref=e2333]: "FL Studio Manual: Export audio (dither/normalize)"
+            - listitem [ref=e2334]: Distributor guides (TuneCore/DistroKid upload specs)
+            - listitem [ref=e2335]: EBU R128 / streaming loudness guides
+          - link "◀ Limiting, LUFS, True Peak และ Crest" [ref=e2337] [cursor=pointer]:
+            - /url: "#/lesson/d7l3"
+          - paragraph [ref=e2338]:
+            - text: "สไลด์ Day 7:"
+            - link "เปิดห้องสไลด์ (14 หน้า)" [ref=e2339] [cursor=pointer]:
+              - /url: "#/slides/7"
+            - text: "• เกร็ดทั้งหมดของวัน: 6 รายการ"
+  - contentinfo [ref=e134]:
+    - generic [ref=e135]:
+      - strong [ref=e136]: MIXLAB
+      - generic [ref=e137]: ห้องเรียน Mix & Mastering ภาษาไทย • FL Studio 25 • ภาพ UI ที่วาดใหม่เป็น “ภาพจำลองเพื่อการเรียนรู้” ไม่ใช่ภาพหน้าจอจริงของ Image-Line
+      - generic [ref=e138]: ความถูกต้องของความรู้ > คุณภาพการสอน > ใช้งานได้ > สวยงาม

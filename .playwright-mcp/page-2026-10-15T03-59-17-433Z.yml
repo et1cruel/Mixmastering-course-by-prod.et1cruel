@@ -1,0 +1,213 @@
+- generic [ref=f1e2]:
+  - navigation "เมนูหลัก" [ref=f1e3]:
+    - generic [ref=f1e4]:
+      - link "MIXLAB MIX & MASTERING ACADEMY" [ref=f1e5] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f1e6]: MIXLAB
+        - generic [ref=f1e7]: MIX & MASTERING ACADEMY
+      - generic [ref=f1e8]:
+        - link "หน้าแรก" [ref=f1e9] [cursor=pointer]:
+          - /url: "#/"
+        - link "แดชบอร์ด" [ref=f1e10] [cursor=pointer]:
+          - /url: "#/dashboard"
+        - link "หลักสูตร 7 วัน" [ref=f1e11] [cursor=pointer]:
+          - /url: "#/curriculum"
+        - link "Sound Lab" [ref=f1e12] [cursor=pointer]:
+          - /url: "#/lab"
+        - link "พจนานุกรม" [ref=f1e13] [cursor=pointer]:
+          - /url: "#/glossary"
+        - link "อ้างอิง" [ref=f1e14] [cursor=pointer]:
+          - /url: "#/references"
+      - generic [ref=f1e15]:
+        - button "🎓 Teacher" [ref=f1e16] [cursor=pointer]
+        - button "▶ เคลื่อนไหว" [ref=f1e17] [cursor=pointer]
+  - generic [ref=f1e19]: MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK • MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK •
+  - main [ref=f1e3891]:
+    - generic [ref=f1e3892]:
+      - link "◀ หลักสูตร" [ref=f1e3893] [cursor=pointer]:
+        - /url: "#/curriculum"
+      - generic [ref=f1e3894]: DAY 5
+      - generic [ref=f1e3895]: Advanced
+      - generic [ref=f1e3896]: 30 นาที
+      - heading "ความกว้าง ความเข้ากันโมโน และ Haas" [level=1] [ref=f1e3897]
+      - paragraph [ref=f1e3898]: Stereo Width, Mono Compatibility and Haas
+      - generic [ref=f1e3899]:
+        - button "☐ ทำเครื่องหมายว่าเรียนจบแล้ว" [ref=f1e3900] [cursor=pointer]
+        - button "☆ บันทึกบทเรียน" [ref=f1e3901] [cursor=pointer]
+        - link "⛶ สไลด์ Day 5" [ref=f1e3902] [cursor=pointer]:
+          - /url: "#/slides/5"
+        - button "🖨 Print / PDF" [ref=f1e3903] [cursor=pointer]
+      - generic [ref=f1e3904]:
+        - complementary "สารบัญ" [ref=f1e3905]:
+          - strong [ref=f1e3906]: สารบัญ
+          - link "กว้างแต่ต้องไม่พังในลำโพงมือถือ" [ref=f1e3907] [cursor=pointer]:
+            - /url: "#b-0"
+          - link "Pan คือเครื่องมือกว้างอันดับหนึ่ง" [ref=f1e3908] [cursor=pointer]:
+            - /url: "#b-1"
+          - link "p" [ref=f1e3909] [cursor=pointer]:
+            - /url: "#b-2"
+          - 'link "Haas Effect: กว้างจากดีเลย์สั้นข้างเดียว" [ref=f1e3910] [cursor=pointer]':
+            - /url: "#b-3"
+          - link "p" [ref=f1e3911] [cursor=pointer]:
+            - /url: "#b-4"
+          - 'link "ภาพจำลอง: Haas แบบปลอดภัยใน FL Studio" [ref=f1e3912] [cursor=pointer]':
+            - /url: "#b-5"
+          - link "Widening แบบปลอดภัย vs เสี่ยง" [ref=f1e3913] [cursor=pointer]:
+            - /url: "#b-6"
+          - link "เครื่องมือกว้างเรียงตามความเสี่ยง" [ref=f1e3914] [cursor=pointer]:
+            - /url: "#b-7"
+          - link "p" [ref=f1e3915] [cursor=pointer]:
+            - /url: "#b-8"
+          - 'link "เช็กโมโน: 30 วินาทีที่ช่วยชีวิตมิกซ์" [ref=f1e3916] [cursor=pointer]':
+            - /url: "#b-9"
+          - link "วิธีเช็กโมโนใน FL Studio" [ref=f1e3917] [cursor=pointer]:
+            - /url: "#b-10"
+          - 'link "Automation: มิติที่ขยับได้" [ref=f1e3918] [cursor=pointer]':
+            - /url: "#b-11"
+          - link "p" [ref=f1e3919] [cursor=pointer]:
+            - /url: "#b-12"
+          - 'link "ภาพจำลอง: Automation มิติตามท่อน" [ref=f1e3920] [cursor=pointer]':
+            - /url: "#b-13"
+          - 'link "กันเละ: กฎ Muddy Avoidance" [ref=f1e3921] [cursor=pointer]':
+            - /url: "#b-14"
+          - link "list" [ref=f1e3922] [cursor=pointer]:
+            - /url: "#b-15"
+          - link "ห้าม Haas / Widener กับเบสและคิก" [ref=f1e3923] [cursor=pointer]:
+            - /url: "#b-16"
+          - link "ข้อผิดพลาดที่พบบ่อย" [ref=f1e3924] [cursor=pointer]:
+            - /url: "#b-17"
+          - link "ลองด้วยตัวเอง" [ref=f1e3925] [cursor=pointer]:
+            - /url: "#b-18"
+          - link "สรุปบทนี้" [ref=f1e3926] [cursor=pointer]:
+            - /url: "#b-19"
+        - article [ref=f1e3927]:
+          - heading "🎯 สิ่งที่จะได้รับ" [level=2] [ref=f1e3928]
+          - list [ref=f1e3929]:
+            - listitem [ref=f1e3930]: จัดวางซ้าย-ขวาด้วย Pan และ stereo widening ได้อย่างมีแผน
+            - listitem [ref=f1e3931]: อธิบายและใช้ Haas effect ได้โดยรู้ความเสี่ยงเฟส
+            - listitem [ref=f1e3932]: เช็ก Mono compatibility ได้และแก้เมื่อเสียงหาย
+            - listitem [ref=f1e3933]: ใช้ Automation กับเอฟเฟกต์มิติไม่ให้เพลงเละได้
+          - generic [ref=f1e3934]:
+            - heading "กว้างแต่ต้องไม่พังในลำโพงมือถือ" [level=3] [ref=f1e3935]
+            - paragraph [ref=f1e3936]: "เพลงที่ฟังในหูฟังกว้างสะใจ แต่เปิดลำโพงบลูทูธตัวเดียวแล้วกีตาร์หาย เบสหาย นั่นคือปัญหาเฟส/โมโน บทนี้สอนให้กว้างอย่างปลอดภัย: pan, Haas, widening และวิธีเช็กโมโนที่โปรทุกคนต้องทำ"
+          - generic [ref=f1e3937]:
+            - figure "ภาพจำลองเพื่อการเรียนรู้ แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e3938]:
+              - img "แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e3939]:
+                - generic [ref=f1e3940]: WAVEFORM ก่อน ➜ หลัง (จำลอง)
+              - generic [ref=f1e3991]:
+                - generic [ref=f1e3992]: ภาพจำลองเพื่อการเรียนรู้
+                - text: แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้
+            - heading "Pan คือเครื่องมือกว้างอันดับหนึ่ง" [level=2] [ref=f1e3993]
+          - paragraph [ref=f1e3995]: "ก่อนแตะปลั๊กอิน widening ใดๆ ให้ pan ก่อน กฎ LCR ง่ายๆ: พระเอก (ร้อง คิก สแนร์ เบส) ไว้กลาง เครื่องประกอบ pan ซ้าย-ขวาสมมาตร (กีตาร์ L35/R35, คอรัส L50/R50) เอฟเฟกต์กว้างสุด แค่ pan ดีๆ เพลงก็กว้างแล้วโดยไม่มีปัญหาเฟสเลย"
+          - 'heading "Haas Effect: กว้างจากดีเลย์สั้นข้างเดียว" [level=2] [ref=f1e3997]'
+          - paragraph [ref=f1e3999]: "Haas คือการดีเลย์ข้างหนึ่ง 10-35ms สมองจะรู้สึกว่าเสียงกว้างขึ้นโดยยัง定位อยู่ข้างที่ไม่ดีเลย์ วิธีทำ: ก๊อปแทร็กโมโน pan ซ้าย-ขวาสุด ดีเลย์ข้างหนึ่ง 15-25ms ฟังดูกว้างขึ้นทันที แต่ความเสี่ยงคือเมื่อรวมเป็นโมโนอาจเกิด comb filtering (เสียงกลวง/บางส่วนหาย) จึงต้องเช็กโมโนทุกครั้ง"
+          - generic [ref=f1e4001]:
+            - generic [ref=f1e4002]: ภาพจำลองเพื่อการเรียนรู้ ไม่ใช่ภาพหน้าจอจริงของ FL Studio
+            - strong [ref=f1e4003]: "🖥️ ภาพจำลอง: Haas แบบปลอดภัยใน FL Studio"
+            - paragraph [ref=f1e4004]: "[Guitar Mono] ─> [Fruity Stereo Enhancer หรือ Patcher: L ตรง / R delay 18ms] ─> Master | มิเตอร์เฟส: กึ่งบวก (correl 0.3-0.8 = ปลอดภัย) | ปุ่ม Mono บน Master: กดเช็กแล้วกีตาร์ต้องยังดังใกล้เดิม ไม่หายวูบ"
+          - heading "Widening แบบปลอดภัย vs เสี่ยง" [level=2] [ref=f1e4006]
+          - generic [ref=f1e4007]:
+            - heading "เครื่องมือกว้างเรียงตามความเสี่ยง" [level=4] [ref=f1e4008]
+            - table [ref=f1e4009]:
+              - rowgroup [ref=f1e4010]:
+                - row [ref=f1e4011]:
+                  - columnheader "วิธี" [ref=f1e4012]
+                  - columnheader "ความเสี่ยงโมโน" [ref=f1e4013]
+                  - columnheader "คำแนะนำ" [ref=f1e4014]
+              - rowgroup [ref=f1e4015]:
+                - row [ref=f1e4016]:
+                  - cell "Pan / Double-tracking อัดสองรอบ" [ref=f1e4017]
+                  - cell "ต่ำมาก" [ref=f1e4018]
+                  - cell "ใช้ก่อนเสมอ ดีที่สุดและธรรมชาติที่สุด" [ref=f1e4019]
+                - row [ref=f1e4020]:
+                  - cell "Chorus / detune เล็กน้อย" [ref=f1e4021]
+                  - cell "ต่ำ-ปานกลาง" [ref=f1e4022]
+                  - cell "กว้างนุ่ม ปลอดภัยกว่า Haas" [ref=f1e4023]
+                - row [ref=f1e4024]:
+                  - cell "Haas delay 10-35ms" [ref=f1e4025]
+                  - cell "ปานกลาง-สูง" [ref=f1e4026]
+                  - cell "ใช้ได้แต่ต้องเช็กโมโน ห้ามใช้กับเบส/คิก" [ref=f1e4027]
+                - row [ref=f1e4028]:
+                  - cell "Stereo widener / M-S กว้างสุด" [ref=f1e4029]
+                  - cell "สูง" [ref=f1e4030]
+                  - cell "ใช้กับแพด/เอฟเฟกต์เท่านั้น อย่าใช้กับทั้งมิกซ์" [ref=f1e4031]
+          - paragraph [ref=f1e4033]: "กฎเหล็ก: ความถี่ต่ำกว่า ~150-200Hz ควรเป็นโมโนเสมอ เบส คิกกว้างทำให้แผ่นเสียง/ลำโพงเล็กมีปัญหาและมาสเตอริงยาก ใน FL Studio ใช้ Fruity Stereo Shaper หรือ EQ แยก M/S ตัด side ช่วงโลว์ออก"
+          - 'heading "เช็กโมโน: 30 วินาทีที่ช่วยชีวิตมิกซ์" [level=2] [ref=f1e4035]'
+          - generic [ref=f1e4036]:
+            - heading "วิธีเช็กโมโนใน FL Studio" [level=4] [ref=f1e4037]
+            - list [ref=f1e4038]:
+              - listitem [ref=f1e4039]: ใส่ Fruity Stereo Enhancer หรือปลั๊กอิน mono ที่ Master (หรือใช้ปุ่ม mono ของ audio interface)
+              - listitem [ref=f1e4040]: "กด mono แล้วฟัง: ร้อง คิก สแนร์ เบส ต้องยังชัดอยู่ระดับใกล้เดิม"
+              - listitem [ref=f1e4041]: ถ้ากีตาร์/ซินธ์หายหรือกลวง = เฟสมีปัญหา ให้ลด widening, ลด Haas time, หรือลด side level
+              - listitem [ref=f1e4042]: "เช็ก 3 จุด: ท่อนเวิร์ส ฮุก และท่อนที่ใช้เอฟเฟกต์หนักสุด"
+              - listitem [ref=f1e4043]: ปลด mono กลับเป็นสเตอริโอทุกครั้งก่อน export (อย่า export ตอนลืมเปิด mono ค้าง!)
+          - 'heading "Automation: มิติที่ขยับได้" [level=2] [ref=f1e4045]'
+          - paragraph [ref=f1e4047]: "เพลงดีๆ มิติไม่คงที่ทั้งเพลง เวิร์สร้องแห้งใกล้ ฮุกเปิดกว้าง ท้ายท่อนหางยาวโผล่ วิธีทำคือ automation: วาดเส้น Send level, Reverb mix, Delay feedback, Stereo separation ให้ขยับตามท่อน เริ่มง่ายๆ แค่ automate send ร้อง (เวิร์สน้อย ฮุกมาก) เพลงก็มีชีวิตขึ้นเยอะ"
+          - generic [ref=f1e4049]:
+            - generic [ref=f1e4050]: ภาพจำลองเพื่อการเรียนรู้ ไม่ใช่ภาพหน้าจอจริงของ FL Studio
+            - strong [ref=f1e4051]: "🖥️ ภาพจำลอง: Automation มิติตามท่อน"
+            - paragraph [ref=f1e4052]: "[Playlist เส้น Automation: Verse Send -18dB ─> Pre-chorus ค่อยๆ ขึ้น ─> Hook -10dB + widener กว้างขึ้น] [Outro: Delay feedback พุ่งเป็นเอฟเฟกต์จบ] เส้นโค้งเรียบ ไม่กระชาก"
+          - 'heading "กันเละ: กฎ Muddy Avoidance" [level=2] [ref=f1e4054]'
+          - generic [ref=f1e4055]:
+            - heading [level=4]
+            - list [ref=f1e4056]:
+              - listitem [ref=f1e4057]: "Low-cut side ต่ำกว่า 200Hz: กว้างแต่เบสยังแน่นกลาง"
+              - listitem [ref=f1e4058]: "อย่า widening ทุกแทร็ก: เลือก 2-3 ชิ้นให้กว้าง ที่เหลืออยู่กลาง/แคบ เพลงจะกว้างกว่า widen ทุกชิ้น"
+              - listitem [ref=f1e4059]: "Reverb/Delay return เป็นโมโนแคบได้: ไม่จำเป็นต้องสเตอริโอกว้างทุก bus หางแคบๆ กลางๆ ก็ลึกได้โดยไม่รกข้าง"
+              - listitem [ref=f1e4060]: "พักหู: ความกว้างหลอกหูง่าย ฟังเบาๆ และเช็กโมโนบ่อยๆ"
+          - generic [ref=f1e4062]:
+            - strong [ref=f1e4063]: ⚠️ ห้าม Haas / Widener กับเบสและคิก
+            - paragraph [ref=f1e4064]: โลว์เอนด์กว้างทำให้เฟสช่วงต่ำหักล้างกัน เบสหายในลำโพงมือถือและทำให้ limiter ในมาสเตอริงทำงานหนักโดยใช่เหตุ เก็บ kick/bass/sub ไว้กลางโมโนเสมอ ความกว้างเอาไปใช้กับกลาง-แหลมเท่านั้น
+          - generic [ref=f1e4066]:
+            - strong [ref=f1e4067]: 💥 ข้อผิดพลาดที่พบบ่อย
+            - list [ref=f1e4068]:
+              - listitem [ref=f1e4069]: ใส่ widener ที่ master ทั้งเพลง ทำให้ทั้งมิกซ์เสี่ยงเฟส
+              - listitem [ref=f1e4070]: Haas กีตาร์สองข้างแล้วไม่เช็กโมโน เปิดลำโพงตัวเดียวกีตาร์หาย
+              - listitem [ref=f1e4071]: Automate หลายพารามิเตอร์พร้อมกันจนมิติกระชาก ฟังเวียนหัว
+          - generic [ref=f1e4073]:
+            - strong [ref=f1e4074]: ✏️ ลองด้วยตัวเอง
+            - paragraph [ref=f1e4075]: เลือกเพลงหนึ่ง ทำ Haas กับกีตาร์หรือซินธ์ตัวเดียว (delay 18ms ข้างขวา) แล้วกด mono เทียบก่อน-หลัง ถ้าเสียงกลวงให้ลดเหลือ 12ms หรือเปลี่ยนเป็น chorus แทน จดค่าที่ผ่านด่านโมโนไว้เป็นสูตรของตัวเอง
+          - generic [ref=f1e4076]:
+            - generic [ref=f1e4077]:
+              - strong [ref=f1e4078]: 📌 สรุปบทนี้
+              - paragraph [ref=f1e4079]: กว้างอย่างปลอดภัย = Pan ก่อน Widener ทีหลัง Haas 10-35ms ต้องเช็กโมโน โลว์ต่ำกว่า 200Hz เก็บกลาง ใช้ automation ขยับมิติตามท่อน และเช็กโมโน 3 ท่อนก่อนจบงาน
+            - 'button "💡 Try It Yourself: Automation 3 จุดที่เปลี่ยนเพลงทั้งเพลง" [ref=f1e4081] [cursor=pointer]'
+          - heading "💡 เกร็ดความรู้ประจำบท (1)" [level=2] [ref=f1e4082]
+          - button "รู้ไหม? Automation 3 จุดที่เปลี่ยนเพลงทั้งเพลง" [ref=f1e4084] [cursor=pointer]
+          - heading "📝 แบบทดสอบท้ายบท (2 ข้อ)" [level=2] [ref=f1e4085]
+          - generic [ref=f1e4086]:
+            - generic [ref=f1e4087]:
+              - strong [ref=f1e4088]: ข้อ 1. Automation มีไว้ทำอะไร?
+              - generic [ref=f1e4089]: ตัวเลือก
+              - generic [ref=f1e4090]:
+                - 'button "ทำให้ท่อนต่างๆ มีชีวิต: วอลลุ่ม แพน เอฟเฟกต์เปลี่ยนตามอารมณ์เพลง" [ref=f1e4091] [cursor=pointer]'
+                - button "เพิ่ม bit depth อัตโนมัติ" [ref=f1e4092] [cursor=pointer]
+                - button "แก้เพี้ยนอัตโนมัติ" [ref=f1e4093] [cursor=pointer]
+                - button "ตั้ง tempo อัตโนมัติ" [ref=f1e4094] [cursor=pointer]
+            - generic [ref=f1e4095]:
+              - strong [ref=f1e4096]: ข้อ 2. ใส่ saturation/parallel หลายชั้นจะยิ่งดี เพราะยิ่งอิ่มยิ่งโปร
+              - generic [ref=f1e4097]: ถูก/ผิด
+              - generic [ref=f1e4098]:
+                - button "ถูก" [ref=f1e4099] [cursor=pointer]
+                - button "ผิด" [ref=f1e4100] [cursor=pointer]
+            - button "ส่งคำตอบ (0/2)" [ref=f1e4101] [cursor=pointer]
+          - heading "📚 อ่านต่อ & อ้างอิง" [level=2] [ref=f1e4102]
+          - list [ref=f1e4103]:
+            - listitem [ref=f1e4104]: "FL Studio Manual: Fruity Stereo Enhancer"
+            - listitem [ref=f1e4105]: "Sound On Sound: Mono compatibility"
+            - listitem [ref=f1e4106]: "iZotope: Understanding stereo width and phase"
+          - generic [ref=f1e4107]:
+            - 'link "◀ Delay และ Modulation: มิติแบบชัดแต่ไม่เละ" [ref=f1e4108] [cursor=pointer]':
+              - /url: "#/lesson/d5l3"
+            - link "แผนมิกซ์และลำดับชั้นความสำคัญ ▶" [ref=f1e4109] [cursor=pointer]:
+              - /url: "#/lesson/d6l1"
+          - paragraph [ref=f1e4110]:
+            - text: "สไลด์ Day 5:"
+            - link "เปิดห้องสไลด์ (14 หน้า)" [ref=f1e4111] [cursor=pointer]:
+              - /url: "#/slides/5"
+            - text: "• เกร็ดทั้งหมดของวัน: 6 รายการ"
+  - contentinfo [ref=f1e445]:
+    - generic [ref=f1e446]:
+      - strong [ref=f1e447]: MIXLAB
+      - generic [ref=f1e448]: ห้องเรียน Mix & Mastering ภาษาไทย • FL Studio 25 • ภาพ UI ที่วาดใหม่เป็น “ภาพจำลองเพื่อการเรียนรู้” ไม่ใช่ภาพหน้าจอจริงของ Image-Line
+      - generic [ref=f1e449]: ความถูกต้องของความรู้ > คุณภาพการสอน > ใช้งานได้ > สวยงาม

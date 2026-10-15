@@ -1,0 +1,589 @@
+- generic [ref=e2]:
+  - navigation "เมนูหลัก" [ref=e3]:
+    - generic [ref=e4]:
+      - link "MIXLAB MIX & MASTERING ACADEMY" [ref=e5] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=e6]: MIXLAB
+        - generic [ref=e7]: MIX & MASTERING ACADEMY
+      - generic [ref=e8]:
+        - link "หน้าแรก" [ref=e9] [cursor=pointer]:
+          - /url: "#/"
+        - link "แดชบอร์ด" [ref=e10] [cursor=pointer]:
+          - /url: "#/dashboard"
+        - link "หลักสูตร 7 วัน" [ref=e11] [cursor=pointer]:
+          - /url: "#/curriculum"
+        - link "Sound Lab" [ref=e12] [cursor=pointer]:
+          - /url: "#/lab"
+        - link "พจนานุกรม" [ref=e13] [cursor=pointer]:
+          - /url: "#/glossary"
+        - link "แบบทดสอบ" [ref=e14] [cursor=pointer]:
+          - /url: "#/quiz"
+        - link "อ้างอิง" [ref=e15] [cursor=pointer]:
+          - /url: "#/references"
+      - generic [ref=e16]:
+        - button "● สอนอยู่ 24:49" [pressed] [ref=e229] [cursor=pointer]
+        - button "▶ เคลื่อนไหว" [ref=e18] [cursor=pointer]
+  - generic [ref=e20]: MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK • MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK •
+  - main [ref=e230]:
+    - generic [ref=e231]:
+      - generic [ref=e232]: 7 วัน / 14 ชม.
+      - heading "หลักสูตรเข้มข้น" [level=2] [ref=e233]
+    - paragraph [ref=e234]: วันละ 120 นาที • เน้นเข้าใจ + ลงมือใน FL Studio 25 • ส่วน Advanced เป็นเนื้อหาอ่านต่อหลังคลาส ทุกตัวเลขเป็นจุดเริ่มต้นให้ทดลอง ไม่ใช่สูตรตายตัว
+    - generic [ref=e235]:
+      - generic [ref=e236]: DAY 1
+      - generic [ref=e237]: 120 นาที
+      - heading "วันที่ 1 — ฟังเป็น จัดระเบียบเป็น (Day 1 — Listening & Session Setup)" [level=2] [ref=e238]:
+        - text: วันที่ 1 — ฟังเป็น จัดระเบียบเป็น
+        - generic [ref=e239]: (Day 1 — Listening & Session Setup)
+      - paragraph [ref=e240]:
+        - strong [ref=e241]: "เป้าหมาย:"
+        - text: ฝึกฟังแยกย่านความถี่ ไดนามิก และสเตอริโอ พร้อมจัดโปรเจกต์ FL Studio ให้พร้อมมิกซ์ด้วย Gain Staging และ Headroom ที่ถูกต้อง
+      - heading "⏱ แผนแบ่งเวลา" [level=3] [ref=e242]
+      - table [ref=e243]:
+        - rowgroup [ref=e244]:
+          - row [ref=e245]:
+            - cell "0:00–0:10" [ref=e246]
+            - cell [ref=e247]:
+              - strong [ref=e248]: เปิดคลาส + เป้าหมาย 7 วัน
+              - text: — แนะนำเส้นทางการเรียน วิธีใช้บทเรียน ควิซ และ bite ประจำวัน
+          - row [ref=e249]:
+            - cell "0:10–0:25" [ref=e250]
+            - cell [ref=e251]:
+              - strong [ref=e252]: ฟังอย่างไรให้เป็นช่างมิกซ์
+              - text: — ฝึกฟัง Frequency / Amplitude / Pan / Depth จากเพลงอ้างอิง
+          - row [ref=e253]:
+            - cell "0:25–0:45" [ref=e254]
+            - cell [ref=e255]:
+              - strong [ref=e256]: กายภาพเสียงที่ต้องรู้
+              - text: — Frequency, Amplitude, Phase, Harmonics และ Fundamental แบบเข้าใจง่าย
+          - row [ref=e257]:
+            - cell "0:45–1:00" [ref=e258]
+            - cell [ref=e259]:
+              - strong [ref=e260]: จัดโปรเจกต์ FL Studio
+              - text: — ตั้ง Sample Rate / Bit Depth, ตั้งชื่อแทร็ก สี และ Playlist ให้ทำงานเร็ว
+          - row [ref=e261]:
+            - cell "1:00–1:20" [ref=e262]
+            - cell [ref=e263]:
+              - strong [ref=e264]: Gain Staging + Headroom
+              - text: — ตั้ง Fader / Peak / RMS ให้แต่ละแทร็กมีที่หายใจก่อนใสเอฟเฟกต์
+          - row [ref=e265]:
+            - cell "1:20–1:45" [ref=e266]
+            - cell [ref=e267]:
+              - strong [ref=e268]: "Lab: เซ็ตเซสชันมิกซ์แรก"
+              - text: — นักเรียนจัด Template + วัดระดับด้วย Wave Candy / Meter
+          - row [ref=e269]:
+            - cell "1:45–2:00" [ref=e270]
+            - cell [ref=e271]:
+              - strong [ref=e272]: สรุป + ควิซวันที่ 1
+              - text: — ทบทวนคำศัพท์หลักและทำควิซ 8 ข้อ
+      - heading "📖 บทเรียน (4 บท)" [level=3] [ref=e273]
+      - generic [ref=e274]:
+        - link "Beginner 45 นาที Production vs Mixing vs Mastering และ Signal Flow แยกความต่างของ Production, Mixing, Mastering ได้ถูกต้อง" [ref=e275] [cursor=pointer]:
+          - /url: "#/lesson/d1l1"
+          - generic [ref=e276]: Beginner
+          - generic [ref=e277]: 45 นาที
+          - heading "Production vs Mixing vs Mastering และ Signal Flow" [level=4] [ref=e278]
+          - text: แยกความต่างของ Production, Mixing, Mastering ได้ถูกต้อง
+        - link "Beginner 45 นาที ความถี่ แอมพลิจูด รูปคลื่น และฮาร์มอนิก อธิบายความสัมพันธ์ของ frequency, pitch และ amplitude, loudness ได้" [ref=e279] [cursor=pointer]:
+          - /url: "#/lesson/d1l2"
+          - generic [ref=e280]: Beginner
+          - generic [ref=e281]: 45 นาที
+          - heading "ความถี่ แอมพลิจูด รูปคลื่น และฮาร์มอนิก" [level=4] [ref=e282]
+          - text: อธิบายความสัมพันธ์ของ frequency, pitch และ amplitude, loudness ได้
+        - link "Beginner 50 นาที เดซิเบล Peak RMS LUFS เฮดรูม และคลิปปิง แยก dBFS, dB SPL, dBu และ LUFS ได้ถูกต้อง" [ref=e283] [cursor=pointer]:
+          - /url: "#/lesson/d1l3"
+          - generic [ref=e284]: Beginner
+          - generic [ref=e285]: 50 นาที
+          - heading "เดซิเบล Peak RMS LUFS เฮดรูม และคลิปปิง" [level=4] [ref=e286]
+          - text: แยก dBFS, dB SPL, dBu และ LUFS ได้ถูกต้อง
+        - link "Beginner 40 นาที ดิจิทัลออดิโอ การฟังอ้างอิง และตั้งค่า FL Studio อธิบาย sample rate และ bit depth ได้ถูกต้อง" [ref=e287] [cursor=pointer]:
+          - /url: "#/lesson/d1l4"
+          - generic [ref=e288]: Beginner
+          - generic [ref=e289]: 40 นาที
+          - heading "ดิจิทัลออดิโอ การฟังอ้างอิง และตั้งค่า FL Studio" [level=4] [ref=e290]
+          - text: อธิบาย sample rate และ bit depth ได้ถูกต้อง
+      - generic [ref=e291]:
+        - link "เริ่ม Day 1 ➜" [ref=e292] [cursor=pointer]:
+          - /url: "#/lesson/d1l1"
+        - link "เปิดสไลด์สอน (14 หน้า) ⛶" [ref=e293] [cursor=pointer]:
+          - /url: "#/slides/1"
+        - generic [ref=e294]: ควิซ 8 ข้อ
+    - generic [ref=e295]:
+      - generic [ref=e296]: DAY 2
+      - generic [ref=e297]: 120 นาที
+      - 'heading "วันที่ 2 — EQ: เคลียร์ความถี่ให้เครื่องดนตรีอยู่ร่วมกัน (Day 2 — EQ & Frequency Management)" [level=2] [ref=e298]':
+        - text: "วันที่ 2 — EQ: เคลียร์ความถี่ให้เครื่องดนตรีอยู่ร่วมกัน"
+        - generic [ref=e299]: (Day 2 — EQ & Frequency Management)
+      - paragraph [ref=e300]:
+        - strong [ref=e301]: "เป้าหมาย:"
+        - text: ใช้ EQ แบบ Subtractive แก้ Masking ด้วย Q, Slope และ High-pass ที่เหมาะสม ฟังออกว่าเสียงขุ่นหรือบางเพราะอะไร
+      - heading "⏱ แผนแบ่งเวลา" [level=3] [ref=e302]
+      - table [ref=e303]:
+        - rowgroup [ref=e304]:
+          - row [ref=e305]:
+            - cell "0:00–0:10" [ref=e306]
+            - cell [ref=e307]:
+              - strong [ref=e308]: ทบทวนวันที่ 1 + ฟังเพลงอ้างอิง
+              - text: — เช็กหูด้วยเพลงก่อนเรียน เปรียบเทียบก่อน/หลังจัด Gain
+          - row [ref=e309]:
+            - cell "0:10–0:25" [ref=e310]
+            - cell [ref=e311]:
+              - strong [ref=e312]: EQ คืออะไร
+              - text: — พารามิเตอร์ Q, Slope, Gain และการอ่านกราฟ Fruity Parametric EQ 2
+          - row [ref=e313]:
+            - cell "0:25–0:45" [ref=e314]
+            - cell [ref=e315]:
+              - strong [ref=e316]: Subtractive EQ + Masking
+              - text: — เดโมตัดความถี่ชนกันระหว่าง Kick / Bass / Vocal ด้วย Sweep หา
+          - row [ref=e317]:
+            - cell "0:45–1:00" [ref=e318]
+            - cell [ref=e319]:
+              - strong [ref=e320]: High-pass / Low-pass ที่ถูกวิธี
+              - text: — เลือกจุดตัดไม่ให้เสียงบาง พร้อม A/B เทียบแบบ Level-matched
+          - row [ref=e321]:
+            - cell "1:00–1:20" [ref=e322]
+            - cell [ref=e323]:
+              - strong [ref=e324]: Dynamic EQ vs Static EQ
+              - text: — เมื่อใดควรใช้ Maximus / Dynamic band แทน EQ ตายตัว
+          - row [ref=e325]:
+            - cell "1:20–1:45" [ref=e326]
+            - cell [ref=e327]:
+              - strong [ref=e328]: "Lab: เคลียร์มิกซ์ 8 แทร็ก"
+              - text: — นักเรียนแก้ Masking ด้วย EQ เพียงอย่างเดียว ห้ามแตะ Fader
+          - row [ref=e329]:
+            - cell "1:45–2:00" [ref=e330]
+            - cell [ref=e331]:
+              - strong [ref=e332]: สรุป + ควิซวันที่ 2
+              - text: — ทบทวนความเชื่อผิดๆ เรื่องตัวเลข EQ สำเร็จรูป
+      - heading "📖 บทเรียน (4 บท)" [level=3] [ref=e333]
+      - generic [ref=e334]:
+        - link "Beginner 40 นาที จัด Session ตั้งชื่อ และใช้สีอย่างเป็นระบบ ตั้งชื่อแทร็กและไฟล์ให้ค้นหาได้ใน 3 วินาที" [ref=e335] [cursor=pointer]:
+          - /url: "#/lesson/d2l1"
+          - generic [ref=e336]: Beginner
+          - generic [ref=e337]: 40 นาที
+          - heading "จัด Session ตั้งชื่อ และใช้สีอย่างเป็นระบบ" [level=4] [ref=e338]
+          - text: ตั้งชื่อแทร็กและไฟล์ให้ค้นหาได้ใน 3 วินาที
+        - link "Beginner 50 นาที Routing Bus Send และ Insert อธิบายความต่างของ insert, send และ bus ได้" [ref=e339] [cursor=pointer]:
+          - /url: "#/lesson/d2l2"
+          - generic [ref=e340]: Beginner
+          - generic [ref=e341]: 50 นาที
+          - heading "Routing Bus Send และ Insert" [level=4] [ref=e342]
+          - text: อธิบายความต่างของ insert, send และ bus ได้
+        - 'link "Beginner 50 นาที Gain Staging และ Static Mix: Balance กับ Pan ตั้ง gain staging ให้ไม่มีจุด clip ตลอดเส้นทาง" [ref=e343] [cursor=pointer]':
+          - /url: "#/lesson/d2l3"
+          - generic [ref=e344]: Beginner
+          - generic [ref=e345]: 50 นาที
+          - 'heading "Gain Staging และ Static Mix: Balance กับ Pan" [level=4] [ref=e346]'
+          - text: ตั้ง gain staging ให้ไม่มีจุด clip ตลอดเส้นทาง
+        - link "Beginner 45 นาที เช็ก Mono Phase Polarity และการอ่านมิเตอร์ อธิบายความต่างของ polarity กับ phase ได้" [ref=e347] [cursor=pointer]:
+          - /url: "#/lesson/d2l4"
+          - generic [ref=e348]: Beginner
+          - generic [ref=e349]: 45 นาที
+          - heading "เช็ก Mono Phase Polarity และการอ่านมิเตอร์" [level=4] [ref=e350]
+          - text: อธิบายความต่างของ polarity กับ phase ได้
+      - generic [ref=e351]:
+        - link "เริ่ม Day 2 ➜" [ref=e352] [cursor=pointer]:
+          - /url: "#/lesson/d2l1"
+        - link "เปิดสไลด์สอน (14 หน้า) ⛶" [ref=e353] [cursor=pointer]:
+          - /url: "#/slides/2"
+        - generic [ref=e354]: ควิซ 8 ข้อ
+    - generic [ref=e355]:
+      - generic [ref=e356]: DAY 3
+      - generic [ref=e357]: 120 นาที
+      - 'heading "วันที่ 3 — Dynamics: คุมความดังให้เพลงหายใจ (Day 3 — Compression & Dynamics)" [level=2] [ref=e358]':
+        - text: "วันที่ 3 — Dynamics: คุมความดังให้เพลงหายใจ"
+        - generic [ref=e359]: (Day 3 — Compression & Dynamics)
+      - paragraph [ref=e360]:
+        - strong [ref=e361]: "เป้าหมาย:"
+        - text: ตั้ง Threshold, Ratio, Attack, Release, Knee ได้ตามวัตถุประสงค์ ใช้ Gate/Expander และ Sidechain อย่างเข้าใจ
+      - heading "⏱ แผนแบ่งเวลา" [level=3] [ref=e362]
+      - table [ref=e363]:
+        - rowgroup [ref=e364]:
+          - row [ref=e365]:
+            - cell "0:00–0:10" [ref=e366]
+            - cell [ref=e367]:
+              - strong [ref=e368]: ทบทวน EQ + เปิดเรื่อง Dynamics
+              - text: — ฟัง Transient / Sustain และ Crest factor จากกลองชุด
+          - row [ref=e369]:
+            - cell "0:10–0:25" [ref=e370]
+            - cell [ref=e371]:
+              - strong [ref=e372]: Compressor พื้นฐาน
+              - text: — Threshold, Ratio, Attack, Release, Knee, Makeup Gain
+          - row [ref=e373]:
+            - cell "0:25–0:45" [ref=e374]
+            - cell [ref=e375]:
+              - strong [ref=e376]: เดโม Fruity Limiter (Comp mode)
+              - text: — กด vocal / snare / bass พร้อมฟัง Pumping เป็นตัวอย่าง
+          - row [ref=e377]:
+            - cell "0:45–1:00" [ref=e378]
+            - cell [ref=e379]:
+              - strong [ref=e380]: Gate / Expander / De-Ess
+              - text: — กำจัดเสียงรบกวนและเสียง ซ ซ โดยไม่ทำลายเนื้อเสียง
+          - row [ref=e381]:
+            - cell "1:00–1:20" [ref=e382]
+            - cell [ref=e383]:
+              - strong [ref=e384]: Sidechain + Parallel
+              - text: — ทำที่ว่างให้ Kick และเพิ่มพลังแบบ Parallel Compression
+          - row [ref=e385]:
+            - cell "1:20–1:45" [ref=e386]
+            - cell [ref=e387]:
+              - strong [ref=e388]: "Lab: ไดนามิก 3 แทร็ก"
+              - text: — คอมเพรส Vocal, Bass, Drum bus แล้วเทียบ Peak/RMS
+          - row [ref=e389]:
+            - cell "1:45–2:00" [ref=e390]
+            - cell [ref=e391]:
+              - strong [ref=e392]: สรุป + ควิซวันที่ 3
+              - text: — ทบทวนความเข้าใจผิดเรื่องยิ่งกดยิ่งดี
+      - heading "📖 บทเรียน (4 บท)" [level=3] [ref=e393]
+      - generic [ref=e394]:
+        - link "Beginner 30 นาที ย่านความถี่ สเปกตรัม และฮาร์มอนิก อธิบายความสัมพันธ์ระหว่าง Hz กับโน้ตดนตรีและย่านเสียง Sub / Low / Mid / High ได้" [ref=e395] [cursor=pointer]:
+          - /url: "#/lesson/d3l1"
+          - generic [ref=e396]: Beginner
+          - generic [ref=e397]: 30 นาที
+          - heading "ย่านความถี่ สเปกตรัม และฮาร์มอนิก" [level=4] [ref=e398]
+          - text: อธิบายความสัมพันธ์ระหว่าง Hz กับโน้ตดนตรีและย่านเสียง Sub / Low / Mid / High ได้
+        - link "Beginner 35 นาที พารามิเตอร์ EQ และฟิลเตอร์ทุกชนิด อธิบายหน้าที่ของ Frequency, Gain, Q/Bandwidth และ Slope ได้" [ref=e399] [cursor=pointer]:
+          - /url: "#/lesson/d3l2"
+          - generic [ref=e400]: Beginner
+          - generic [ref=e401]: 35 นาที
+          - heading "พารามิเตอร์ EQ และฟิลเตอร์ทุกชนิด" [level=4] [ref=e402]
+          - text: อธิบายหน้าที่ของ Frequency, Gain, Q/Bandwidth และ Slope ได้
+        - link "Intermediate 35 นาที Masking, Kick vs Bass และ Subtractive EQ อธิบายปรากฏการณ์ Masking และหาจุดที่เครื่องดนตรีทับกันได้" [ref=e403] [cursor=pointer]:
+          - /url: "#/lesson/d3l3"
+          - generic [ref=e404]: Intermediate
+          - generic [ref=e405]: 35 นาที
+          - heading "Masking, Kick vs Bass และ Subtractive EQ" [level=4] [ref=e406]
+          - text: อธิบายปรากฏการณ์ Masking และหาจุดที่เครื่องดนตรีทับกันได้
+        - link "Intermediate 30 นาที Dynamic EQ, Mid/Side และการเทียบ Before-After อธิบายความต่างของ Static EQ กับ Dynamic EQ และเลือกใช้ถูกงาน" [ref=e407] [cursor=pointer]:
+          - /url: "#/lesson/d3l4"
+          - generic [ref=e408]: Intermediate
+          - generic [ref=e409]: 30 นาที
+          - heading "Dynamic EQ, Mid/Side และการเทียบ Before-After" [level=4] [ref=e410]
+          - text: อธิบายความต่างของ Static EQ กับ Dynamic EQ และเลือกใช้ถูกงาน
+      - generic [ref=e411]:
+        - link "เริ่ม Day 3 ➜" [ref=e412] [cursor=pointer]:
+          - /url: "#/lesson/d3l1"
+        - link "เปิดสไลด์สอน (14 หน้า) ⛶" [ref=e413] [cursor=pointer]:
+          - /url: "#/slides/3"
+        - generic [ref=e414]: ควิซ 8 ข้อ
+    - generic [ref=e415]:
+      - generic [ref=e416]: DAY 4
+      - generic [ref=e417]: 120 นาที
+      - 'heading "วันที่ 4 — มิติและสเตอริโอ: กว้าง ลึก แต่ไม่พัง (Day 4 — Space & Stereo Imaging)" [level=2] [ref=e418]':
+        - text: "วันที่ 4 — มิติและสเตอริโอ: กว้าง ลึก แต่ไม่พัง"
+        - generic [ref=e419]: (Day 4 — Space & Stereo Imaging)
+      - paragraph [ref=e420]:
+        - strong [ref=e421]: "เป้าหมาย:"
+        - text: ใช้ Pan, Reverb, Delay, Pre-delay และ Mid/Side สร้างมิติโดยยัง Mono-compatible และ Correlation ปลอดภัย
+      - heading "⏱ แผนแบ่งเวลา" [level=3] [ref=e422]
+      - table [ref=e423]:
+        - rowgroup [ref=e424]:
+          - row [ref=e425]:
+            - cell "0:00–0:10" [ref=e426]
+            - cell [ref=e427]:
+              - strong [ref=e428]: ทบทวน Dynamics + เปิดเรื่องมิติ
+              - text: — ฟังเพลงกว้างแต่เบสยังแน่น วิเคราะห์ Pan / Width
+          - row [ref=e429]:
+            - cell "0:10–0:25" [ref=e430]
+            - cell [ref=e431]:
+              - strong [ref=e432]: Pan, Width, Mono
+              - text: — กฎการแพน Polarity vs Phase และการเช็ก Mono
+          - row [ref=e433]:
+            - cell "0:25–0:45" [ref=e434]
+            - cell [ref=e435]:
+              - strong [ref=e436]: Reverb + Pre-delay
+              - text: — เลือก Room/Hall/Plate ตั้ง Pre-delay และ Feedback/Decay ให้เข้าจังหวะ
+          - row [ref=e437]:
+            - cell "0:45–1:00" [ref=e438]
+            - cell [ref=e439]:
+              - strong [ref=e440]: Delay สร้างมิติ
+              - text: — Slap, Ping-pong, Tempo-sync และ Send/Insert ที่เหมาะสม
+          - row [ref=e441]:
+            - cell "1:00–1:20" [ref=e442]
+            - cell [ref=e443]:
+              - strong [ref=e444]: Mid/Side + Correlation meter
+              - text: — กว้างเฉพาะย่านที่ปลอดภัย เบสและกระเดื่องอยู่กลาง
+          - row [ref=e445]:
+            - cell "1:20–1:45" [ref=e446]
+            - cell [ref=e447]:
+              - strong [ref=e448]: "Lab: จัดเวทีเสียง"
+              - text: — นักเรียนวางเครื่องดนตรี 8 ชิ้นบนเวทีสเตอริโอพร้อมเช็ก Mono
+          - row [ref=e449]:
+            - cell "1:45–2:00" [ref=e450]
+            - cell [ref=e451]:
+              - strong [ref=e452]: สรุป + ควิซวันที่ 4
+              - text: — ทบทวนกับดักเสียงกว้างแต่กลวง
+      - heading "📖 บทเรียน (4 บท)" [level=3] [ref=e453]
+      - generic [ref=e454]:
+        - link "Beginner 30 นาที ไดนามิก ทรานเซียนต์ และ ADSR อธิบายความหมายของ Dynamics และ Dynamic range ได้" [ref=e455] [cursor=pointer]:
+          - /url: "#/lesson/d4l1"
+          - generic [ref=e456]: Beginner
+          - generic [ref=e457]: 30 นาที
+          - heading "ไดนามิก ทรานเซียนต์ และ ADSR" [level=4] [ref=e458]
+          - text: อธิบายความหมายของ Dynamics และ Dynamic range ได้
+        - link "Intermediate 40 นาที พารามิเตอร์ Compressor และการอ่านมิเตอร์ อธิบายหน้าที่ของ Threshold, Ratio, Attack, Release, Knee, Makeup Gain ได้" [ref=e459] [cursor=pointer]:
+          - /url: "#/lesson/d4l2"
+          - generic [ref=e460]: Intermediate
+          - generic [ref=e461]: 40 นาที
+          - heading "พารามิเตอร์ Compressor และการอ่านมิเตอร์" [level=4] [ref=e462]
+          - text: อธิบายหน้าที่ของ Threshold, Ratio, Attack, Release, Knee, Makeup Gain ได้
+        - link "Intermediate 40 นาที Compression กลอง เบส ร้อง + เทคนิคขั้นกลาง เลือกแนวทาง Compression กลอง เบส และร้องได้เหมาะกับสไตล์เพลง" [ref=e463] [cursor=pointer]:
+          - /url: "#/lesson/d4l3"
+          - generic [ref=e464]: Intermediate
+          - generic [ref=e465]: 40 นาที
+          - heading "Compression กลอง เบส ร้อง + เทคนิคขั้นกลาง" [level=4] [ref=e466]
+          - text: เลือกแนวทาง Compression กลอง เบส และร้องได้เหมาะกับสไตล์เพลง
+        - link "Advanced 35 นาที Limiter, Clipper, Saturation, De-ess, Gate อธิบายบทบาทของ Limiter, Clipper, Saturator, De-esser และ Gate ได้" [ref=e467] [cursor=pointer]:
+          - /url: "#/lesson/d4l4"
+          - generic [ref=e468]: Advanced
+          - generic [ref=e469]: 35 นาที
+          - heading "Limiter, Clipper, Saturation, De-ess, Gate" [level=4] [ref=e470]
+          - text: อธิบายบทบาทของ Limiter, Clipper, Saturator, De-esser และ Gate ได้
+      - generic [ref=e471]:
+        - link "เริ่ม Day 4 ➜" [ref=e472] [cursor=pointer]:
+          - /url: "#/lesson/d4l1"
+        - link "เปิดสไลด์สอน (14 หน้า) ⛶" [ref=e473] [cursor=pointer]:
+          - /url: "#/slides/4"
+        - generic [ref=e474]: ควิซ 8 ข้อ
+    - generic [ref=e475]:
+      - generic [ref=e476]: DAY 5
+      - generic [ref=e477]: 120 นาที
+      - 'heading "วันที่ 5 — สีสันและความแน่น: Saturation, Bus, Automation (Day 5 — Color, Buses & Automation)" [level=2] [ref=e478]':
+        - text: "วันที่ 5 — สีสันและความแน่น: Saturation, Bus, Automation"
+        - generic [ref=e479]: (Day 5 — Color, Buses & Automation)
+      - paragraph [ref=e480]:
+        - strong [ref=e481]: "เป้าหมาย:"
+        - text: เพิ่ม Harmonics ด้วย Saturation/Clipping อย่างพอดี จัด Bus/Send และเขียน Automation ให้เพลงเคลื่อนไหว
+      - heading "⏱ แผนแบ่งเวลา" [level=3] [ref=e482]
+      - table [ref=e483]:
+        - rowgroup [ref=e484]:
+          - row [ref=e485]:
+            - cell "0:00–0:10" [ref=e486]
+            - cell [ref=e487]:
+              - strong [ref=e488]: ทบทวนมิติเสียง + เปิดเรื่องสีสัน
+              - text: — ฟังเสียงแห้ง vs เสียงผ่าน Saturation แบบ Level-matched
+          - row [ref=e489]:
+            - cell "0:10–0:25" [ref=e490]
+            - cell [ref=e491]:
+              - strong [ref=e492]: Saturation / Clipping
+              - text: — Tape/Tube กับ Soft clipping เพิ่มความดังที่รับรู้โดยไม่พีกเกิน
+          - row [ref=e493]:
+            - cell "0:25–0:45" [ref=e494]
+            - cell [ref=e495]:
+              - strong [ref=e496]: Parallel processing + Bus
+              - text: — ตั้ง Bus / Send / Insert ทำ Parallel comp และ Drum bus
+          - row [ref=e497]:
+            - cell "0:45–1:00" [ref=e498]
+            - cell [ref=e499]:
+              - strong [ref=e500]: De-Ess + Multiband (Maximus)
+              - text: — คุมย่านแหลมบาดหูแบบมัลติแบนด์โดยไม่ทำให้เสียงทึบ
+          - row [ref=e501]:
+            - cell "1:00–1:20" [ref=e502]
+            - cell [ref=e503]:
+              - strong [ref=e504]: Automation สร้างอารมณ์
+              - text: — เขียน Fader / Pan / Send ให้ท่อนฮุกใหญ่กว่าท่อนเวิร์ส
+          - row [ref=e505]:
+            - cell "1:20–1:45" [ref=e506]
+            - cell [ref=e507]:
+              - strong [ref=e508]: "Lab: ชุบชีวิตมิกซ์"
+              - text: — เพิ่ม Saturation + Bus + Automation ให้เพลงเดโม
+          - row [ref=e509]:
+            - cell "1:45–2:00" [ref=e510]
+            - cell [ref=e511]:
+              - strong [ref=e512]: สรุป + ควิซวันที่ 5
+              - text: — ทบทวนสมดุลระหว่างสีสันกับความสะอาด
+      - heading "📖 บทเรียน (4 บท)" [level=3] [ref=e513]
+      - generic [ref=e514]:
+        - 'link "Intermediate 30 นาที มิติความลึก: Direct, Early Reflections, Tail อธิบายองค์ประกอบความลึก 3 ชั้น: เสียงตรง เสียงสะท้อนแรก และหางเสียง ได้" [ref=e515] [cursor=pointer]':
+          - /url: "#/lesson/d5l1"
+          - generic [ref=e516]: Intermediate
+          - generic [ref=e517]: 30 นาที
+          - 'heading "มิติความลึก: Direct, Early Reflections, Tail" [level=4] [ref=e518]'
+          - text: "อธิบายองค์ประกอบความลึก 3 ชั้น: เสียงตรง เสียงสะท้อนแรก และหางเสียง ได้"
+        - link "Intermediate 35 นาที ชนิด Reverb, Send Bus และ EQ ที่ Return เลือกชนิด Reverb (Room, Hall, Plate, Chamber, Spring, Convolution) ได้เหมาะงาน" [ref=e519] [cursor=pointer]:
+          - /url: "#/lesson/d5l2"
+          - generic [ref=e520]: Intermediate
+          - generic [ref=e521]: 35 นาที
+          - heading "ชนิด Reverb, Send Bus และ EQ ที่ Return" [level=4] [ref=e522]
+          - text: เลือกชนิด Reverb (Room, Hall, Plate, Chamber, Spring, Convolution) ได้เหมาะงาน
+        - 'link "Intermediate 35 นาที Delay และ Modulation: มิติแบบชัดแต่ไม่เละ ตั้ง Delay แบบ Sync กับจังหวะ (1/4, 1/8 dotted, slapback) ได้" [ref=e523] [cursor=pointer]':
+          - /url: "#/lesson/d5l3"
+          - generic [ref=e524]: Intermediate
+          - generic [ref=e525]: 35 นาที
+          - 'heading "Delay และ Modulation: มิติแบบชัดแต่ไม่เละ" [level=4] [ref=e526]'
+          - text: ตั้ง Delay แบบ Sync กับจังหวะ (1/4, 1/8 dotted, slapback) ได้
+        - link "Advanced 30 นาที ความกว้าง ความเข้ากันโมโน และ Haas จัดวางซ้าย-ขวาด้วย Pan และ stereo widening ได้อย่างมีแผน" [ref=e527] [cursor=pointer]:
+          - /url: "#/lesson/d5l4"
+          - generic [ref=e528]: Advanced
+          - generic [ref=e529]: 30 นาที
+          - heading "ความกว้าง ความเข้ากันโมโน และ Haas" [level=4] [ref=e530]
+          - text: จัดวางซ้าย-ขวาด้วย Pan และ stereo widening ได้อย่างมีแผน
+      - generic [ref=e531]:
+        - link "เริ่ม Day 5 ➜" [ref=e532] [cursor=pointer]:
+          - /url: "#/lesson/d5l1"
+        - link "เปิดสไลด์สอน (14 หน้า) ⛶" [ref=e533] [cursor=pointer]:
+          - /url: "#/slides/5"
+        - generic [ref=e534]: ควิซ 8 ข้อ
+    - generic [ref=e535]:
+      - generic [ref=e536]: DAY 6
+      - generic [ref=e537]: 120 นาที
+      - 'heading "วันที่ 6 — มาสเตอริง: ดัง ครบ เคลื่อนย้ายได้ (Day 6 — Mastering Chain & Delivery)" [level=2] [ref=e538]':
+        - text: "วันที่ 6 — มาสเตอริง: ดัง ครบ เคลื่อนย้ายได้"
+        - generic [ref=e539]: (Day 6 — Mastering Chain & Delivery)
+      - paragraph [ref=e540]:
+        - strong [ref=e541]: "เป้าหมาย:"
+        - text: ต่อโซ่มาสเตอริง EQ → Comp → Limiter ได้ ตั้งเป้า LUFS/True Peak ตามแพลตฟอร์ม และ Export + Dither ถูกต้อง
+      - heading "⏱ แผนแบ่งเวลา" [level=3] [ref=e542]
+      - table [ref=e543]:
+        - rowgroup [ref=e544]:
+          - row [ref=e545]:
+            - cell "0:00–0:10" [ref=e546]
+            - cell [ref=e547]:
+              - strong [ref=e548]: ทบทวน + มาสเตอริงคืออะไร
+              - text: — แยกให้ออกระหว่าง Mixdown กับ Mastering และเป้าหมายแต่ละแพลตฟอร์ม
+          - row [ref=e549]:
+            - cell "0:10–0:25" [ref=e550]
+            - cell [ref=e551]:
+              - strong [ref=e552]: "วัดความดัง: LUFS / True Peak"
+              - text: — LU, Integrated/Short-term/Momentary, Intersample peak
+          - row [ref=e553]:
+            - cell "0:25–0:45" [ref=e554]
+            - cell [ref=e555]:
+              - strong [ref=e556]: โซ่มาสเตอริงใน FL
+              - text: — Maximus → Fruity Limiter อ่าน Gain reduction อย่างมีสติ
+          - row [ref=e557]:
+            - cell "0:45–1:00" [ref=e558]
+            - cell [ref=e559]:
+              - strong [ref=e560]: Limiting โดยไม่แบน
+              - text: — ตั้ง Ceiling, Release, Lookahead และ Oversampling
+          - row [ref=e561]:
+            - cell "1:00–1:20" [ref=e562]
+            - cell [ref=e563]:
+              - strong [ref=e564]: Dither + Export
+              - text: — เมื่อใดต้อง Dither, เลือก Bit Depth / Sample Rate / WAV / MP3
+          - row [ref=e565]:
+            - cell "1:20–1:45" [ref=e566]
+            - cell [ref=e567]:
+              - strong [ref=e568]: "Lab: มาสเตอร์ 2 เวอร์ชัน"
+              - text: — ทำเวอร์ชันสตรีมมิง (-14 LUFS) และเวอร์ชันดังสุดแบบไม่แตก
+          - row [ref=e569]:
+            - cell "1:45–2:00" [ref=e570]
+            - cell [ref=e571]:
+              - strong [ref=e572]: สรุป + ควิซวันที่ 6
+              - text: — ทบทวนความเชื่อผิดเรื่องตัวเลข LUFS เดียวใช้ได้ทุกที่
+      - heading "📖 บทเรียน (4 บท)" [level=3] [ref=e573]
+      - generic [ref=e574]:
+        - link "Intermediate 25 นาที แผนมิกซ์และลำดับชั้นความสำคัญ เขียนแผนมิกซ์ 1 หน้า (อารมณ์ พระเอก โครงท่อน จุดอ้างอิง) ก่อนแตะเฟเดอร์ได้" [ref=e575] [cursor=pointer]:
+          - /url: "#/lesson/d6l1"
+          - generic [ref=e576]: Intermediate
+          - generic [ref=e577]: 25 นาที
+          - heading "แผนมิกซ์และลำดับชั้นความสำคัญ" [level=4] [ref=e578]
+          - text: เขียนแผนมิกซ์ 1 หน้า (อารมณ์ พระเอก โครงท่อน จุดอ้างอิง) ก่อนแตะเฟเดอร์ได้
+        - link "Intermediate 35 นาที Static Balance, Gain และ EQ กันทับ ทำ static balance (เฟเดอร์+pan อย่างเดียว) ให้เพลงฟังได้ก่อนใส่เอฟเฟกต์" [ref=e579] [cursor=pointer]:
+          - /url: "#/lesson/d6l2"
+          - generic [ref=e580]: Intermediate
+          - generic [ref=e581]: 35 นาที
+          - heading "Static Balance, Gain และ EQ กันทับ" [level=4] [ref=e582]
+          - text: ทำ static balance (เฟเดอร์+pan อย่างเดียว) ให้เพลงฟังได้ก่อนใส่เอฟเฟกต์
+        - link "Advanced 35 นาที ไดนามิก มิติ และ Automation ในมิกซ์รวม วางคอมเพรสชันตามบทบาท (ควบคุมพีค กาว glue ดึง sustain) โดยไม่บี้ไดนามิก" [ref=e583] [cursor=pointer]:
+          - /url: "#/lesson/d6l3"
+          - generic [ref=e584]: Advanced
+          - generic [ref=e585]: 35 นาที
+          - heading "ไดนามิก มิติ และ Automation ในมิกซ์รวม" [level=4] [ref=e586]
+          - text: วางคอมเพรสชันตามบทบาท (ควบคุมพีค กาว glue ดึง sustain) โดยไม่บี้ไดนามิก
+        - link "Intermediate 30 นาที Reference, Mono, Translation และ Versioning ใช้ reference track เทียบอย่างถูกวิธี (level-matched) ได้" [ref=e587] [cursor=pointer]:
+          - /url: "#/lesson/d6l4"
+          - generic [ref=e588]: Intermediate
+          - generic [ref=e589]: 30 นาที
+          - heading "Reference, Mono, Translation และ Versioning" [level=4] [ref=e590]
+          - text: ใช้ reference track เทียบอย่างถูกวิธี (level-matched) ได้
+      - generic [ref=e591]:
+        - link "เริ่ม Day 6 ➜" [ref=e592] [cursor=pointer]:
+          - /url: "#/lesson/d6l1"
+        - link "เปิดสไลด์สอน (14 หน้า) ⛶" [ref=e593] [cursor=pointer]:
+          - /url: "#/slides/6"
+        - generic [ref=e594]: ควิซ 8 ข้อ
+    - generic [ref=e595]:
+      - generic [ref=e596]: DAY 7
+      - generic [ref=e597]: 120 นาที
+      - 'heading "วันที่ 7 — โปรเจกต์จบ: มิกซ์ มาสเตอร์ ส่งงาน (Day 7 — Final Project & Release)" [level=2] [ref=e598]':
+        - text: "วันที่ 7 — โปรเจกต์จบ: มิกซ์ มาสเตอร์ ส่งงาน"
+        - generic [ref=e599]: (Day 7 — Final Project & Release)
+      - paragraph [ref=e600]:
+        - strong [ref=e601]: "เป้าหมาย:"
+        - text: นำทุกทักษะมาทำเพลงหนึ่งให้จบ ตรวจเช็กด้วย Checklist ส่งออกไฟล์ถูกสเปก และวิจารณ์งานเพื่อนอย่างสร้างสรรค์
+      - heading "⏱ แผนแบ่งเวลา" [level=3] [ref=e602]
+      - table [ref=e603]:
+        - rowgroup [ref=e604]:
+          - row [ref=e605]:
+            - cell "0:00–0:10" [ref=e606]
+            - cell [ref=e607]:
+              - strong [ref=e608]: เปิดวันสุดท้าย + เกณฑ์โปรเจกต์
+              - text: — อธิบาย Checklist การส่งงานและเกณฑ์ให้คะแนน
+          - row [ref=e609]:
+            - cell "0:10–0:25" [ref=e610]
+            - cell [ref=e611]:
+              - strong [ref=e612]: เวิร์กโฟลว์จบงาน
+              - text: — ลำดับ Mix → Revisions → Master → QC ฟังหลายอุปกรณ์
+          - row [ref=e613]:
+            - cell "0:25–0:45" [ref=e614]
+            - cell [ref=e615]:
+              - strong [ref=e616]: แก้ปัญหาหน้างานจริง
+              - text: — เคสเสียงแตก เสียงขุ่น สเตอริโอหายเมื่อรวมเป็น Mono
+          - row [ref=e617]:
+            - cell "0:45–1:00" [ref=e618]
+            - cell [ref=e619]:
+              - strong [ref=e620]: เตรียมไฟล์ส่ง
+              - text: — ตั้งชื่อไฟล์ เตรียม WAV master, MP3 preview และสเต็ม
+          - row [ref=e621]:
+            - cell "1:00–1:20" [ref=e622]
+            - cell [ref=e623]:
+              - strong [ref=e624]: นำเสนอผลงาน
+              - text: — นักเรียนเปิดงานพร้อมเล่าแนวคิดการมิกซ์คนละ 2 นาที
+          - row [ref=e625]:
+            - cell "1:20–1:45" [ref=e626]
+            - cell [ref=e627]:
+              - strong [ref=e628]: Feedback + ปรับแก้สด
+              - text: — ครูและเพื่อนให้ฟีดแบ็กแล้วแก้จุดสำคัญทันที
+          - row [ref=e629]:
+            - cell "1:45–2:00" [ref=e630]
+            - cell [ref=e631]:
+              - strong [ref=e632]: สรุปคอร์ส + ควิซวันที่ 7
+              - text: — มอบแนวทางฝึกต่อและทำควิซทบทวนรวม
+      - heading "📖 บทเรียน (4 บท)" [level=3] [ref=e633]
+      - generic [ref=e634]:
+        - link "Intermediate 25 นาที มาสเตอริงคืออะไร และเช็กพรีมาสเตอร์ อธิบายความต่างของ Mix / Mix-bus processing / Mastering ได้" [ref=e635] [cursor=pointer]:
+          - /url: "#/lesson/d7l1"
+          - generic [ref=e636]: Intermediate
+          - generic [ref=e637]: 25 นาที
+          - heading "มาสเตอริงคืออะไร และเช็กพรีมาสเตอร์" [level=4] [ref=e638]
+          - text: อธิบายความต่างของ Mix / Mix-bus processing / Mastering ได้
+        - 'link "Advanced 35 นาที เชนมาสเตอร์: EQ กาว Saturation สเตอริโอ เรียงเชนมาสเตอร์พื้นฐาน (EQ → Glue → Saturation → Stereo → Limiter/Meter) ได้" [ref=e639] [cursor=pointer]':
+          - /url: "#/lesson/d7l2"
+          - generic [ref=e640]: Advanced
+          - generic [ref=e641]: 35 นาที
+          - 'heading "เชนมาสเตอร์: EQ กาว Saturation สเตอริโอ" [level=4] [ref=e642]'
+          - text: เรียงเชนมาสเตอร์พื้นฐาน (EQ → Glue → Saturation → Stereo → Limiter/Meter) ได้
+        - link "Advanced 35 นาที Limiting, LUFS, True Peak และ Crest อธิบายความดัง (LUFS) แบบเข้าใจ normalization ของแพลตฟอร์มได้" [ref=e643] [cursor=pointer]:
+          - /url: "#/lesson/d7l3"
+          - generic [ref=e644]: Advanced
+          - generic [ref=e645]: 35 นาที
+          - heading "Limiting, LUFS, True Peak และ Crest" [level=4] [ref=e646]
+          - text: อธิบายความดัง (LUFS) แบบเข้าใจ normalization ของแพลตฟอร์มได้
+        - link "Beginner 30 นาที Export, Dither, QC และส่งงาน + เช็กลิสต์จบ เลือกฟอร์แมต export (WAV/MP3) และตั้งค่า (bit depth, sample rate, dither) ถูก" [ref=e647] [cursor=pointer]:
+          - /url: "#/lesson/d7l4"
+          - generic [ref=e648]: Beginner
+          - generic [ref=e649]: 30 นาที
+          - heading "Export, Dither, QC และส่งงาน + เช็กลิสต์จบ" [level=4] [ref=e650]
+          - text: เลือกฟอร์แมต export (WAV/MP3) และตั้งค่า (bit depth, sample rate, dither) ถูก
+      - generic [ref=e651]:
+        - link "เริ่ม Day 7 ➜" [ref=e652] [cursor=pointer]:
+          - /url: "#/lesson/d7l1"
+        - link "เปิดสไลด์สอน (14 หน้า) ⛶" [ref=e653] [cursor=pointer]:
+          - /url: "#/slides/7"
+        - generic [ref=e654]: ควิซ 8 ข้อ
+  - contentinfo [ref=e134]:
+    - generic [ref=e135]:
+      - strong [ref=e136]: MIXLAB
+      - generic [ref=e137]: ห้องเรียน Mix & Mastering ภาษาไทย • FL Studio 25 • ภาพ UI ที่วาดใหม่เป็น “ภาพจำลองเพื่อการเรียนรู้” ไม่ใช่ภาพหน้าจอจริงของ Image-Line
+      - generic [ref=e138]: ความถูกต้องของความรู้ > คุณภาพการสอน > ใช้งานได้ > สวยงาม

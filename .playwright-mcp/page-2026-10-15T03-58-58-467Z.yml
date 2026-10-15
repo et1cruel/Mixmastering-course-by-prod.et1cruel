@@ -1,0 +1,188 @@
+- generic [ref=f1e2]:
+  - navigation "เมนูหลัก" [ref=f1e3]:
+    - generic [ref=f1e4]:
+      - link "MIXLAB MIX & MASTERING ACADEMY" [ref=f1e5] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f1e6]: MIXLAB
+        - generic [ref=f1e7]: MIX & MASTERING ACADEMY
+      - generic [ref=f1e8]:
+        - link "หน้าแรก" [ref=f1e9] [cursor=pointer]:
+          - /url: "#/"
+        - link "แดชบอร์ด" [ref=f1e10] [cursor=pointer]:
+          - /url: "#/dashboard"
+        - link "หลักสูตร 7 วัน" [ref=f1e11] [cursor=pointer]:
+          - /url: "#/curriculum"
+        - link "Sound Lab" [ref=f1e12] [cursor=pointer]:
+          - /url: "#/lab"
+        - link "พจนานุกรม" [ref=f1e13] [cursor=pointer]:
+          - /url: "#/glossary"
+        - link "อ้างอิง" [ref=f1e14] [cursor=pointer]:
+          - /url: "#/references"
+      - generic [ref=f1e15]:
+        - button "🎓 Teacher" [ref=f1e16] [cursor=pointer]
+        - button "▶ เคลื่อนไหว" [ref=f1e17] [cursor=pointer]
+  - generic [ref=f1e19]: MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK • MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK •
+  - main [ref=f1e450]:
+    - generic [ref=f1e451]:
+      - link "◀ หลักสูตร" [ref=f1e452] [cursor=pointer]:
+        - /url: "#/curriculum"
+      - generic [ref=f1e453]: DAY 1
+      - generic [ref=f1e454]: Beginner
+      - generic [ref=f1e455]: 45 นาที
+      - heading "Production vs Mixing vs Mastering และ Signal Flow" [level=1] [ref=f1e456]
+      - paragraph [ref=f1e457]: Production vs Mixing vs Mastering + Signal Flow
+      - generic [ref=f1e458]:
+        - button "☐ ทำเครื่องหมายว่าเรียนจบแล้ว" [ref=f1e459] [cursor=pointer]
+        - button "☆ บันทึกบทเรียน" [ref=f1e460] [cursor=pointer]
+        - link "⛶ สไลด์ Day 1" [ref=f1e461] [cursor=pointer]:
+          - /url: "#/slides/1"
+        - button "🖨 Print / PDF" [ref=f1e462] [cursor=pointer]
+      - generic [ref=f1e463]:
+        - complementary "สารบัญ" [ref=f1e464]:
+          - strong [ref=f1e465]: สารบัญ
+          - link "เริ่มต้น" [ref=f1e466] [cursor=pointer]:
+            - /url: "#b-0"
+          - link "Production vs Mixing vs Mastering คืออะไร" [ref=f1e467] [cursor=pointer]:
+            - /url: "#b-1"
+          - link "p" [ref=f1e468] [cursor=pointer]:
+            - /url: "#b-2"
+          - link "list" [ref=f1e469] [cursor=pointer]:
+            - /url: "#b-3"
+          - link "table" [ref=f1e470] [cursor=pointer]:
+            - /url: "#b-4"
+          - 'link "Signal Flow: เสียงเดินทางอย่างไร" [ref=f1e471] [cursor=pointer]':
+            - /url: "#b-5"
+          - link "p" [ref=f1e472] [cursor=pointer]:
+            - /url: "#b-6"
+          - link "flstudio" [ref=f1e473] [cursor=pointer]:
+            - /url: "#b-7"
+          - link "ฝึกไล่ Signal Flow" [ref=f1e474] [cursor=pointer]:
+            - /url: "#b-8"
+          - link "warning" [ref=f1e475] [cursor=pointer]:
+            - /url: "#b-9"
+          - link "ข้อผิดพลาดที่พบบ่อย" [ref=f1e476] [cursor=pointer]:
+            - /url: "#b-10"
+          - link "summary" [ref=f1e477] [cursor=pointer]:
+            - /url: "#b-11"
+        - article [ref=f1e478]:
+          - heading "🎯 สิ่งที่จะได้รับ" [level=2] [ref=f1e479]
+          - list [ref=f1e480]:
+            - listitem [ref=f1e481]: แยกความต่างของ Production, Mixing, Mastering ได้ถูกต้อง
+            - listitem [ref=f1e482]: อธิบายเป้าหมายและ deliverable ของแต่ละขั้นตอนได้
+            - listitem [ref=f1e483]: วาด Signal Flow ตั้งแต่ source ถึง master bus ได้
+            - listitem [ref=f1e484]: รู้ว่าแต่ละขั้นตอนควรแก้ปัญหาอะไร ไม่ก้าวก่ายกัน
+          - paragraph [ref=f1e486]: เพลงหนึ่งเพลงผ่าน 3 ด่านหลักคือ Production (สร้างเพลง), Mixing (ผสมเสียง) และ Mastering (เก็บงานขั้นสุดท้าย) แต่ละด่านมีเป้าหมายและเครื่องมือต่างกัน ถ้าแยกบทบาทชัด งานจะเร็วขึ้นและไม่แก้วนไปมา บทเรียนนี้ปูภาพรวมทั้งหมดก่อนลงลึก
+          - generic [ref=f1e487]:
+            - figure "ภาพจำลองเพื่อการเรียนรู้ แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e488]:
+              - img "แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e489]:
+                - generic [ref=f1e490]:
+                  - generic [ref=f1e491]:
+                    - generic [ref=f1e493]: SOURCE
+                    - generic [ref=f1e494]: Channel
+                    - generic [ref=f1e495]: ➜
+                  - generic [ref=f1e496]:
+                    - generic [ref=f1e498]: INSERT
+                    - generic [ref=f1e499]: EQ/Comp
+                    - generic [ref=f1e500]: ➜
+                  - generic [ref=f1e501]:
+                    - generic [ref=f1e503]: BUS
+                    - generic [ref=f1e504]: Drum/Vox
+                    - generic [ref=f1e505]: ➜
+                  - generic [ref=f1e506]:
+                    - generic [ref=f1e508]: MASTER
+                    - generic [ref=f1e509]: Limiter
+              - generic [ref=f1e510]:
+                - generic [ref=f1e511]: ภาพจำลองเพื่อการเรียนรู้
+                - text: แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้
+            - heading "Production vs Mixing vs Mastering คืออะไร" [level=2] [ref=f1e512]
+          - paragraph [ref=f1e514]: Production คือการสร้างดนตรี ได้แก่การแต่ง ทำนอง เลือกเสียง อัดร้อง และเรียบเรียง (arrangement) ผลลัพธ์คือไอเดียเพลงที่สมบูรณ์ ส่วน Mixing คือการนำทุกแทร็กมาปรับสมดุลด้วย volume, pan, EQ, compression, reverb และ automation ให้ทุกชิ้นอยู่ด้วยกันได้ ส่วน Mastering คือการ polish ไฟล์สเตอริโอสุดท้ายให้ดังสม่ำเสมอ ฟังดีทุกอุปกรณ์ และพร้อมปล่อย
+          - generic [ref=f1e515]:
+            - heading [level=4]
+            - list [ref=f1e516]:
+              - listitem [ref=f1e517]: Production — คำถามคือ "เพลงนี้ควรเป็นอย่างไร" เน้นไอเดียและการอัดที่ดี
+              - listitem [ref=f1e518]: Mixing — คำถามคือ "ทุกเสียงอยู่ด้วยกันอย่างไร" เน้นสมดุล ความชัด และมิติ
+              - listitem [ref=f1e519]: Mastering — คำถามคือ "พร้อมปล่อยหรือยัง" เน้น loudness, เสียงรวม และ format ส่งออก
+          - generic [ref=f1e520]:
+            - heading [level=4]
+            - table [ref=f1e521]:
+              - rowgroup [ref=f1e522]:
+                - row [ref=f1e523]:
+                  - columnheader "ขั้นตอน" [ref=f1e524]
+                  - columnheader "เป้าหมาย" [ref=f1e525]
+                  - columnheader "ส่งมอบ" [ref=f1e526]
+              - rowgroup [ref=f1e527]:
+                - row [ref=f1e528]:
+                  - cell "Production" [ref=f1e529]
+                  - cell "สร้างเพลงและเสียงต้นฉบับ" [ref=f1e530]
+                  - cell "โปรเจกต์ + stems แห้งคุณภาพดี" [ref=f1e531]
+                - row [ref=f1e532]:
+                  - cell "Mixing" [ref=f1e533]
+                  - cell "ผสมทุกแทร็กให้สมดุล" [ref=f1e534]
+                  - cell "ไฟล์ mix สเตอริโอ มี headroom" [ref=f1e535]
+                - row [ref=f1e536]:
+                  - cell "Mastering" [ref=f1e537]
+                  - cell "เก็บงานให้พร้อมปล่อย" [ref=f1e538]
+                  - cell "ไฟล์ master ตามแพลตฟอร์ม" [ref=f1e539]
+          - 'heading "Signal Flow: เสียงเดินทางอย่างไร" [level=2] [ref=f1e541]'
+          - paragraph [ref=f1e543]: Signal Flow คือเส้นทางการเดินทางของเสียงจากต้นกำเนิด (source) ผ่าน processing ต่างๆ ไปยังลำโพง ตัวอย่างพื้นฐานคือ ไมค์หรือ VST → channel fader → insert effects → mixer track → bus/group → master bus → audio interface → monitor ความเข้าใจ flow นี้ช่วยให้ตามหาปัญหาได้เร็วว่าเสียงหายหรือเพี้ยนที่จุดไหน
+          - generic [ref=f1e545]:
+            - generic [ref=f1e546]: ภาพจำลองเพื่อการเรียนรู้
+            - strong [ref=f1e547]: 🖥️
+            - paragraph [ref=f1e548]: ใน FL Studio 25 ให้เปิด Mixer ด้วยปุ่ม F9 แต่ละ Channel Rack เชื่อมไปยัง mixer track หนึ่งหมายเลข เสียงไหลจาก Channel → Insert slots (บนลงล่าง) → fader/pan → Bus → Master ลองกดเลือกแทร็กแล้วดูไฟ meter ว่า signal วิ่งไปถึง Master หรือไม่
+          - generic [ref=f1e549]:
+            - heading "ฝึกไล่ Signal Flow" [level=4] [ref=f1e550]
+            - list [ref=f1e551]:
+              - listitem [ref=f1e552]: เปิดโปรเจกต์ตัวอย่าง กด F9 เปิด Mixer และ F5 เปิด Playlist
+              - listitem [ref=f1e553]: เลือก kick ใน Channel Rack ดูว่า route ไป mixer track หมายเลขใด
+              - listitem [ref=f1e554]: ตามดู insert slots, fader, แล้วดูว่า track นั้นส่งต่อไป bus หรือ Master โดยตรง
+              - listitem [ref=f1e555]: Mute ทีละ bus แล้วฟังว่าเสียงใดหายไปเพื่อยืนยันเส้นทาง
+          - generic [ref=f1e557]:
+            - strong [ref=f1e558]: ⚠️ ระวัง
+            - paragraph [ref=f1e559]: "Mastering ไม่สามารถซ่อม mix ที่พังได้ ถ้าเสียงร้องจม กีตาร์บวม หรือ master bus ถูกบีบจนแตก การ master ต่อมีแต่จะยิ่งขยายปัญหา กฎเหล็กคือแก้ปัญหาให้ถูกด่าน: ปัญหา arrangement แก้ที่ production ปัญหาสมดุลแก้ที่ mix อย่าหวังให้ mastering มาช่วยชีวิต"
+          - generic [ref=f1e561]:
+            - strong [ref=f1e562]: 💥 ข้อผิดพลาดที่พบบ่อย
+            - list [ref=f1e563]:
+              - listitem [ref=f1e564]: ใส่ limiter แรงบน master ตั้งแต่เริ่ม mix ทำให้หูชินกับความดังปลอม
+              - listitem [ref=f1e565]: ส่งไฟล์เข้า mastering แบบ peak ชน 0 dBFS ไม่มี headroom เหลือ
+              - listitem [ref=f1e566]: แก้ arrangement ตอนกำลัง mix ทำให้งานไม่จบสักที
+          - generic [ref=f1e567]:
+            - generic [ref=f1e568]:
+              - strong [ref=f1e569]: 📌 สรุป
+              - paragraph [ref=f1e570]: จำสั้นๆ ว่า Production สร้างเพลง, Mixing ผสมให้สมดุล, Mastering เตรียมปล่อย และทุกเสียงมี Signal Flow ที่ไล่ตามได้เสมอ ตั้งแต่วันนี้ให้ฝึกมอง mixer เป็นแผนที่เส้นทางเสียง ไม่ใช่แค่ปุ่มปรับเสียง แล้วบทต่อไปจะเล็กลงไปที่ตัวเสียงเองคือความถี่และแอมพลิจูด
+            - 'button "💡 รู้ไหม?: หูถูกหลอกด้วยความดังได้ง่ายกว่าที่คิด" [ref=f1e572] [cursor=pointer]'
+          - heading "💡 เกร็ดความรู้ประจำบท (1)" [level=2] [ref=f1e573]
+          - button "รู้ไหม? หูถูกหลอกด้วยความดังได้ง่ายกว่าที่คิด" [ref=f1e575] [cursor=pointer]
+          - heading "📝 แบบทดสอบท้ายบท (2 ข้อ)" [level=2] [ref=f1e576]
+          - generic [ref=f1e577]:
+            - generic [ref=f1e578]:
+              - strong [ref=f1e579]: ข้อ 1. ข้อใดอธิบายความถี่ (Frequency) ได้ถูกต้องที่สุด?
+              - generic [ref=f1e580]: ตัวเลือก
+              - generic [ref=f1e581]:
+                - button "ความดังของเสียง มีหน่วยเป็นเดซิเบล" [ref=f1e582] [cursor=pointer]
+                - button "จำนวนรอบการสั่นต่อวินาที มีหน่วยเป็นเฮิรตซ์ (Hz)" [ref=f1e583] [cursor=pointer]
+                - button "ระยะเวลาของเสียงสะท้อนในห้อง" [ref=f1e584] [cursor=pointer]
+                - button "ความกว้างของภาพสเตอริโอ" [ref=f1e585] [cursor=pointer]
+            - generic [ref=f1e586]:
+              - strong [ref=f1e587]: ข้อ 2. เสียงที่ดังกว่า (เปิดวอลลุ่มสูงกว่า) จะฟังดูดีกว่าเสมอ แม้เป็นมิกซ์เดียวกัน
+              - generic [ref=f1e588]: ถูก/ผิด
+              - generic [ref=f1e589]:
+                - button "ถูก" [ref=f1e590] [cursor=pointer]
+                - button "ผิด" [ref=f1e591] [cursor=pointer]
+            - button "ส่งคำตอบ (0/2)" [ref=f1e592] [cursor=pointer]
+          - heading "📚 อ่านต่อ & อ้างอิง" [level=2] [ref=f1e593]
+          - list [ref=f1e594]:
+            - listitem [ref=f1e595]: image-line-manual
+            - listitem [ref=f1e596]: image-line-mixer
+            - listitem [ref=f1e597]: izotope-learn-mixing
+          - link "ความถี่ แอมพลิจูด รูปคลื่น และฮาร์มอนิก ▶" [ref=f1e599] [cursor=pointer]:
+            - /url: "#/lesson/d1l2"
+          - paragraph [ref=f1e600]:
+            - text: "สไลด์ Day 1:"
+            - link "เปิดห้องสไลด์ (14 หน้า)" [ref=f1e601] [cursor=pointer]:
+              - /url: "#/slides/1"
+            - text: "• เกร็ดทั้งหมดของวัน: 6 รายการ"
+  - contentinfo [ref=f1e445]:
+    - generic [ref=f1e446]:
+      - strong [ref=f1e447]: MIXLAB
+      - generic [ref=f1e448]: ห้องเรียน Mix & Mastering ภาษาไทย • FL Studio 25 • ภาพ UI ที่วาดใหม่เป็น “ภาพจำลองเพื่อการเรียนรู้” ไม่ใช่ภาพหน้าจอจริงของ Image-Line
+      - generic [ref=f1e449]: ความถูกต้องของความรู้ > คุณภาพการสอน > ใช้งานได้ > สวยงาม

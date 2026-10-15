@@ -1,0 +1,110 @@
+- generic [ref=f1e2]:
+  - navigation "เมนูหลัก" [ref=f1e3]:
+    - generic [ref=f1e4]:
+      - link "MIXLAB MIX & MASTERING ACADEMY" [ref=f1e5] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f1e6]: MIXLAB
+        - generic [ref=f1e7]: MIX & MASTERING ACADEMY
+      - generic [ref=f1e8]:
+        - link "หน้าแรก" [ref=f1e9] [cursor=pointer]:
+          - /url: "#/"
+        - link "แดชบอร์ด" [ref=f1e10] [cursor=pointer]:
+          - /url: "#/dashboard"
+        - link "หลักสูตร 7 วัน" [ref=f1e11] [cursor=pointer]:
+          - /url: "#/curriculum"
+        - link "Sound Lab" [ref=f1e12] [cursor=pointer]:
+          - /url: "#/lab"
+        - link "พจนานุกรม" [ref=f1e13] [cursor=pointer]:
+          - /url: "#/glossary"
+        - link "อ้างอิง" [ref=f1e14] [cursor=pointer]:
+          - /url: "#/references"
+      - generic [ref=f1e15]:
+        - button "🎓 Teacher" [ref=f1e16] [cursor=pointer]
+        - button "▶ เคลื่อนไหว" [ref=f1e17] [cursor=pointer]
+  - generic [ref=f1e19]: MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK • MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK •
+  - main [ref=f1e6608]:
+    - generic [ref=f1e6609]:
+      - generic [ref=f1e6610]: SOURCES
+      - heading "อ้างอิง & ที่มาของภาพ" [level=2] [ref=f1e6611]
+    - paragraph [ref=f1e6612]:
+      - text: หลักเสียงอ้างจากคู่มือ Image-Line และเอกสารเทคนิคที่น่าเชื่อถือ • ภาพ UI ในเว็บนี้วาดใหม่ทั้งหมดเป็น
+      - strong [ref=f1e6613]: ภาพจำลองเพื่อการเรียนรู้
+      - text: ไม่ใช่ภาพหน้าจอจริง — ตรวจสอบชื่อเมนู/ปลั๊กอินกับคู่มือ FL Studio 25 ก่อนสอนทุกครั้ง
+    - generic [ref=f1e6614]:
+      - generic [ref=f1e6615]:
+        - heading "FL Studio Online Manual (คู่มือหลัก)" [level=3] [ref=f1e6616]
+        - paragraph [ref=f1e6617]: คู่มืออย่างเป็นทางการของ FL Studio ใช้อ้างอิงทุกเมนู มิกเซอร์ Playlist และวิธี export ที่ถูกต้อง
+        - link "https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/" [ref=f1e6618] [cursor=pointer]:
+          - /url: https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/
+        - paragraph [ref=f1e6619]: "ใช้ใน: d1l3, d7l3"
+      - generic [ref=f1e6620]:
+        - heading "FL Studio Workflow & Getting Started" [level=3] [ref=f1e6621]
+        - paragraph [ref=f1e6622]: ศูนย์รวมบทเรียนเวิร์กโฟลว์ของ Image-Line ตั้งแต่ตั้งโปรเจกต์ จัด Playlist ไปจนถึงเทคนิคมิกซ์พื้นฐาน
+        - link "https://www.image-line.com/fl-studio-learning/" [ref=f1e6623] [cursor=pointer]:
+          - /url: https://www.image-line.com/fl-studio-learning/
+        - paragraph [ref=f1e6624]: "ใช้ใน: d1l3, d7l1"
+      - generic [ref=f1e6625]:
+        - heading "FL Studio — What's New" [level=3] [ref=f1e6626]
+        - paragraph [ref=f1e6627]: หน้าอัปเดตฟีเจอร์ใหม่ของ FL Studio แต่ละเวอร์ชัน ใช้ตามทันเครื่องมือมิกซ์/มาสเตอร์ที่เพิ่มเข้ามา
+        - link "https://www.image-line.com/fl-studio-whats-new/" [ref=f1e6628] [cursor=pointer]:
+          - /url: https://www.image-line.com/fl-studio-whats-new/
+        - paragraph [ref=f1e6629]: "ใช้ใน: d7l1"
+      - generic [ref=f1e6630]:
+        - heading "Fruity Parametric EQ 2" [level=3] [ref=f1e6631]
+        - paragraph [ref=f1e6632]: "คู่มือปลั๊กอิน EQ หลักของคอร์ส: วิธีอ่าน spectrum, ตั้ง band, ใช้ high/low-pass และ linear-phase โหมด"
+        - link "https://www.image-line.com/fl-studio-learning/fl-studio-plugins/fruity-parametric-eq-2/" [ref=f1e6633] [cursor=pointer]:
+          - /url: https://www.image-line.com/fl-studio-learning/fl-studio-plugins/fruity-parametric-eq-2/
+        - paragraph [ref=f1e6634]: "ใช้ใน: d2l1, d2l2, d2l3"
+      - generic [ref=f1e6635]:
+        - heading "Fruity Limiter (Compressor / Limiter)" [level=3] [ref=f1e6636]
+        - paragraph [ref=f1e6637]: คู่มือ Fruity Limiter ทั้งโหมดคอมเพรสเซอร์ (threshold/ratio/attack/release) และโหมดลิมิตเตอร์ (ceiling/saturation) ใช้ทั้งวันที่ 3 และ 6
+        - link "https://www.image-line.com/fl-studio-learning/fl-studio-plugins/fruity-limiter/" [ref=f1e6638] [cursor=pointer]:
+          - /url: https://www.image-line.com/fl-studio-learning/fl-studio-plugins/fruity-limiter/
+        - paragraph [ref=f1e6639]: "ใช้ใน: d3l1, d3l2, d6l3"
+      - generic [ref=f1e6640]:
+        - heading "Maximus (Multiband Maximizer)" [level=3] [ref=f1e6641]
+        - paragraph [ref=f1e6642]: คู่มือ Maximus สำหรับงาน multiband compression/limiting และ de-ess แยกย่าน ใช้ในบท dynamics และมาสเตอริง
+        - link "https://www.image-line.com/fl-studio-learning/fl-studio-plugins/maximus/" [ref=f1e6643] [cursor=pointer]:
+          - /url: https://www.image-line.com/fl-studio-learning/fl-studio-plugins/maximus/
+        - paragraph [ref=f1e6644]: "ใช้ใน: d3l3, d5l3, d6l3"
+      - generic [ref=f1e6645]:
+        - heading "Wave Candy (Metering)" [level=3] [ref=f1e6646]
+        - paragraph [ref=f1e6647]: "คู่มือมิเตอร์ Wave Candy: ดู peak/RMS/spectrum/vectorscope และ correlation สำหรับเช็ก mono และสเตอริโอ"
+        - link "https://www.image-line.com/fl-studio-learning/fl-studio-plugins/wave-candy/" [ref=f1e6648] [cursor=pointer]:
+          - /url: https://www.image-line.com/fl-studio-learning/fl-studio-plugins/wave-candy/
+        - paragraph [ref=f1e6649]: "ใช้ใน: d1l4, d4l4, d6l2"
+      - generic [ref=f1e6650]:
+        - heading "Exporting Audio from FL Studio" [level=3] [ref=f1e6651]
+        - paragraph [ref=f1e6652]: "วิธี export ไฟล์เสียงจาก FL Studio: เลือกฟอร์แมต WAV/MP3, sample rate/bit depth, dither และการตั้งชื่อไฟล์ส่งงาน"
+        - link "https://www.image-line.com/fl-studio-learning/fl-studio-recording/fl-studio-exporting-audio/" [ref=f1e6653] [cursor=pointer]:
+          - /url: https://www.image-line.com/fl-studio-learning/fl-studio-recording/fl-studio-exporting-audio/
+        - paragraph [ref=f1e6654]: "ใช้ใน: d6l4, d7l3"
+      - generic [ref=f1e6655]:
+        - heading "ITU-R BS.1770 — มาตรฐานวัด Loudness (LUFS)" [level=3] [ref=f1e6656]
+        - paragraph [ref=f1e6657]: เอกสารมาตรฐานสากลที่นิยามวิธีวัด loudness และ true peak (ที่มาของค่า LUFS/LKFS) ใช้อ้างอิงบทวัดความดังและเป้าสตรีมมิง
+        - link "https://www.itu.int/rec/R-REC-BS.1770/en" [ref=f1e6658] [cursor=pointer]:
+          - /url: https://www.itu.int/rec/R-REC-BS.1770/en
+        - paragraph [ref=f1e6659]: "ใช้ใน: d6l1, d6l2"
+      - generic [ref=f1e6660]:
+        - heading "AES — บทความและมาตรฐานเรื่อง Dither" [level=3] [ref=f1e6661]
+        - paragraph [ref=f1e6662]: แหล่งความรู้ของ Audio Engineering Society ใช้อ้างอิงแนวคิด dither/quantization และงานวิจัยด้านเสียงดิจิทัล (ค้นหา e-library ด้วยคำว่า dither)
+        - link "https://www.aes.org/" [ref=f1e6663] [cursor=pointer]:
+          - /url: https://www.aes.org/
+        - paragraph [ref=f1e6664]: "ใช้ใน: d6l4"
+      - generic [ref=f1e6665]:
+        - heading "Ethan Winer — Phase, Polarity & Acoustics" [level=3] [ref=f1e6666]
+        - paragraph [ref=f1e6667]: บทความของ Ethan Winer ที่อธิบายเฟส โพลาริตี และการหักล้างของคลื่นด้วยภาพเข้าใจง่าย ใช้อ้างอิงบท phase/mono
+        - link "https://ethanwiner.com/acoustics.html" [ref=f1e6668] [cursor=pointer]:
+          - /url: https://ethanwiner.com/acoustics.html
+        - paragraph [ref=f1e6669]: "ใช้ใน: d1l2, d4l1"
+      - generic [ref=f1e6670]:
+        - heading "Sound On Sound — Compression Made Easy" [level=3] [ref=f1e6671]
+        - paragraph [ref=f1e6672]: บทความคลาสสิกของ Sound On Sound ที่สอนคอมเพรสเซอร์ตั้งแต่ threshold/ratio ถึงการฟัง gain reduction ใช้อ้างอิงบท dynamics
+        - link "https://www.soundonsound.com/techniques/compression-made-easy" [ref=f1e6673] [cursor=pointer]:
+          - /url: https://www.soundonsound.com/techniques/compression-made-easy
+        - paragraph [ref=f1e6674]: "ใช้ใน: d3l1, d3l2, d5l2"
+  - contentinfo [ref=f1e445]:
+    - generic [ref=f1e446]:
+      - strong [ref=f1e447]: MIXLAB
+      - generic [ref=f1e448]: ห้องเรียน Mix & Mastering ภาษาไทย • FL Studio 25 • ภาพ UI ที่วาดใหม่เป็น “ภาพจำลองเพื่อการเรียนรู้” ไม่ใช่ภาพหน้าจอจริงของ Image-Line
+      - generic [ref=f1e449]: ความถูกต้องของความรู้ > คุณภาพการสอน > ใช้งานได้ > สวยงาม

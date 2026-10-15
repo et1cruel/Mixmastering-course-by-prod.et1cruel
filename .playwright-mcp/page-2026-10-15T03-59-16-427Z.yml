@@ -1,0 +1,235 @@
+- generic [ref=f1e2]:
+  - navigation "เมนูหลัก" [ref=f1e3]:
+    - generic [ref=f1e4]:
+      - link "MIXLAB MIX & MASTERING ACADEMY" [ref=f1e5] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f1e6]: MIXLAB
+        - generic [ref=f1e7]: MIX & MASTERING ACADEMY
+      - generic [ref=f1e8]:
+        - link "หน้าแรก" [ref=f1e9] [cursor=pointer]:
+          - /url: "#/"
+        - link "แดชบอร์ด" [ref=f1e10] [cursor=pointer]:
+          - /url: "#/dashboard"
+        - link "หลักสูตร 7 วัน" [ref=f1e11] [cursor=pointer]:
+          - /url: "#/curriculum"
+        - link "Sound Lab" [ref=f1e12] [cursor=pointer]:
+          - /url: "#/lab"
+        - link "พจนานุกรม" [ref=f1e13] [cursor=pointer]:
+          - /url: "#/glossary"
+        - link "อ้างอิง" [ref=f1e14] [cursor=pointer]:
+          - /url: "#/references"
+      - generic [ref=f1e15]:
+        - button "🎓 Teacher" [ref=f1e16] [cursor=pointer]
+        - button "▶ เคลื่อนไหว" [ref=f1e17] [cursor=pointer]
+  - generic [ref=f1e19]: MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK • MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK •
+  - main [ref=f1e3601]:
+    - generic [ref=f1e3602]:
+      - link "◀ หลักสูตร" [ref=f1e3603] [cursor=pointer]:
+        - /url: "#/curriculum"
+      - generic [ref=f1e3604]: DAY 5
+      - generic [ref=f1e3605]: Intermediate
+      - generic [ref=f1e3606]: 35 นาที
+      - 'heading "Delay และ Modulation: มิติแบบชัดแต่ไม่เละ" [level=1] [ref=f1e3607]'
+      - paragraph [ref=f1e3608]: "Delay and Modulation: Clear Depth Without Mud"
+      - generic [ref=f1e3609]:
+        - button "☐ ทำเครื่องหมายว่าเรียนจบแล้ว" [ref=f1e3610] [cursor=pointer]
+        - button "☆ บันทึกบทเรียน" [ref=f1e3611] [cursor=pointer]
+        - link "⛶ สไลด์ Day 5" [ref=f1e3612] [cursor=pointer]:
+          - /url: "#/slides/5"
+        - button "🖨 Print / PDF" [ref=f1e3613] [cursor=pointer]
+      - generic [ref=f1e3614]:
+        - complementary "สารบัญ" [ref=f1e3615]:
+          - strong [ref=f1e3616]: สารบัญ
+          - link "อยากได้มิติแต่กลัวเละ? ใช้ Delay" [ref=f1e3617] [cursor=pointer]:
+            - /url: "#b-0"
+          - 'link "Delay Sync: ผูกเวลากับจังหวะ" [ref=f1e3618] [cursor=pointer]':
+            - /url: "#b-1"
+          - link "p" [ref=f1e3619] [cursor=pointer]:
+            - /url: "#b-2"
+          - link "สูตร Delay เริ่มต้น (ปรับตามหู)" [ref=f1e3620] [cursor=pointer]:
+            - /url: "#b-3"
+          - 'link "ภาพจำลอง: Delay 3 แบบใน FL Studio" [ref=f1e3621] [cursor=pointer]':
+            - /url: "#b-4"
+          - 'link "Feedback และ Mix: สองปุ่มอันตราย" [ref=f1e3622] [cursor=pointer]':
+            - /url: "#b-5"
+          - link "p" [ref=f1e3623] [cursor=pointer]:
+            - /url: "#b-6"
+          - 'link "Ping-Pong: กว้างแบบไม่รกกลาง" [ref=f1e3624] [cursor=pointer]':
+            - /url: "#b-7"
+          - link "p" [ref=f1e3625] [cursor=pointer]:
+            - /url: "#b-8"
+          - link "Modulation 3 พี่น้อง" [ref=f1e3626] [cursor=pointer]:
+            - /url: "#b-9"
+          - link "Chorus / Flanger / Phaser ต่างกันอย่างไร" [ref=f1e3627] [cursor=pointer]:
+            - /url: "#b-10"
+          - link "p" [ref=f1e3628] [cursor=pointer]:
+            - /url: "#b-11"
+          - 'link "ทำให้ Delay สะอาด: EQ + Ducking แบบง่าย" [ref=f1e3629] [cursor=pointer]':
+            - /url: "#b-12"
+          - link "list" [ref=f1e3630] [cursor=pointer]:
+            - /url: "#b-13"
+          - link "ฝึกใน FL Studio (20 นาที)" [ref=f1e3631] [cursor=pointer]:
+            - /url: "#b-14"
+          - link "อย่าซ้อน Delay หลายเวลาพร้อมกันโดยไม่มีแผน" [ref=f1e3632] [cursor=pointer]:
+            - /url: "#b-15"
+          - link "ข้อผิดพลาดที่พบบ่อย" [ref=f1e3633] [cursor=pointer]:
+            - /url: "#b-16"
+          - link "ลองด้วยตัวเอง" [ref=f1e3634] [cursor=pointer]:
+            - /url: "#b-17"
+          - link "สรุปบทนี้" [ref=f1e3635] [cursor=pointer]:
+            - /url: "#b-18"
+        - article [ref=f1e3636]:
+          - heading "🎯 สิ่งที่จะได้รับ" [level=2] [ref=f1e3637]
+          - list [ref=f1e3638]:
+            - listitem [ref=f1e3639]: ตั้ง Delay แบบ Sync กับจังหวะ (1/4, 1/8 dotted, slapback) ได้
+            - listitem [ref=f1e3640]: ใช้ Ping-Pong และ Feedback สร้างความกว้างโดยไม่กลบคำร้องได้
+            - listitem [ref=f1e3641]: แยกบทบาท Chorus / Flanger / Phaser และใช้อย่างพอดีได้
+            - listitem [ref=f1e3642]: ทำ EQ และ ducking เบื้องต้นให้ Delay สะอาดได้
+          - generic [ref=f1e3643]:
+            - heading "อยากได้มิติแต่กลัวเละ? ใช้ Delay" [level=3] [ref=f1e3644]
+            - paragraph [ref=f1e3645]: Reverb คือละอองน้ำ Delay คือหยดน้ำเป็นเม็ดๆ โปรจำนวนมากใช้ Delay สร้างความลึกให้ร้องนำแทน Reverb เพราะคำยังชัดอยู่ บทนี้สอน Delay ตั้งแต่ slapback ยัน ping-pong และ modulation 3 พี่น้อง Chorus/Flanger/Phaser
+          - generic [ref=f1e3646]:
+            - figure "ภาพจำลองเพื่อการเรียนรู้ แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e3647]:
+              - img "แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e3648]:
+                - generic [ref=f1e3649]: WAVEFORM ก่อน ➜ หลัง (จำลอง)
+              - generic [ref=f1e3700]:
+                - generic [ref=f1e3701]: ภาพจำลองเพื่อการเรียนรู้
+                - text: แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้
+            - 'heading "Delay Sync: ผูกเวลากับจังหวะ" [level=2] [ref=f1e3702]'
+          - paragraph [ref=f1e3704]: "Delay ที่ไม่ sync กับ tempo จะตีกับจังหวะเพลง ฟังรก ให้เปิด Sync/Tempo mode แล้วเลือกโน้ต: 1/4 ตรงจังหวะปลอดภัย 1/8 dotted (จุดประ) ได้กรูฟวิ่งเพราะตกช่องว่างระหว่างบีต Slapback 80-140ms สั้นๆ แห้งๆ ได้อารมณ์ร็อกแอนด์โรล/ลูกทุ่งโดยไม่ลอย"
+          - generic [ref=f1e3705]:
+            - heading "สูตร Delay เริ่มต้น (ปรับตามหู)" [level=4] [ref=f1e3706]
+            - table [ref=f1e3707]:
+              - rowgroup [ref=f1e3708]:
+                - row [ref=f1e3709]:
+                  - columnheader "แบบ" [ref=f1e3710]
+                  - columnheader "Time / Note" [ref=f1e3711]
+                  - columnheader "Feedback / Mix (จุดเริ่ม)" [ref=f1e3712]
+              - rowgroup [ref=f1e3713]:
+                - row [ref=f1e3714]:
+                  - cell "Slapback ร็อก" [ref=f1e3715]
+                  - cell "90-130 ms (ไม่ต้อง sync)" [ref=f1e3716]
+                  - cell "Feedback 1 รอบ (0-10%), Mix 10-20%" [ref=f1e3717]
+                - row [ref=f1e3718]:
+                  - cell "Pop vocal ปลอดภัย" [ref=f1e3719]
+                  - cell "1/8 dotted + 1/4 ซ้อนสองตัว" [ref=f1e3720]
+                  - cell "Feedback 20-30%, Send -15dB" [ref=f1e3721]
+                - row [ref=f1e3722]:
+                  - cell "Ping-pong กว้าง" [ref=f1e3723]
+                  - cell "1/8 หรือ 1/4 dotted" [ref=f1e3724]
+                  - cell "Feedback 25-35%, spread 100%" [ref=f1e3725]
+                - row [ref=f1e3726]:
+                  - cell "Ambient ลอย" [ref=f1e3727]
+                  - cell "1/2 หรือ 1/1 + Reverb ต่อท้าย" [ref=f1e3728]
+                  - cell "Feedback 30-40% + HPF/LPF" [ref=f1e3729]
+          - generic [ref=f1e3731]:
+            - generic [ref=f1e3732]: ภาพจำลองเพื่อการเรียนรู้ ไม่ใช่ภาพหน้าจอจริงของ FL Studio
+            - strong [ref=f1e3733]: "🖥️ ภาพจำลอง: Delay 3 แบบใน FL Studio"
+            - paragraph [ref=f1e3734]: "[Fruity Delay 3] MODE: Tempo-synced | TIME: 1/8 dot | FEEDBACK: 28% | [Ping-Pong: L 1/8 / R 1/4 dot สลับซ้ายขวา] | [Slapback: Time 110ms / Feedback 1 repeat] กราฟแท่งสะท้อน: ปัง..ปัง..ปัง เบาลงทีละขั้นตาม Feedback"
+          - 'heading "Feedback และ Mix: สองปุ่มอันตราย" [level=2] [ref=f1e3736]'
+          - paragraph [ref=f1e3738]: "Feedback คือจำนวนรอบสะท้อน มากไปจะวิ่งไม่หยุดกลบเพลงทั้งท่อน Mix/Wet คือความดังของสะท้อน กฎปลอดภัย: เริ่ม Feedback 20-30% Mix/Send ต่ำๆ แล้วค่อยเพิ่ม ถ้าเสียงสะท้อนดังพอๆ กับเสียงจริง แปลว่ามากไปแล้ว (ยกเว้นตั้งใจทำเอฟเฟกต์ dub)"
+          - generic [ref=f1e3739]:
+            - figure "ภาพจำลองเพื่อการเรียนรู้ แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e3740]:
+              - img "แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e3741]:
+                - generic [ref=f1e3742]: WAVEFORM ก่อน ➜ หลัง (จำลอง)
+              - generic [ref=f1e3793]:
+                - generic [ref=f1e3794]: ภาพจำลองเพื่อการเรียนรู้
+                - text: แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้
+            - 'heading "Ping-Pong: กว้างแบบไม่รกกลาง" [level=2] [ref=f1e3795]'
+          - paragraph [ref=f1e3797]: "Ping-Pong โยนสะท้อนซ้าย-ขวาสลับกัน ทำให้รู้สึกกว้างโดยที่ตรงกลางยังว่างให้ร้องอยู่ เหมาะกับกีตาร์ลีด คีย์บอร์ด และเอฟเฟกต์เปลี่ยนท่อน จุดเริ่มต้น: note 1/8, feedback 25-35%, ฟังด้วยหูฟังจะชัดมาก ระวังอย่าใช้ ping-pong เร็วๆ กับหลายชิ้นพร้อมกัน จะเวียนหัว"
+          - heading "Modulation 3 พี่น้อง" [level=2] [ref=f1e3799]
+          - generic [ref=f1e3800]:
+            - heading "Chorus / Flanger / Phaser ต่างกันอย่างไร" [level=4] [ref=f1e3801]
+            - table [ref=f1e3802]:
+              - rowgroup [ref=f1e3803]:
+                - row [ref=f1e3804]:
+                  - columnheader "เอฟเฟกต์" [ref=f1e3805]
+                  - columnheader "หลักการสั้นๆ" [ref=f1e3806]
+                  - columnheader "เสียงและที่ใช้" [ref=f1e3807]
+              - rowgroup [ref=f1e3808]:
+                - row [ref=f1e3809]:
+                  - cell "Chorus" [ref=f1e3810]
+                  - cell "ก๊อปเสียง ดีเลย์สั้นมาก 10-30ms แล้ว detune นิดๆ" [ref=f1e3811]
+                  - 'cell "หนา นุ่ม กว้าง: กีตาร์คลีน เบส ซินธ์แพด (Rate ช้า Depth พอดี)" [ref=f1e3812]'
+                - row [ref=f1e3813]:
+                  - cell "Flanger" [ref=f1e3814]
+                  - cell "ดีเลย์สั้นมาก + sweep + feedback (เสียงเครื่องบิน)" [ref=f1e3815]
+                  - 'cell "วูบวาบพุ่ง: ใช้เป็นท่อนๆ ไม่แช่ทั้งเพลง" [ref=f1e3816]'
+                - row [ref=f1e3817]:
+                  - cell "Phaser" [ref=f1e3818]
+                  - cell "กรองเฟสหลายขั้นแล้ว sweep (เสียงหมุนวน)" [ref=f1e3819]
+                  - 'cell "หมุน ลอย: กีตาร์ funk คีย์บอร์ด Rhodes แพด" [ref=f1e3820]'
+          - paragraph [ref=f1e3822]: "ใน FL Studio: Fruity Chorus, Fruity Flanger, Fruity Phaser อยู่ใน Effect ได้เลย เคล็ดลับคือใช้น้อยกว่าที่คิด Chorus Mix 15-30% ก็หนาแล้ว Flanger/Phaser ใช้เป็น automation เปิดเฉพาะท่อนจะว้าวกว่าแช่ทั้งเพลง"
+          - 'heading "ทำให้ Delay สะอาด: EQ + Ducking แบบง่าย" [level=2] [ref=f1e3824]'
+          - generic [ref=f1e3825]:
+            - heading [level=4]
+            - list [ref=f1e3826]:
+              - listitem [ref=f1e3827]: "HPF 300-500Hz + LPF 4-6kHz ที่ delay return: สะท้อนจะนุ่ม ไม่ตีกับเบสและเสียง S"
+              - listitem [ref=f1e3828]: ลด Feedback ช่วงท่อนร้องถี่ เพิ่มช่วงท้ายท่อน (automation) ให้หางโผล่เฉพาะช่องว่าง
+              - listitem [ref=f1e3829]: "Ducking แบบง่าย: ใส่ Fruity Limiter ที่ delay bus กด sidechain จากร้อง (หรือวาด automation ลด send ตอนร้องดัง) ให้สะท้อนหลบเสียงร้อง"
+              - listitem [ref=f1e3830]: "Slapback ไม่ต้องมีหางยาว: feedback รอบเดียวพอ ถ้ายาวจะกลายเป็น echo รก"
+          - generic [ref=f1e3831]:
+            - heading "ฝึกใน FL Studio (20 นาที)" [level=4] [ref=f1e3832]
+            - list [ref=f1e3833]:
+              - listitem [ref=f1e3834]: "ร้องหรือลีด: สร้าง Delay bus ใส่ Fruity Delay 3 ตั้ง 1/8 dotted feedback 25% + EQ HPF 400Hz"
+              - listitem [ref=f1e3835]: "กีตาร์/คีย์บอร์ด: สร้างอีก bus เป็น Ping-pong 1/8 ฟังเทียบกับ Reverb ว่าอันไหนชัดกว่า"
+              - listitem [ref=f1e3836]: "ลอง Chorus กับกีตาร์คลีน: Rate ช้าๆ Depth 30-40% Mix 20% ฟังความหนา"
+              - listitem [ref=f1e3837]: วาด automation เปิด Flanger เฉพาะ 2 ห้องก่อนเข้าฮุก แล้วปิด จะรู้สึกเพลงมีจุดพีค
+          - generic [ref=f1e3839]:
+            - strong [ref=f1e3840]: ⚠️ อย่าซ้อน Delay หลายเวลาพร้อมกันโดยไม่มีแผน
+            - paragraph [ref=f1e3841]: Slapback + 1/8 + 1/4 + Reverb ยาวบนร้องตัวเดียว = คำตีกันเละ ให้เลือกพระเอก 1 ตัว (เช่น dotted 8th) ที่เหลือเป็นตัวประกอบเบาๆ หรือ mute ไปเลย Less is more ใช้ได้จริงกับ Delay
+          - generic [ref=f1e3843]:
+            - strong [ref=f1e3844]: 💥 ข้อผิดพลาดที่พบบ่อย
+            - list [ref=f1e3845]:
+              - listitem [ref=f1e3846]: Delay ไม่ sync tempo ทำให้สะท้อนตกคร่อมจังหวะ
+              - listitem [ref=f1e3847]: Feedback เกิน 45% กับเพลงเร็ว ทำให้หางวิ่งทับท่อนถัดไป
+              - listitem [ref=f1e3848]: แช่ Flanger/Phaser ทั้งเพลงจนหูล้า แทนที่จะใช้เป็นเอฟเฟกต์เฉพาะจุด
+          - generic [ref=f1e3850]:
+            - strong [ref=f1e3851]: ✏️ ลองด้วยตัวเอง
+            - paragraph [ref=f1e3852]: เอาเพลงที่เคยใส่ Reverb หนักๆ ลอง mute Reverb ร้องแล้วใช้ dotted-8th delay แทน ฟังว่าคำร้องชัดขึ้นแต่ยังมีมิติไหม แล้วค่อยเติม Reverb สั้นๆ กลับไปนิดเดียว
+          - generic [ref=f1e3853]:
+            - generic [ref=f1e3854]:
+              - strong [ref=f1e3855]: 📌 สรุปบทนี้
+              - paragraph [ref=f1e3856]: Delay = มิติแบบคำยังชัด เริ่มที่ sync note (slapback 90-130ms / dotted-8th / ping-pong 1/8) feedback 20-30% EQ return ให้แคบ (HPF 300Hz+) Chorus หนา Flanger/Phaser ใช้เป็นจุดๆ อย่าแช่
+            - 'button "💡 Myth vs Fact: Myth: multiband แก้ได้ทุกอย่าง" [ref=f1e3858] [cursor=pointer]'
+          - heading "💡 เกร็ดความรู้ประจำบท (1)" [level=2] [ref=f1e3859]
+          - 'button "รู้ไหม? Myth: multiband แก้ได้ทุกอย่าง" [ref=f1e3861] [cursor=pointer]'
+          - heading "📝 แบบทดสอบท้ายบท (2 ข้อ)" [level=2] [ref=f1e3862]
+          - generic [ref=f1e3863]:
+            - generic [ref=f1e3864]:
+              - strong [ref=f1e3865]: ข้อ 1. เสียงสแนร์มีเสียงฉาบรั่วเข้ามาดัง แต่หางสแนร์ยังอยากเก็บไว้ ควรใช้?
+              - generic [ref=f1e3866]: วิเคราะห์สถานการณ์
+              - generic [ref=f1e3867]:
+                - button "Gate ที่ threshold สูงๆ ตัดทิ้งหมด" [ref=f1e3868] [cursor=pointer]
+                - button "Expander ลงนุ่มๆ หรือ gate attack/release นุ่ม เพื่อลดฉาบโดยยังเหลือหางสแนร์" [ref=f1e3869] [cursor=pointer]
+                - button "บูสต์แหลมสแนร์เพิ่ม" [ref=f1e3870] [cursor=pointer]
+                - button "ลบแทร็กสแนร์ทิ้ง" [ref=f1e3871] [cursor=pointer]
+            - generic [ref=f1e3872]:
+              - strong [ref=f1e3873]: ข้อ 2. Maximus เหมาะกับงานใดที่สุด?
+              - generic [ref=f1e3874]: ตัวเลือก
+              - generic [ref=f1e3875]:
+                - button "วัด LUFS" [ref=f1e3876] [cursor=pointer]
+                - button "ประมวลผลแบบ multiband (กด/ขยายแยกย่าน) ทั้งมิกซ์และมาสเตอร์" [ref=f1e3877] [cursor=pointer]
+                - button "เขียน automation" [ref=f1e3878] [cursor=pointer]
+                - button "ตั้ง tempo" [ref=f1e3879] [cursor=pointer]
+            - button "ส่งคำตอบ (0/2)" [ref=f1e3880] [cursor=pointer]
+          - heading "📚 อ่านต่อ & อ้างอิง" [level=2] [ref=f1e3881]
+          - list [ref=f1e3882]:
+            - listitem [ref=f1e3883]: "FL Studio Manual: Fruity Delay 3"
+            - listitem [ref=f1e3884]: "Sound On Sound: Tempo-synced delays"
+            - listitem [ref=f1e3885]: Produce Like A Pro — Vocal delay tricks
+          - generic [ref=f1e3886]:
+            - link "◀ ชนิด Reverb, Send Bus และ EQ ที่ Return" [ref=f1e3887] [cursor=pointer]:
+              - /url: "#/lesson/d5l2"
+            - link "ความกว้าง ความเข้ากันโมโน และ Haas ▶" [ref=f1e3888] [cursor=pointer]:
+              - /url: "#/lesson/d5l4"
+          - paragraph [ref=f1e3889]:
+            - text: "สไลด์ Day 5:"
+            - link "เปิดห้องสไลด์ (14 หน้า)" [ref=f1e3890] [cursor=pointer]:
+              - /url: "#/slides/5"
+            - text: "• เกร็ดทั้งหมดของวัน: 6 รายการ"
+  - contentinfo [ref=f1e445]:
+    - generic [ref=f1e446]:
+      - strong [ref=f1e447]: MIXLAB
+      - generic [ref=f1e448]: ห้องเรียน Mix & Mastering ภาษาไทย • FL Studio 25 • ภาพ UI ที่วาดใหม่เป็น “ภาพจำลองเพื่อการเรียนรู้” ไม่ใช่ภาพหน้าจอจริงของ Image-Line
+      - generic [ref=f1e449]: ความถูกต้องของความรู้ > คุณภาพการสอน > ใช้งานได้ > สวยงาม

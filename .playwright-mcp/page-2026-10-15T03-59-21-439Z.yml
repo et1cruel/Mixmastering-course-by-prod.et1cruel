@@ -1,0 +1,220 @@
+- generic [ref=f1e2]:
+  - navigation "เมนูหลัก" [ref=f1e3]:
+    - generic [ref=f1e4]:
+      - link "MIXLAB MIX & MASTERING ACADEMY" [ref=f1e5] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f1e6]: MIXLAB
+        - generic [ref=f1e7]: MIX & MASTERING ACADEMY
+      - generic [ref=f1e8]:
+        - link "หน้าแรก" [ref=f1e9] [cursor=pointer]:
+          - /url: "#/"
+        - link "แดชบอร์ด" [ref=f1e10] [cursor=pointer]:
+          - /url: "#/dashboard"
+        - link "หลักสูตร 7 วัน" [ref=f1e11] [cursor=pointer]:
+          - /url: "#/curriculum"
+        - link "Sound Lab" [ref=f1e12] [cursor=pointer]:
+          - /url: "#/lab"
+        - link "พจนานุกรม" [ref=f1e13] [cursor=pointer]:
+          - /url: "#/glossary"
+        - link "อ้างอิง" [ref=f1e14] [cursor=pointer]:
+          - /url: "#/references"
+      - generic [ref=f1e15]:
+        - button "🎓 Teacher" [ref=f1e16] [cursor=pointer]
+        - button "▶ เคลื่อนไหว" [ref=f1e17] [cursor=pointer]
+  - generic [ref=f1e19]: MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK • MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK •
+  - main [ref=f1e5105]:
+    - generic [ref=f1e5106]:
+      - link "◀ หลักสูตร" [ref=f1e5107] [cursor=pointer]:
+        - /url: "#/curriculum"
+      - generic [ref=f1e5108]: DAY 6
+      - generic [ref=f1e5109]: Intermediate
+      - generic [ref=f1e5110]: 30 นาที
+      - heading "Reference, Mono, Translation และ Versioning" [level=1] [ref=f1e5111]
+      - paragraph [ref=f1e5112]: Reference, Mono, Translation and Versioning
+      - generic [ref=f1e5113]:
+        - button "☐ ทำเครื่องหมายว่าเรียนจบแล้ว" [ref=f1e5114] [cursor=pointer]
+        - button "☆ บันทึกบทเรียน" [ref=f1e5115] [cursor=pointer]
+        - link "⛶ สไลด์ Day 6" [ref=f1e5116] [cursor=pointer]:
+          - /url: "#/slides/6"
+        - button "🖨 Print / PDF" [ref=f1e5117] [cursor=pointer]
+      - generic [ref=f1e5118]:
+        - complementary "สารบัญ" [ref=f1e5119]:
+          - strong [ref=f1e5120]: สารบัญ
+          - link "มิกซ์เสร็จในห้อง แต่พังนอกห้อง?" [ref=f1e5121] [cursor=pointer]:
+            - /url: "#b-0"
+          - 'link "Reference: กระจกของมิกซ์" [ref=f1e5122] [cursor=pointer]':
+            - /url: "#b-1"
+          - link "p" [ref=f1e5123] [cursor=pointer]:
+            - /url: "#b-2"
+          - link "วิธีเทียบ Reference ใน FL Studio" [ref=f1e5124] [cursor=pointer]:
+            - /url: "#b-3"
+          - 'link "Mono + Phase: ด่านบังคับก่อนส่ง" [ref=f1e5125] [cursor=pointer]':
+            - /url: "#b-4"
+          - link "เช็กลิสต์โมโน/เฟส (ทำทุกครั้ง)" [ref=f1e5126] [cursor=pointer]:
+            - /url: "#b-5"
+          - 'link "Translation: ให้รอดทุกลำโพง" [ref=f1e5127] [cursor=pointer]':
+            - /url: "#b-6"
+          - link "p" [ref=f1e5128] [cursor=pointer]:
+            - /url: "#b-7"
+          - link "list" [ref=f1e5129] [cursor=pointer]:
+            - /url: "#b-8"
+          - 'link "ภาพจำลอง: เมทริกซ์เช็ก Translation" [ref=f1e5130] [cursor=pointer]':
+            - /url: "#b-9"
+          - 'link "Ear Fatigue: หูล้าแล้วตัดสินใจเพี้ยน" [ref=f1e5131] [cursor=pointer]':
+            - /url: "#b-10"
+          - link "list" [ref=f1e5132] [cursor=pointer]:
+            - /url: "#b-11"
+          - link "Versioning + Export ส่งมาสเตอริง" [ref=f1e5133] [cursor=pointer]:
+            - /url: "#b-12"
+          - link "list" [ref=f1e5134] [cursor=pointer]:
+            - /url: "#b-13"
+          - link "อย่าส่งไฟล์ MP3 หรือไฟล์ที่ limiter แบนให้คนมาสเตอริง" [ref=f1e5135] [cursor=pointer]:
+            - /url: "#b-14"
+          - link "ตัวอย่างโน้ตส่งมาสเตอริง" [ref=f1e5136] [cursor=pointer]:
+            - /url: "#b-15"
+          - link "ข้อผิดพลาดที่พบบ่อย" [ref=f1e5137] [cursor=pointer]:
+            - /url: "#b-16"
+          - link "ลองด้วยตัวเอง" [ref=f1e5138] [cursor=pointer]:
+            - /url: "#b-17"
+          - link "สรุปบทนี้" [ref=f1e5139] [cursor=pointer]:
+            - /url: "#b-18"
+        - article [ref=f1e5140]:
+          - heading "🎯 สิ่งที่จะได้รับ" [level=2] [ref=f1e5141]
+          - list [ref=f1e5142]:
+            - listitem [ref=f1e5143]: ใช้ reference track เทียบอย่างถูกวิธี (level-matched) ได้
+            - listitem [ref=f1e5144]: เช็กโมโนและเฟสก่อนจบมิกซ์ได้
+            - listitem [ref=f1e5145]: เช็ก translation (หูฟัง ลำโพงเล็ก รถยนต์) และแก้ได้
+            - listitem [ref=f1e5146]: จัดการเวอร์ชันและ export สำหรับส่งมาสเตอริงได้ถูก
+            - listitem [ref=f1e5147]: รับมือ ear fatigue (หูล้า) อย่างถูกวิธี
+          - generic [ref=f1e5148]:
+            - heading "มิกซ์เสร็จในห้อง แต่พังนอกห้อง?" [level=3] [ref=f1e5149]
+            - paragraph [ref=f1e5150]: "โรคประจำตัวมือใหม่: ในหูฟังเพราะ ออกมือถือพัง ออกรถเบสบวม บทนี้คือระบบ QC ก่อนส่งงาน: เทียบ reference เช็กโมโน เช็กหลายลำโพง และจัดการเวอร์ชันให้ไม่หลง นี่คือบทที่ทำให้งานส่งลูกค้าได้จริง"
+          - generic [ref=f1e5151]:
+            - figure "ภาพจำลองเพื่อการเรียนรู้ แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e5152]:
+              - img "แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e5153]:
+                - generic [ref=f1e5154]: WAVEFORM ก่อน ➜ หลัง (จำลอง)
+              - generic [ref=f1e5205]:
+                - generic [ref=f1e5206]: ภาพจำลองเพื่อการเรียนรู้
+                - text: แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้
+            - 'heading "Reference: กระจกของมิกซ์" [level=2] [ref=f1e5207]'
+          - paragraph [ref=f1e5209]: Reference track คือเพลงที่ซาวด์ใกล้เคียงที่เอามาเทียบ ไม่ใช่เพื่อลอก แต่เพื่อกันหลงทาง (เบสเยอะไป? แหลมน้อยไป? ร้องจมไป?) วิธีถูกคือปรับ reference ให้ดังเท่าเพลงเรา (level-match) แล้วสลับฟังท่อนต่อท่อน ถ้า reference ดังกว่า มันจะฟังดีกว่าเสมอโดยไม่เกี่ยวกับคุณภาพ
+          - generic [ref=f1e5210]:
+            - heading "วิธีเทียบ Reference ใน FL Studio" [level=4] [ref=f1e5211]
+            - list [ref=f1e5212]:
+              - listitem [ref=f1e5213]: ลากไฟล์ reference (WAV/MP3) ลง playlist แทร็กแยก ส่งตรงออก master (bypass master chain ของเรา)
+              - listitem [ref=f1e5214]: ใส่ Fruity Balance หรือ Fruity Limiter แค่ลดวอลลุ่ม reference ให้ดังเท่าเพลงเรา (ฟัง LUFS คร่าวๆ หรือใช้หู)
+              - listitem [ref=f1e5215]: "สลับ solo เพลงเรา vs reference ทีละท่อน: verse เทียบ verse, hook เทียบ hook"
+              - listitem [ref=f1e5216]: "จด 3 อย่างที่ต่าง: โลว์/กลาง/แหลม + ความชัดร้อง + ความกว้าง แล้วแก้ทีละอย่าง"
+              - listitem [ref=f1e5217]: อย่าแต่งตาม reference ทั้งเพลง เลือกแก้แค่จุดที่เพลงเราด้อยกว่าชัดเจน
+          - generic [ref=f1e5218]:
+            - figure "ภาพจำลองเพื่อการเรียนรู้ แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e5219]:
+              - img "แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e5220]:
+                - generic [ref=f1e5221]: WAVEFORM ก่อน ➜ หลัง (จำลอง)
+              - generic [ref=f1e5272]:
+                - generic [ref=f1e5273]: ภาพจำลองเพื่อการเรียนรู้
+                - text: แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้
+            - 'heading "Mono + Phase: ด่านบังคับก่อนส่ง" [level=2] [ref=f1e5274]'
+          - generic [ref=f1e5275]:
+            - heading "เช็กลิสต์โมโน/เฟส (ทำทุกครั้ง)" [level=4] [ref=f1e5276]
+            - list [ref=f1e5277]:
+              - listitem [ref=f1e5278]: "กด mono ที่ master: ร้อง คิก สแนร์ เบส ต้องยังอยู่ครบ ไม่หายวูบ"
+              - listitem [ref=f1e5279]: "ฟังเสียงกลวง/บาง (comb filtering): ถ้ามี ให้ลด widener/Haas/detune ตัวนั้น"
+              - listitem [ref=f1e5280]: "เช็กโลว์ใน mono: ถ้าเบสหายใน mono แปลว่าเฟสช่วงต่ำมีปัญหา ต้องแก้ก่อนส่ง"
+              - listitem [ref=f1e5281]: ปลดกลับสเตอริโอและเซฟ (อย่า export ค้าง mono!)
+          - 'heading "Translation: ให้รอดทุกลำโพง" [level=2] [ref=f1e5283]'
+          - paragraph [ref=f1e5285]: "Translation คือความสามารถที่มิกซ์ฟังดีใกล้เคียงกันทุกระบบ วิธีเช็ก: หูฟังหลัก ลำโพง/มือถือเครื่องเล็ก (เช็กร้องกับกรูฟ) รถยนต์ (เช็กเบส) และเปิดเบาๆ (เช็กว่ายังรู้เรื่องไหม) ถ้าเบสบวมในรถ ให้กลับมาเช็ก 100-250Hz ถ้าร้องหายในมือถือ ให้เช็ก 2-5kHz"
+          - generic [ref=f1e5286]:
+            - heading [level=4]
+            - list [ref=f1e5287]:
+              - listitem [ref=f1e5288]: "เช็กเบา (conversation level): พระเอกต้องยังชัด ถ้าต้องเร่งถึงรู้เรื่อง balance ผิด"
+              - listitem [ref=f1e5289]: "เช็กดัง 1 รอบสั้นๆ: หาจุดบาด/ resonance ที่เสียงเบาไม่ได้ยิน"
+              - listitem [ref=f1e5290]: "เช็กหูฟังถูกๆ หรือลำโพงมือถือ: คนฟังส่วนใหญ่ฟังแบบนี้"
+              - listitem [ref=f1e5291]: จดโน้ตแล้วกลับมาแก้ที่หูฟังหลักทีเดียว อย่าแก้บนลำโพงที่คุ้นหูน้อย
+          - generic [ref=f1e5293]:
+            - generic [ref=f1e5294]: ภาพจำลองเพื่อการเรียนรู้ ไม่ใช่ภาพหน้าจอจริงของ FL Studio
+            - strong [ref=f1e5295]: "🖥️ ภาพจำลอง: เมทริกซ์เช็ก Translation"
+            - paragraph [ref=f1e5296]: "[ตาราง 4 ช่อง: หูฟังหลัก=สมดุลรวม / มือถือ=ร้อง+กรูฟชัดไหม / รถ=เบสบวมไหม / เปิดเบา=ยังรู้เรื่องไหม] ผ่าน 4 ช่อง = ส่งได้ ตกช่องไหนแก้ตรงนั้นแล้ววนกลับมาเช็กใหม่"
+          - generic [ref=f1e5297]:
+            - figure "ภาพจำลองเพื่อการเรียนรู้ แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e5298]:
+              - img "แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e5299]:
+                - generic [ref=f1e5300]: WAVEFORM ก่อน ➜ หลัง (จำลอง)
+              - generic [ref=f1e5351]:
+                - generic [ref=f1e5352]: ภาพจำลองเพื่อการเรียนรู้
+                - text: แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้
+            - 'heading "Ear Fatigue: หูล้าแล้วตัดสินใจเพี้ยน" [level=2] [ref=f1e5353]'
+          - generic [ref=f1e5354]:
+            - heading [level=4]
+            - list [ref=f1e5355]:
+              - listitem [ref=f1e5356]: "อาการ: เปิดแหลมเพิ่มเรื่อยๆ เร่งเสียงขึ้นเรื่อยๆ ฟังอะไรก็เหมือนกันหมด"
+              - listitem [ref=f1e5357]: "กฎ 90/15: มิกซ์ 90 นาที พัก 15 นาที ออกไปเงียบๆ ไม่ใส่หูฟังต่อ"
+              - listitem [ref=f1e5358]: "ลดเสียงมอนิเตอร์: มิกซ์ที่ 75-80dB SPL (คุยกันรู้เรื่อง) หูล้าน้อยกว่าและ balance แม่นกว่า"
+              - listitem [ref=f1e5359]: "ห้ามตัดสินใจสุดท้ายตอนดึกเหนื่อยๆ: bounce ไว้ ฟังใหม่พรุ่งนี้เช้า 10 นาทีดีกว่าแก้ 3 ชั่วโมงตอนตีสอง"
+          - heading "Versioning + Export ส่งมาสเตอริง" [level=2] [ref=f1e5361]
+          - generic [ref=f1e5362]:
+            - heading [level=4]
+            - list [ref=f1e5363]:
+              - listitem [ref=f1e5364]: "ตั้งชื่อเวอร์ชัน: เพลง_Mix_v1_2026-10-15, v2, v3… อย่าใช้ชื่อ final-final2"
+              - listitem [ref=f1e5365]: ทุกเวอร์ชัน bounce เก็บ + จดโน้ตว่าแก้อะไร (ไว้ย้อนกลับได้)
+              - listitem [ref=f1e5366]: "Export ส่งมาสเตอริง: WAV 24-bit (หรือ 32-bit float) sample rate เท่า session, ไม่ dither, ไม่ limiter/normalize ที่ master, พีค -6 ถึง -3dBFS"
+              - listitem [ref=f1e5367]: "ส่งพร้อม: 1 ไฟล์มิกซ์ + 1 ไฟล์ reference ความดังที่อยากได้ + โน้ต (tempo, ปัญหาที่รู้, อยากได้โทนไหน)"
+          - generic [ref=f1e5369]:
+            - strong [ref=f1e5370]: ⚠️ อย่าส่งไฟล์ MP3 หรือไฟล์ที่ limiter แบนให้คนมาสเตอริง
+            - paragraph [ref=f1e5371]: MP3 ตัดข้อมูลไปแล้ว มาสเตอริงแก้ต่อยาก ส่วนไฟล์ที่ limiter กดแบนมาแล้วจะขยับต่อไม่ได้ ถ้าอยากได้ดัง ให้ส่ง reference แยกไปบอกว่า "อยากได้ดังประมาณนี้" แต่ไฟล์มิกซ์ต้องมี headroom เหลือ
+          - generic [ref=f1e5373]:
+            - strong [ref=f1e5374]: 🎧 ตัวอย่างโน้ตส่งมาสเตอริง
+            - paragraph [ref=f1e5375]: "\"เพลง: ใจกลางเมือง_Mix_v3.wav (24-bit/48kHz, peak -5dBFS) | Ref loudness: เพลง X | โน้ต: ท่อน bridge ตั้งใจให้ดรอป อย่าดันดังเท่า hook / สแนร์มี resonance ที่แก้ไม่หมด ฝากดู / อยากได้โทนอุ่น ไม่เอาแหลมจัด\""
+          - generic [ref=f1e5377]:
+            - strong [ref=f1e5378]: 💥 ข้อผิดพลาดที่พบบ่อย
+            - list [ref=f1e5379]:
+              - listitem [ref=f1e5380]: เทียบ reference โดยไม่ level-match แล้วท้อว่าเพลงตัวเองแย่
+              - listitem [ref=f1e5381]: export ค้าง mono หรือค้าง solo/solo bus แล้วส่งลูกค้า
+              - listitem [ref=f1e5382]: ไม่มีเวอร์ชันย้อนกลับ ลูกค้าขอ "เอาอันเมื่อวาน" แล้วไม่มีให้
+          - generic [ref=f1e5384]:
+            - strong [ref=f1e5385]: ✏️ ลองด้วยตัวเอง
+            - paragraph [ref=f1e5386]: "ทำ QC รอบเต็มกับเพลงหนึ่ง: level-match reference 1 เพลง เช็ก mono เช็กมือถือ 1 เครื่อง เช็กเปิดเบา แล้ว export mix-for-mastering ตามสเปกข้างบน เก็บเป็น v1 พร้อมโน้ต"
+          - generic [ref=f1e5387]:
+            - generic [ref=f1e5388]:
+              - strong [ref=f1e5389]: 📌 สรุปบทนี้
+              - paragraph [ref=f1e5390]: เทียบ reference แบบดังเท่า เช็ก mono ทุกครั้ง เช็ก 4 ระบบ (หลัก/มือถือ/รถ/เปิดเบา) พักหูตามกฎ 90/15 และส่งมาสเตอริงเป็น WAV 24-bit ไม่ limiter พีค -6 ถึง -3dBFS พร้อมโน้ต
+            - 'button "💡 Try It Yourself: Export มาสเตอร์แรกให้ถูกสเปก" [ref=f1e5392] [cursor=pointer]'
+          - heading "💡 เกร็ดความรู้ประจำบท (1)" [level=2] [ref=f1e5393]
+          - button "รู้ไหม? Export มาสเตอร์แรกให้ถูกสเปก" [ref=f1e5395] [cursor=pointer]
+          - heading "📝 แบบทดสอบท้ายบท (2 ข้อ)" [level=2] [ref=f1e5396]
+          - generic [ref=f1e5397]:
+            - generic [ref=f1e5398]:
+              - strong [ref=f1e5399]: ข้อ 1. Dithering ควรใช้เมื่อใด?
+              - generic [ref=f1e5400]: ตัวเลือก
+              - generic [ref=f1e5401]:
+                - button "ทุกครั้งที่ export" [ref=f1e5402] [cursor=pointer]
+                - button "เมื่อลด bit depth (เช่น 24-bit → 16-bit) เพื่อกลบ quantization distortion ด้วย noise เบาๆ" [ref=f1e5403] [cursor=pointer]
+                - button "เมื่อเปลี่ยน sample rate ขึ้น" [ref=f1e5404] [cursor=pointer]
+                - button "เมื่ออัปโหลดขึ้นสตรีมมิง" [ref=f1e5405] [cursor=pointer]
+            - generic [ref=f1e5406]:
+              - strong [ref=f1e5407]: ข้อ 2. จะส่งมาสเตอร์ขึ้นสตรีมมิง ควรตั้งค่า export อย่างไร?
+              - generic [ref=f1e5408]: วิเคราะห์สถานการณ์
+              - generic [ref=f1e5409]:
+                - button "WAV 44.1kHz/16-bit พร้อม dither, True Peak ไม่เกิน -1 dBTP" [ref=f1e5410] [cursor=pointer]
+                - button "MP3 128kbps พีค 0.0 dB" [ref=f1e5411] [cursor=pointer]
+                - button "WAV 192kHz 32-bit ส่งขึ้นตรง" [ref=f1e5412] [cursor=pointer]
+                - button "อะไรก็ได้เพราะแพลตฟอร์มแก้ให้เอง" [ref=f1e5413] [cursor=pointer]
+            - button "ส่งคำตอบ (0/2)" [ref=f1e5414] [cursor=pointer]
+          - heading "📚 อ่านต่อ & อ้างอิง" [level=2] [ref=f1e5415]
+          - list [ref=f1e5416]:
+            - listitem [ref=f1e5417]: "Mike Senior: Mixing Secrets Ch. Referencing/Monitoring"
+            - listitem [ref=f1e5418]: "FL Studio Manual: Export audio"
+            - listitem [ref=f1e5419]: "iZotope: Preparing mixes for mastering"
+          - generic [ref=f1e5420]:
+            - link "◀ ไดนามิก มิติ และ Automation ในมิกซ์รวม" [ref=f1e5421] [cursor=pointer]:
+              - /url: "#/lesson/d6l3"
+            - link "มาสเตอริงคืออะไร และเช็กพรีมาสเตอร์ ▶" [ref=f1e5422] [cursor=pointer]:
+              - /url: "#/lesson/d7l1"
+          - paragraph [ref=f1e5423]:
+            - text: "สไลด์ Day 6:"
+            - link "เปิดห้องสไลด์ (14 หน้า)" [ref=f1e5424] [cursor=pointer]:
+              - /url: "#/slides/6"
+            - text: "• เกร็ดทั้งหมดของวัน: 6 รายการ"
+  - contentinfo [ref=f1e445]:
+    - generic [ref=f1e446]:
+      - strong [ref=f1e447]: MIXLAB
+      - generic [ref=f1e448]: ห้องเรียน Mix & Mastering ภาษาไทย • FL Studio 25 • ภาพ UI ที่วาดใหม่เป็น “ภาพจำลองเพื่อการเรียนรู้” ไม่ใช่ภาพหน้าจอจริงของ Image-Line
+      - generic [ref=f1e449]: ความถูกต้องของความรู้ > คุณภาพการสอน > ใช้งานได้ > สวยงาม

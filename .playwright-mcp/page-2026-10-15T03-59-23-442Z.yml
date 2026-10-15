@@ -1,0 +1,237 @@
+- generic [ref=f1e2]:
+  - navigation "เมนูหลัก" [ref=f1e3]:
+    - generic [ref=f1e4]:
+      - link "MIXLAB MIX & MASTERING ACADEMY" [ref=f1e5] [cursor=pointer]:
+        - /url: "#/"
+        - generic [ref=f1e6]: MIXLAB
+        - generic [ref=f1e7]: MIX & MASTERING ACADEMY
+      - generic [ref=f1e8]:
+        - link "หน้าแรก" [ref=f1e9] [cursor=pointer]:
+          - /url: "#/"
+        - link "แดชบอร์ด" [ref=f1e10] [cursor=pointer]:
+          - /url: "#/dashboard"
+        - link "หลักสูตร 7 วัน" [ref=f1e11] [cursor=pointer]:
+          - /url: "#/curriculum"
+        - link "Sound Lab" [ref=f1e12] [cursor=pointer]:
+          - /url: "#/lab"
+        - link "พจนานุกรม" [ref=f1e13] [cursor=pointer]:
+          - /url: "#/glossary"
+        - link "อ้างอิง" [ref=f1e14] [cursor=pointer]:
+          - /url: "#/references"
+      - generic [ref=f1e15]:
+        - button "🎓 Teacher" [ref=f1e16] [cursor=pointer]
+        - button "▶ เคลื่อนไหว" [ref=f1e17] [cursor=pointer]
+  - generic [ref=f1e19]: MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK • MIX • SHAPE • MASTER • LEARN • FL STUDIO 25 • GAIN STAGING • EQ • COMPRESSION • REVERB • STEREO • LUFS • TRUE PEAK •
+  - main [ref=f1e5688]:
+    - generic [ref=f1e5689]:
+      - link "◀ หลักสูตร" [ref=f1e5690] [cursor=pointer]:
+        - /url: "#/curriculum"
+      - generic [ref=f1e5691]: DAY 7
+      - generic [ref=f1e5692]: Advanced
+      - generic [ref=f1e5693]: 35 นาที
+      - 'heading "เชนมาสเตอร์: EQ กาว Saturation สเตอริโอ" [level=1] [ref=f1e5694]'
+      - paragraph [ref=f1e5695]: "Master Chain: EQ, Glue, Saturation and Stereo"
+      - generic [ref=f1e5696]:
+        - button "☐ ทำเครื่องหมายว่าเรียนจบแล้ว" [ref=f1e5697] [cursor=pointer]
+        - button "☆ บันทึกบทเรียน" [ref=f1e5698] [cursor=pointer]
+        - link "⛶ สไลด์ Day 7" [ref=f1e5699] [cursor=pointer]:
+          - /url: "#/slides/7"
+        - button "🖨 Print / PDF" [ref=f1e5700] [cursor=pointer]
+      - generic [ref=f1e5701]:
+        - complementary "สารบัญ" [ref=f1e5702]:
+          - strong [ref=f1e5703]: สารบัญ
+          - link "เชนมาสเตอร์ที่ดีคือเชนที่สั้น" [ref=f1e5704] [cursor=pointer]:
+            - /url: "#b-0"
+          - link "ลำดับเชนมาตรฐาน" [ref=f1e5705] [cursor=pointer]:
+            - /url: "#b-1"
+          - link "Master chain 5 ขั้น" [ref=f1e5706] [cursor=pointer]:
+            - /url: "#b-2"
+          - 'link "ขั้น 1: Master EQ (ขยับน้อยแต่ได้ยิน)" [ref=f1e5707] [cursor=pointer]':
+            - /url: "#b-3"
+          - link "list" [ref=f1e5708] [cursor=pointer]:
+            - /url: "#b-4"
+          - 'link "ขั้น 2: Glue Compressor" [ref=f1e5709] [cursor=pointer]':
+            - /url: "#b-5"
+          - link "p" [ref=f1e5710] [cursor=pointer]:
+            - /url: "#b-6"
+          - 'link "ขั้น 3: Saturation (ความอุ่นที่ EQ ให้ไม่ได้)" [ref=f1e5711] [cursor=pointer]':
+            - /url: "#b-7"
+          - link "p" [ref=f1e5712] [cursor=pointer]:
+            - /url: "#b-8"
+          - 'link "ภาพจำลอง: เชนมาสเตอร์ใน Mixer" [ref=f1e5713] [cursor=pointer]':
+            - /url: "#b-9"
+          - 'link "ขั้น 4: สเตอริโอภาพรวมแบบปลอดภัย" [ref=f1e5714] [cursor=pointer]':
+            - /url: "#b-10"
+          - link "list" [ref=f1e5715] [cursor=pointer]:
+            - /url: "#b-11"
+          - link "อย่าซ้อนของแรงหลายตัว" [ref=f1e5716] [cursor=pointer]:
+            - /url: "#b-12"
+          - link "ตัวอย่างเชนเพลงป๊อป (จุดเริ่ม)" [ref=f1e5717] [cursor=pointer]:
+            - /url: "#b-13"
+          - link "ข้อผิดพลาดที่พบบ่อย" [ref=f1e5718] [cursor=pointer]:
+            - /url: "#b-14"
+          - 'link "ก่อน-หลัง: มาสเตอร์แบบพอดี" [ref=f1e5719] [cursor=pointer]':
+            - /url: "#b-15"
+          - link "ลองด้วยตัวเอง" [ref=f1e5720] [cursor=pointer]:
+            - /url: "#b-16"
+          - link "สรุปบทนี้" [ref=f1e5721] [cursor=pointer]:
+            - /url: "#b-17"
+        - article [ref=f1e5722]:
+          - heading "🎯 สิ่งที่จะได้รับ" [level=2] [ref=f1e5723]
+          - list [ref=f1e5724]:
+            - listitem [ref=f1e5725]: เรียงเชนมาสเตอร์พื้นฐาน (EQ → Glue → Saturation → Stereo → Limiter/Meter) ได้
+            - listitem [ref=f1e5726]: ใช้ EQ มาสเตอร์แบบขยับน้อย (1-2dB กว้างๆ) ได้
+            - listitem [ref=f1e5727]: ใช้ glue comp และ saturation เติมความเกาะ-อุ่นโดยไม่พังได้
+            - listitem [ref=f1e5728]: ปรับสเตอริโอภาพรวม (mono bass, side EQ) ได้อย่างปลอดภัย
+          - generic [ref=f1e5729]:
+            - heading "เชนมาสเตอร์ที่ดีคือเชนที่สั้น" [level=3] [ref=f1e5730]
+            - paragraph [ref=f1e5731]: โปรใช้แค่ 3-5 ตัว แต่แต่ละตัวขยับนิดเดียว บทนี้สอนเชนมาตรฐานที่ใช้ได้ทุกเพลง พร้อมจุดเริ่มต้นตัวเลขที่ปลอดภัย ไม่ต้องมีปลั๊กอินแพง ปลั๊กอินสต็อก FL Studio ก็ทำได้
+          - generic [ref=f1e5732]:
+            - figure "ภาพจำลองเพื่อการเรียนรู้ แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e5733]:
+              - img "แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e5734]:
+                - generic [ref=f1e5735]: WAVEFORM ก่อน ➜ หลัง (จำลอง)
+              - generic [ref=f1e5786]:
+                - generic [ref=f1e5787]: ภาพจำลองเพื่อการเรียนรู้
+                - text: แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้
+            - heading "ลำดับเชนมาตรฐาน" [level=2] [ref=f1e5788]
+          - generic [ref=f1e5789]:
+            - heading "Master chain 5 ขั้น" [level=4] [ref=f1e5790]
+            - table [ref=f1e5791]:
+              - rowgroup [ref=f1e5792]:
+                - row [ref=f1e5793]:
+                  - columnheader "ลำดับ" [ref=f1e5794]
+                  - columnheader "ตัว" [ref=f1e5795]
+                  - columnheader "หน้าที่ + จุดเริ่ม" [ref=f1e5796]
+              - rowgroup [ref=f1e5797]:
+                - row [ref=f1e5798]:
+                  - cell "1" [ref=f1e5799]
+                  - cell "EQ (corrective + tone)" [ref=f1e5800]
+                  - cell "ตัดขยะ + ปรับโทนกว้างๆ ±1-2dB" [ref=f1e5801]
+                - row [ref=f1e5802]:
+                  - cell "2" [ref=f1e5803]
+                  - cell "Glue compressor" [ref=f1e5804]
+                  - cell "Ratio 2:1 GR 1-2dB ให้เกาะ" [ref=f1e5805]
+                - row [ref=f1e5806]:
+                  - cell "3" [ref=f1e5807]
+                  - cell "Saturation / clipper เบา" [ref=f1e5808]
+                  - cell "เติม harmonic อุ่น/แน่น ชดเชยหลัง comp" [ref=f1e5809]
+                - row [ref=f1e5810]:
+                  - cell "4" [ref=f1e5811]
+                  - cell "Stereo (M/S EQ, mono bass)" [ref=f1e5812]
+                  - cell "Mono ต่ำกว่า 120-150Hz, side EQ เบาๆ" [ref=f1e5813]
+                - row [ref=f1e5814]:
+                  - cell "5" [ref=f1e5815]
+                  - cell "Limiter + Meter (บทถัดไป)" [ref=f1e5816]
+                  - cell "ดันดัง + วัด LUFS/true peak" [ref=f1e5817]
+          - 'heading "ขั้น 1: Master EQ (ขยับน้อยแต่ได้ยิน)" [level=2] [ref=f1e5819]'
+          - generic [ref=f1e5820]:
+            - heading [level=4]
+            - list [ref=f1e5821]:
+              - listitem [ref=f1e5822]: "Corrective ก่อน: high-pass 20-30Hz ชันน้อย (ตัด sub ที่ลำโพงไม่ไหว/กิน headroom)"
+              - listitem [ref=f1e5823]: "หาจุดขุ่นรวม: กว้างๆ cut 200-400Hz แค่ 1-1.5dB ถ้ามิกซ์หนา"
+              - listitem [ref=f1e5824]: "โทน: low-shelf/high-shelf ±1dB กว้างๆ (เช่น +1dB ที่ 10kHz ให้ air) อย่าบูสต์แคบเกิน Q แคบที่มาสเตอร์เสี่ยง resonance"
+              - listitem [ref=f1e5825]: "เทียบ level-matched ทุกครั้ง: EQ มาสเตอร์ที่ดังขึ้นจะหลอกว่าดีเสมอ"
+          - 'heading "ขั้น 2: Glue Compressor" [level=2] [ref=f1e5827]'
+          - paragraph [ref=f1e5829]: "Glue คือคอมเพรสเซอร์เบามากที่ทำให้ทั้งเพลงหายใจพร้อมกัน จุดเริ่มต้น: ratio 2:1, attack 30ms, release auto (หรือ ~100-200ms), gain reduction แค่ 1-2dB ช่วงฮุก ถ้าเข็ม GR แทบไม่ขยับ = ถูกทางแล้ว ถ้าขยับ 4dB+ = มากไป กลับไปลด"
+          - generic [ref=f1e5830]:
+            - figure "ภาพจำลองเพื่อการเรียนรู้ แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e5831]:
+              - img "แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e5832]:
+                - generic [ref=f1e5833]: WAVEFORM ก่อน ➜ หลัง (จำลอง)
+              - generic [ref=f1e5884]:
+                - generic [ref=f1e5885]: ภาพจำลองเพื่อการเรียนรู้
+                - text: แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้
+            - 'heading "ขั้น 3: Saturation (ความอุ่นที่ EQ ให้ไม่ได้)" [level=2] [ref=f1e5886]'
+          - paragraph [ref=f1e5888]: "Saturation เติม harmonic ให้เพลงรู้สึกแน่น อุ่น ดังขึ้นโดยพีคไม่ขึ้นมาก เหมาะกับเพลงที่ฟังว่าบาง/ดิจิทัลเกิน เริ่มเบามาก: drive 5-15% mix 10-30% (parallel) ฟังที่กลอง-เบสว่าแน่นขึ้นโดยแหลมไม่แตก ถ้าแตก/ขุ่น = มากไปแล้ว ใน FL Studio ใช้ Fruity Blood Overdrive / Fruity Waveshaper แบบเบา หรือ Soundgoodizer ที่ 10-20% ก็ได้"
+          - generic [ref=f1e5890]:
+            - generic [ref=f1e5891]: ภาพจำลองเพื่อการเรียนรู้ ไม่ใช่ภาพหน้าจอจริงของ FL Studio
+            - strong [ref=f1e5892]: "🖥️ ภาพจำลอง: เชนมาสเตอร์ใน Mixer"
+            - paragraph [ref=f1e5893]: "[Master Insert] 1.Fruity Parametric EQ 2 (HPF 25Hz + shelf ±1dB) ─> 2.Fruity Limiter COMP mode (2:1, GR 1-2dB) ─> 3.Blood Overdrive (drive เบา) ─> 4.Stereo Shaper (mono <150Hz) ─> 5.Limiter+Meter (บท d7l3)"
+          - generic [ref=f1e5894]:
+            - figure "ภาพจำลองเพื่อการเรียนรู้ แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e5895]:
+              - img "แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้" [ref=f1e5896]:
+                - generic [ref=f1e5897]: WAVEFORM ก่อน ➜ หลัง (จำลอง)
+              - generic [ref=f1e5948]:
+                - generic [ref=f1e5949]: ภาพจำลองเพื่อการเรียนรู้
+                - text: แผนภาพประกอบบท — ภาพจำลองเพื่อการเรียนรู้
+            - 'heading "ขั้น 4: สเตอริโอภาพรวมแบบปลอดภัย" [level=2] [ref=f1e5950]'
+          - generic [ref=f1e5951]:
+            - heading [level=4]
+            - list [ref=f1e5952]:
+              - listitem [ref=f1e5953]: "Mono bass: ทำให้ต่ำกว่า 120-150Hz เป็น mono (Fruity Stereo Shaper หรือ M/S EQ ตัด side ช่วงโลว์)"
+              - listitem [ref=f1e5954]: "Side EQ เบาๆ: ถ้าอยากกว้าง ลอง +0.5-1dB shelf ที่ side ช่วง 8kHz+ แทน widening ทั้งเพลง"
+              - listitem [ref=f1e5955]: "อย่าใส่ widener ที่มาสเตอร์เกิน 10-20%: เสี่ยงเฟส ให้กลับไปกว้างที่มิกซ์ดีกว่า"
+              - listitem [ref=f1e5956]: เช็ก mono หลังทำขั้นนี้ทุกครั้ง (ดูบท Day 5-6)
+          - generic [ref=f1e5958]:
+            - strong [ref=f1e5959]: ⚠️ อย่าซ้อนของแรงหลายตัว
+            - paragraph [ref=f1e5960]: EQ บูสต์ 4dB + comp กด 4dB + saturation หนัก + widener สุด + limiter ดันสุด = เพลงเละแต่ดัง ถ้ารู้สึกต้องทำเยอะขนาดนี้ ปัญหาอยู่ที่มิกซ์ ให้กลับไปแก้ มาสเตอร์ที่ดีควรรู้สึกว่า "แทบไม่ได้ทำอะไร แต่ดีขึ้นทุกอย่าง"
+          - generic [ref=f1e5962]:
+            - strong [ref=f1e5963]: 🎧 ตัวอย่างเชนเพลงป๊อป (จุดเริ่ม)
+            - paragraph [ref=f1e5964]: "EQ: HPF 25Hz, -1dB ที่ 300Hz Q กว้าง, +1dB high-shelf 10kHz | Glue: 2:1 attack 30ms GR 1.5dB | Sat: drive 10% mix 20% | Stereo: mono <130Hz | ทั้งหมด level-matched เทียบกับ bypass ก่อนส่งไป limiter"
+          - generic [ref=f1e5966]:
+            - strong [ref=f1e5967]: 💥 ข้อผิดพลาดที่พบบ่อย
+            - list [ref=f1e5968]:
+              - listitem [ref=f1e5969]: บูสต์แคบๆ ที่มาสเตอร์จน resonance โผล่ทุกระบบ
+              - listitem [ref=f1e5970]: Glue กดเกิน 3dB จนไดนามิก verse-hook หาย
+              - listitem [ref=f1e5971]: Mono bass สูงเกิน 250Hz จนเพลงแคบแบน
+          - generic [ref=f1e5973]:
+            - strong [ref=f1e5974]: "🔁 ก่อน-หลัง: มาสเตอร์แบบพอดี"
+            - paragraph [ref=f1e5975]: "ก่อน: เบา ขุ่นนิดๆ เบสซ้าย-ขวาไม่นิ่ง | หลัง: ดังใกล้เคียง reference โดยพีคไม่คลิป โทนชัดขึ้น 1 ระดับ เบสแน่นกลาง เพลงยังหายใจ verse-hook ต่างกัน"
+            - figure [ref=f1e5976]:
+              - img "beforeAfter" [ref=f1e5977]:
+                - generic [ref=f1e5978]:
+                  - generic [ref=f1e5983]: BEFORE
+                  - generic [ref=f1e5984]: PROCESS
+                  - generic [ref=f1e5985]: AFTER
+          - generic [ref=f1e5987]:
+            - strong [ref=f1e5988]: ✏️ ลองด้วยตัวเอง
+            - paragraph [ref=f1e5989]: เอาไฟล์พรีมาสเตอร์ตัวเอง ใส่แค่ EQ + glue ตามจุดเริ่มข้างบน เทียบ bypass แบบ level-matched ถ้าแยกไม่ออกว่าดีขึ้นอย่างไร ให้ถอดออก อย่าใส่มั่ว (ไม่มี = ดีกว่าไม่ดี)
+          - generic [ref=f1e5990]:
+            - generic [ref=f1e5991]:
+              - strong [ref=f1e5992]: 📌 สรุปบทนี้
+              - paragraph [ref=f1e5993]: เชนสั้น EQ(±1-2dB) → Glue(2:1 GR1-2dB) → Sat(เบา) → Stereo(mono bass 120-150Hz) แต่ละตัวขยับน้อย level-match ทุกขั้น เช็ก mono ท้ายสุด
+            - generic [ref=f1e5994]:
+              - 'button "💡 Common Mistakes: แก้มิกซ์ขุ่น: อย่าเริ่มด้วยการบูสต์แหลม" [ref=f1e5995] [cursor=pointer]'
+              - 'button "💡 Pro Tip: รับฟีดแบ็กแบบโปร: ถามให้ตรงจุด" [ref=f1e5996] [cursor=pointer]'
+          - heading "💡 เกร็ดความรู้ประจำบท (2)" [level=2] [ref=f1e5997]
+          - generic [ref=f1e5998]:
+            - 'button "รู้ไหม? แก้มิกซ์ขุ่น: อย่าเริ่มด้วยการบูสต์แหลม" [ref=f1e5999] [cursor=pointer]'
+            - 'button "รู้ไหม? รับฟีดแบ็กแบบโปร: ถามให้ตรงจุด" [ref=f1e6000] [cursor=pointer]'
+          - heading "📝 แบบทดสอบท้ายบท (2 ข้อ)" [level=2] [ref=f1e6001]
+          - generic [ref=f1e6002]:
+            - generic [ref=f1e6003]:
+              - strong [ref=f1e6004]: ข้อ 1. มิกซ์ฟังในห้องดี แต่บนมือถือเสียงร้องหาย เบสกลวง สาเหตุที่เป็นไปได้ที่สุดคือ?
+              - generic [ref=f1e6005]: วิเคราะห์สถานการณ์
+              - generic [ref=f1e6006]:
+                - button "มือถือเสีย" [ref=f1e6007] [cursor=pointer]
+                - button "มีปัญหเฟส/สเตอริโอกว้างเกิน หรือเนื้อกลางแหลมไม่พอ ทำให้เหลือแต่ย่านที่มือถือเล่นไม่ได้เมื่อรวม mono" [ref=f1e6008] [cursor=pointer]
+                - button "export ผิด bit depth" [ref=f1e6009] [cursor=pointer]
+                - button "tempo ผิด" [ref=f1e6010] [cursor=pointer]
+            - generic [ref=f1e6011]:
+              - strong [ref=f1e6012]: ข้อ 2. วิธีแก้มิกซ์ขุ่นแบบเป็นระบบคือข้อใด?
+              - generic [ref=f1e6013]: ตัวเลือก
+              - generic [ref=f1e6014]:
+                - button "บูสต์แหลมทั้งมาสเตอร์" [ref=f1e6015] [cursor=pointer]
+                - 'button "กลับไปไล่ทีละแทร็ก: high-pass ส่วนเกิน → carve จุดชน → เช็ก reverb/delay มากไปไหม → ฟังทั้งมิกซ์" [ref=f1e6016] [cursor=pointer]'
+                - button "ใส่ maximus กดหนักๆ" [ref=f1e6017] [cursor=pointer]
+                - button "เพิ่มวอลลุ่มรวม" [ref=f1e6018] [cursor=pointer]
+            - button "ส่งคำตอบ (0/2)" [ref=f1e6019] [cursor=pointer]
+          - heading "📚 อ่านต่อ & อ้างอิง" [level=2] [ref=f1e6020]
+          - list [ref=f1e6021]:
+            - listitem [ref=f1e6022]: "iZotope: Mastering chain order"
+            - listitem [ref=f1e6023]: "FL Studio Manual: Parametric EQ 2 / Stereo Shaper"
+            - listitem [ref=f1e6024]: Pensado Place — Master bus processing
+          - generic [ref=f1e6025]:
+            - link "◀ มาสเตอริงคืออะไร และเช็กพรีมาสเตอร์" [ref=f1e6026] [cursor=pointer]:
+              - /url: "#/lesson/d7l1"
+            - link "Limiting, LUFS, True Peak และ Crest ▶" [ref=f1e6027] [cursor=pointer]:
+              - /url: "#/lesson/d7l3"
+          - paragraph [ref=f1e6028]:
+            - text: "สไลด์ Day 7:"
+            - link "เปิดห้องสไลด์ (14 หน้า)" [ref=f1e6029] [cursor=pointer]:
+              - /url: "#/slides/7"
+            - text: "• เกร็ดทั้งหมดของวัน: 6 รายการ"
+  - contentinfo [ref=f1e445]:
+    - generic [ref=f1e446]:
+      - strong [ref=f1e447]: MIXLAB
+      - generic [ref=f1e448]: ห้องเรียน Mix & Mastering ภาษาไทย • FL Studio 25 • ภาพ UI ที่วาดใหม่เป็น “ภาพจำลองเพื่อการเรียนรู้” ไม่ใช่ภาพหน้าจอจริงของ Image-Line
+      - generic [ref=f1e449]: ความถูกต้องของความรู้ > คุณภาพการสอน > ใช้งานได้ > สวยงาม
